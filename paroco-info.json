@@ -1,0 +1,15 @@
+{
+  "image_url": "https://example.com/image.jpg",
+  "nome": "Padre Vandemir Alberto Araujo",
+  "nascimento": "15/03/1971",
+  "ordenacao_presbiteral": "07/12/2008",
+  "historico_profissional": {
+    "descricao": "Antes de ingressar no seminário, trabalhou nas áreas administrativa e de informática dos 11 aos 28 anos. Estava cursando faculdade de Processamento de Dados quando decidiu ir para o seminário. Ingressou no Seminário Propedêutico São José em Londrina, cursou Filosofia no Instituto Filosófico de Apucarana (IFA) e iniciou seus estudos em Teologia no Instituto Paulo VI, concluindo-os na PUC-PR, campus de Londrina. Dentro do exercício do ministério cursou faculdade de Psicologia."
+  },
+  "ministerio": {
+    "descricao": "Foi ordenado diácono em 4 de outubro de 2008 na Paróquia Militar São Miguel e Santo Expedito e sacerdote em 7 de dezembro de 2008, na Catedral Militar Rainha da Paz, em Brasília-DF. Trabalhou como vigário paroquial na Paróquia Militar São Miguel e Santo Expedito, em Brasília, de dezembro de 2008 até fevereiro de 2011, quando assumiu a função de vigário do Santuário Nossa Senhora Aparecida de Londrina e vice-ecônomo da Arquidiocese de Londrina. Em julho de 2011, foi nomeado pároco-reitor do Santuário. Em fevereiro de 2018, assumiu como pároco da Paróquia Nossa Senhora Auxiliadora, onde permaneceu até fevereiro de 2024. Foi presidente e também vice-presidente da Cáritas Arquidiocesana de Londrina de 2012 até junho de 2023. Esteve na função de ecônomo da Arquidiocese de julho de 2011 até fevereiro de 2024."
+  },
+  "nova_missao": {
+    "descricao": "Atualmente é assessor do Projeto Santuário da Vida e da Comunidade Cefas de Londrina. Em 18 de fevereiro de 2024, o Padre Vandemir assumiu como primeiro pároco da Paróquia Mãe da Divina Providência. Nessa data, a então Capela Mãe da Divina Providência foi elevada à categoria de paróquia. A elevação foi oficializada pelo Arcebispo Dom Geremias Steinmetz durante uma celebração eucarística no domingo, 18 de fevereiro, com a presença da comunidade. Na ocasião, o Padre Vandemir Araujo tomou posse como o primeiro pároco da recém-criada Paróquia Mãe da Divina Providência."
+  }
+}
