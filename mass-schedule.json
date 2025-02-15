@@ -1,0 +1,83 @@
+{
+  "regular_schedule": {
+    "weekdays": {
+      "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+      "masses": [
+        {
+          "time": "19:00",
+          "description": "Missa diária"
+        }
+      ]
+    },
+    "saturday": {
+      "masses": [
+        {
+          "time": "18:00",
+          "description": "Missa de sábado"
+        }
+      ]
+    },
+    "sunday": {
+      "masses": [
+        {
+          "time": "09:30",
+          "description": "Missa dominical"
+        },
+        {
+          "time": "11:30",
+          "description": "Missa dominical"
+        },
+        {
+          "time": "17:00",
+          "description": "Missa dominical"
+        },
+        {
+          "time": "19:00",
+          "description": "Missa dominical"
+        }
+      ]
+    }
+  },
+  "special_schedule": {
+    "first_friday": {
+      "frequency": "monthly",
+      "week_number": 1,
+      "weekday": "friday",
+      "events": [
+        {
+          "time": "19:00",
+          "description": "Missa e Novena ao Sagrado Coração de Jesus"
+        }
+      ]
+    },
+    "first_saturday": {
+      "frequency": "monthly",
+      "week_number": 1,
+      "weekday": "saturday",
+      "events": [
+        {
+          "time": "09:00",
+          "description": "Terço e Adoração"
+        },
+        {
+          "time": "10:00",
+          "description": "Santa Missa (Ato de Reparação ao Imaculado Coração de Maria)"
+        }
+      ]
+    }
+  },
+  "votive_masses": {
+    "saint_faustina": {
+      "day": 5,
+      "time": "19:00",
+      "description": "Missa Votiva de Santa Faustina",
+      "exceptions": ["saturday", "sunday"]
+    },
+    "saint_john_paul": {
+      "day": 22,
+      "time": "19:00",
+      "description": "Missa Votiva de São João Paulo II",
+      "exceptions": ["saturday", "sunday"]
+    }
+  }
+}
