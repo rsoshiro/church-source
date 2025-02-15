@@ -1,0 +1,33 @@
+{
+  "payment_methods": {
+    "pix": {
+      "title": "Chave PIX",
+      "options": [
+        {
+          "type": "phone",
+          "value": "(43) 99169-1434"
+        },
+        {
+          "type": "cnpj",
+          "value": "75.228.825/0095-47"
+        }
+      ]
+    },
+    "bank_transfer": {
+      "title": "Depósito ou Transferência Bancária",
+      "bank": "Sicredi",
+      "details": {
+        "agency": "0718",
+        "account": "48.823-7",
+        "holder": "Paróquia Mãe da Divina Providência",
+        "organization": "Mitra Arquidiocesana de Londrina"
+      }
+    }
+  },
+  "resources": {
+    "images": {
+      "pix_logo": "https://github.com/rsoshiro/church-source/blob/main/doa%C3%A7%C3%B5es-1.webp",
+      "sicredi_logo": "https://github.com/rsoshiro/church-source/blob/main/doa%C3%A7%C3%B5es-2.webpg"
+    }
+  }
+}
