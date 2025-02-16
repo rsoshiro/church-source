@@ -8,7 +8,7 @@
       "Certidão de casamento dos padrinhos"
     ],
     "informacoes_adicionais": "Para saber o prazo de entrega de documentação, taxas e outras informações, compareça em nossa Secretaria Paroquial.",
-    "imagem": "batizado-1"
+    "imagem": "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/batizado-1.webp"
   },
   "casamento": {
     "titulo": "Casamento e Legitimação",
