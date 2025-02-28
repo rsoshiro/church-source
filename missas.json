@@ -1,0 +1,35 @@
+{
+  "id": "missas",
+  "content_type": "schedule",
+  "title": "Horários de Missas",
+  "subtitle": "Celebrações",
+  "content": "Domingo: 9h30\nQuarta-feira: 19h30\nSexta-feira: 19h30",
+  "summary": "Domingo: 9h30\nQuarta-feira: 19h30\nSexta-feira: 19h30",
+  "image_url": "",
+  "all_images": [],
+  "content_elements": [
+    {
+      "type": "heading",
+      "content": "Horários de Missas",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Domingo: 9h30"
+    },
+    {
+      "type": "text",
+      "content": "Quarta-feira: 19h30"
+    },
+    {
+      "type": "text",
+      "content": "Sexta-feira: 19h30"
+    }
+  ],
+  "metadata": {
+    "parish": "Paróquia Mãe da Divina Providência",
+    "source_url": "https://mdprovidencia.com.br/horarios-de-missas/",
+    "type": "missas"
+  },
+  "display_mode": "schedule"
+}
