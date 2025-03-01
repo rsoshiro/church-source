@@ -1,35 +1,34 @@
 {
-  "id": "missas",
-  "content_type": "schedule",
-  "title": "Horários de Missas",
-  "subtitle": "Celebrações",
-  "content": "Domingo: 9h30\nQuarta-feira: 19h30\nSexta-feira: 19h30",
-  "summary": "Domingo: 9h30\nQuarta-feira: 19h30\nSexta-feira: 19h30",
-  "image_url": "",
-  "all_images": [],
-  "content_elements": [
-    {
-      "type": "heading",
-      "content": "Horários de Missas",
-      "level": 2
-    },
-    {
-      "type": "text",
-      "content": "Domingo: 9h30, 11h30, 17h e 19h"
-    },
-    {
-      "type": "text",
-      "content": "Quarta-feira: 19h30"
-    },
-    {
-      "type": "text",
-      "content": "Sexta-feira: 19h30"
-    }
-  ],
-  "metadata": {
-    "parish": "Paróquia Mãe da Divina Providência",
-    "source_url": "https://mdprovidencia.com.br/horarios-de-missas/",
-    "type": "missas"
+  "missa_regular": {
+    "segunda_a_sexta": "19:00",
+    "sabado": "18:00",
+    "domingo": ["09:30", "11:30", "17:00", "19:00"]
   },
-  "display_mode": "schedule"
+  "missa_especial": {
+    "primeira_sexta_do_mes": {
+      "hora": "19:00",
+      "descricao": "Missa e Novena ao Sagrado Coração de Jesus"
+    },
+    "primeiro_sabado_do_mes": {
+      "terco_e_adoracao": "09:00",
+      "santa_missa": {
+        "hora": "10:00",
+        "descricao": "Ato de Reparação ao Imaculado Coração de Maria"
+      }
+    },
+    "missa_votiva": [
+      {
+        "dia": 5,
+        "santo": "Santa Faustina",
+        "hora": "19:00",
+        "excecao": "Exceto sábados e domingos"
+      },
+      {
+        "dia": 22,
+        "santo": "São João Paulo II",
+        "hora": "19:00",
+        "excecao": "Exceto sábados e domingos"
+      }
+    ]
+  }
 }
