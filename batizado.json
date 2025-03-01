@@ -1,33 +1,12 @@
 {
-  "id": "batizado",
-  "content_type": "sacrament",
-  "title": "Nossa Senhora da Divina Providência",
-  "subtitle": "Batizado",
-  "content": "Documentação\n\nPara saber o prazo de entrega de documentação, taxas e outras informações, compareça em nossa Secretaria Paroquial",
-  "summary": "Documentação\n\nPara saber o prazo de entrega de documentação, taxas e outras informações, compareça em nossa Secretaria Paroquial",
-  "image_url": "https://assets.ofertorio.com/24/e28c23900b3c1df4f69ddeaed2b90545.jpg",
-  "all_images": [
-    "https://assets.ofertorio.com/24/e28c23900b3c1df4f69ddeaed2b90545.jpg"
-  ],
-  "content_elements": [
-    {
-      "type": "text",
-      "content": "Documentação"
+  "batizado": {
+    "foto": "https://assets.ofertorio.com/24/e28c23900b3c1df4f69ddeaed2b90545.jpg",
+    "documentacao": {
+      "registro_nascimento": "Registro de nascimento da crianca.",
+      "padrinhos": "Se os padrinhos forem solteiros, devem ter mais de 17 anos e o sacramento do crisma.",
+      "curso_batismo": "Comprovante do curso de batismo dos pais e padrinhos.",
+      "certidao_casamento": "Certidao de casamento dos padrinhos."
     },
-    {
-      "type": "text",
-      "content": "Para saber o prazo de entrega de documentação, taxas e outras informações, compareça em nossa Secretaria Paroquial"
-    },
-    {
-      "type": "image",
-      "url": "https://assets.ofertorio.com/24/e28c23900b3c1df4f69ddeaed2b90545.jpg",
-      "description": ""
-    }
-  ],
-  "metadata": {
-    "parish": "Paróquia Mãe da Divina Providência",
-    "source_url": "https://mdprovidencia.com.br/batizado/",
-    "type": "batizado"
-  },
-  "display_mode": "guide"
+    "informacoes_adicionais": "Para saber o prazo de entrega de documentacao, taxas e outras informacoes, compareca em nossa Secretaria Paroquial."
+  }
 }
