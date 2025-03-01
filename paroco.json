@@ -1,52 +1,9 @@
 {
-  "id": "paroco",
-  "content_type": "person",
-  "title": "Padre Vandemir Alberto Araujo",
-  "subtitle": "Pároco",
-  "content": "No âmbito profissional, antes de ingressar no seminário, trabalhou nas áreas administrativa e de informática, dos 11 a 28 anos. Estava cursando faculdade de Processamento de Dados, quando decidiu ir para o seminário.\n\nIngressou no Seminário Propedêutico São José em Londrina, cursou Filosofia no Instituto Filosófico de Apucarana (IFA) e iniciou seus estudos em Teologia no Instituto Paulo VI, concluindo-os na PUC-PR, campus de Londrina. Dentro do exercício do ministério cursou faculdade de Psicologia.\n\nFoi ordenado diácono em 4 de outubro de 2008 na Paróquia Militar São Miguel e Santo Expedito e sacerdote em 7 de dezembro de 2008, na Catedral Militar Rainha da Paz, em Brasília-DF. Trabalhou como vigário paroquial na Paróquia Militar São Miguel e Santo Expedito, em Brasília, de dezembro de 2008 até fevereiro de 2011, quando assumiu a função de vigário do Santuário Nossa Senhora Aparecida de Londrina e vice-ecônomo da Arquidiocese de Londrina. Em julho de 2011, foi nomeado pároco-reitor do Santuário. Em fevereiro de 2018, assumiu como pároco da Paróquia Nossa Senhora Auxiliadora, onde permaneceu até fevereiro de 2024. Foi presidente e também vice-presidente da Cáritas Arquidiocesana de Londrina de 2012 até junho de 2023. Esteve na função de ecônomo da Arquidiocese de julho de 2011 até fevereiro de 2024.\n\nAtualmente é assessor do Projeto Santuário da Vida e da Comunidade Cefas de Londrina.\n\nEm 18 de fevereiro de 2024, o Padre Vandemir assumiu como primeiro pároco da Paróquia Mãe da Divina Providência. Nessa data, a então Capela Mãe da Divina Providência foi elevada à categoria de paróquia.\n\nA elevação foi oficializada pelo Arcebispo Dom Geremias Steinmetz durante uma celebração eucarística no domingo, 18 de fevereiro, com a presença da comunidade. Na ocasião, o Padre Vandemir Araujo tomou posse como o primeiro pároco da recém-criada Paróquia Mãe da Divina Providência.",
-  "summary": "No âmbito profissional, antes de ingressar no seminário, trabalhou nas áreas administrativa e de informática, dos 11 a 28 anos. Estava cursando faculdade de Processamento de Dados, quando decidiu ir p...",
-  "image_url": "https://assets.ofertorio.com/24/372137c89580b6283c558072dfa78a01.jpeg",
-  "all_images": [
-    "https://assets.ofertorio.com/24/372137c89580b6283c558072dfa78a01.jpeg"
-  ],
-  "content_elements": [
-    {
-      "type": "image",
-      "url": "https://assets.ofertorio.com/24/372137c89580b6283c558072dfa78a01.jpeg",
-      "description": ""
-    },
-    {
-      "type": "text",
-      "content": "No âmbito profissional, antes de ingressar no seminário, trabalhou nas áreas administrativa e de informática, dos 11 a 28 anos. Estava cursando faculdade de Processamento de Dados, quando decidiu ir para o seminário."
-    },
-    {
-      "type": "text",
-      "content": "Ingressou no Seminário Propedêutico São José em Londrina, cursou Filosofia no Instituto Filosófico de Apucarana (IFA) e iniciou seus estudos em Teologia no Instituto Paulo VI, concluindo-os na PUC-PR, campus de Londrina. Dentro do exercício do ministério cursou faculdade de Psicologia."
-    },
-    {
-      "type": "text",
-      "content": "Foi ordenado diácono em 4 de outubro de 2008 na Paróquia Militar São Miguel e Santo Expedito e sacerdote em 7 de dezembro de 2008, na Catedral Militar Rainha da Paz, em Brasília-DF. Trabalhou como vigário paroquial na Paróquia Militar São Miguel e Santo Expedito, em Brasília, de dezembro de 2008 até fevereiro de 2011, quando assumiu a função de vigário do Santuário Nossa Senhora Aparecida de Londrina e vice-ecônomo da Arquidiocese de Londrina. Em julho de 2011, foi nomeado pároco-reitor do Santuário. Em fevereiro de 2018, assumiu como pároco da Paróquia Nossa Senhora Auxiliadora, onde permaneceu até fevereiro de 2024. Foi presidente e também vice-presidente da Cáritas Arquidiocesana de Londrina de 2012 até junho de 2023. Esteve na função de ecônomo da Arquidiocese de julho de 2011 até fevereiro de 2024."
-    },
-    {
-      "type": "text",
-      "content": "Atualmente é assessor do Projeto Santuário da Vida e da Comunidade Cefas de Londrina."
-    },
-    {
-      "type": "text",
-      "content": "Em 18 de fevereiro de 2024, o Padre Vandemir assumiu como primeiro pároco da Paróquia Mãe da Divina Providência. Nessa data, a então Capela Mãe da Divina Providência foi elevada à categoria de paróquia."
-    },
-    {
-      "type": "text",
-      "content": "A elevação foi oficializada pelo Arcebispo Dom Geremias Steinmetz durante uma celebração eucarística no domingo, 18 de fevereiro, com a presença da comunidade. Na ocasião, o Padre Vandemir Araujo tomou posse como o primeiro pároco da recém-criada Paróquia Mãe da Divina Providência."
-    }
-  ],
-  "metadata": {
-    "parish": "Paróquia Mãe da Divina Providência",
-    "source_url": "https://mdprovidencia.com.br/paroco/",
-    "type": "paroco",
-    "role": "Pároco",
-    "birth_date": "15/03/1971",
-    "ordination_date": "07/12/2008"
-  },
-  "display_mode": "profile"
+  "foto": "https://assets.ofertorio.com/24/372137c89580b6283c558072dfa78a01.jpeg",
+  "nome": "Padre Vandemir Alberto Araujo",
+  "nascimento": "15/03/1971",
+  "ordenacao_presbiteral": "07/12/2008",
+  "biografia": "Antes de ingressar no seminário, trabalhou nas áreas administrativa e de informática dos 11 aos 28 anos. Estava cursando Processamento de Dados quando decidiu seguir a vocação sacerdotal. Ingressou no Seminário Propedêutico São José em Londrina, cursou Filosofia no Instituto Filosófico de Apucarana (IFA) e Teologia no Instituto Paulo VI, concluindo na PUC-PR. Durante o ministério, também cursou Psicologia.",
+  "ministerio": "Foi ordenado diácono em 4 de outubro de 2008 na Paróquia Militar São Miguel e Santo Expedito e sacerdote em 7 de dezembro de 2008, na Catedral Militar Rainha da Paz, em Brasília-DF. Atuou como vigário paroquial em Brasília até 2011, quando assumiu o Santuário Nossa Senhora Aparecida de Londrina e a função de vice-ecônomo da Arquidiocese. Em 2018, tornou-se pároco da Paróquia Nossa Senhora Auxiliadora. Também presidiu a Cáritas Arquidiocesana de Londrina e foi ecônomo da Arquidiocese até fevereiro de 2024. Atualmente, é assessor do Projeto Santuário da Vida e da Comunidade Cefas de Londrina.",
+  "atual": "Em 18 de fevereiro de 2024, assumiu como primeiro pároco da Paróquia Mãe da Divina Providência, oficializada pelo Arcebispo Dom Geremias Steinmetz em celebração com a comunidade."
 }
