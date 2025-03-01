@@ -1,0 +1,24 @@
+{
+  "casamento": {
+    "documentacao": {
+      "identidade_nascimento": "Xerox da identidade ou certidao de nascimento.",
+      "batismo": "Comprovante de batismo: a certidao de batismo atualizada para fins matrimoniais deve ser solicitada na paroquia onde recebeu o sacramento. O documento tem validade de 6 meses.",
+      "casamento_civil": "Edital do civil ou comprovante de casamento no civil.",
+      "curso_noivos": "Comprovante do curso de noivos ou legitimacao.",
+      "residencia": "Comprovante de residencia.",
+      "testemunhas": "Uma pessoa de cada lado, com os seguintes dados: nome, endereco, telefone, estado civil, idade, cidade."
+    },
+    "procedimento": "O processo devera ser feito com 3 meses de antecedencia na paroquia do noivo ou da noiva.",
+    "contato": {
+      "telefone": {
+        "icone": "📞",
+        "numero": "(43) 3341-5226"
+      },
+      "whatsapp": {
+        "icone": "💬",
+        "numero": "(43) 99992-1434"
+      }
+    },
+    "informacoes_adicionais": "Mais informacoes em nossa Secretaria Paroquial."
+  }
+}
