@@ -1,5 +1,35 @@
 {
-  "image_top": "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/padroeira-1.webp",
-  "descricao": "A Nossa Senhora Mãe da Divina Providência, intercede a Deus por toda humanidade, e concede tudo que pedimos, e até o que não sabemos pedir, cuida de nós se invocarmos seu nome com fé e devoção. Providencia tudo que é necessário para a nossa vida, usando de meios que não conseguimos imaginar com a certeza de sermos agraciados como se fôssemos uma criança em seu colo.",
-  "image_bottom": "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/padroeira-2.webp"
+  "id": "padroeira",
+  "content_type": "devotion",
+  "title": "Nossa Senhora da Divina Providência",
+  "subtitle": "Padroeira",
+  "content": "A Nossa Senhora Mãe da Divina Providência, intercede a Deus por toda humanidade, e concede tudo que pedimos, e até o que não sabemos pedir, cuida de nós se invocarmos seu nome com fé e devoção. Providencia tudo que é necessário para a nossa vida, usando de meios que não conseguimos imaginar com a certeza de sermos agraciados como se fôssemos uma criança em seu colo.",
+  "summary": "A Nossa Senhora Mãe da Divina Providência, intercede a Deus por toda humanidade, e concede tudo que pedimos, e até o que não sabemos pedir, cuida de nós se invocarmos seu nome com fé e devoção. Provid...",
+  "image_url": "https://assets.ofertorio.com/24/3e7f9ff4ab1ba7998c6af8e6b2110cec.jpg",
+  "all_images": [
+    "https://assets.ofertorio.com/24/3e7f9ff4ab1ba7998c6af8e6b2110cec.jpg",
+    "https://assets.ofertorio.com/24/d890c3559d97b2be8eaf0bba8ad80e2c.jpg"
+  ],
+  "content_elements": [
+    {
+      "type": "image",
+      "url": "https://assets.ofertorio.com/24/3e7f9ff4ab1ba7998c6af8e6b2110cec.jpg",
+      "description": ""
+    },
+    {
+      "type": "text",
+      "content": "A Nossa Senhora Mãe da Divina Providência, intercede a Deus por toda humanidade, e concede tudo que pedimos, e até o que não sabemos pedir, cuida de nós se invocarmos seu nome com fé e devoção. Providencia tudo que é necessário para a nossa vida, usando de meios que não conseguimos imaginar com a certeza de sermos agraciados como se fôssemos uma criança em seu colo."
+    },
+    {
+      "type": "image",
+      "url": "https://assets.ofertorio.com/24/d890c3559d97b2be8eaf0bba8ad80e2c.jpg",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "parish": "Paróquia Mãe da Divina Providência",
+    "source_url": "https://mdprovidencia.com.br/padroeira/",
+    "type": "padroeira"
+  },
+  "display_mode": "article"
 }
