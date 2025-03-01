@@ -1,0 +1,29 @@
+{
+  "doacao": {
+    "titulo": "Doação",
+    "imagem": "https://assets.ofertorio.com/24/2fa487216dc01fadb5bce18197792001.png",
+    "pix": {
+      "chave": "00020126360014br.gov.bcb.pix0114752288250095475204000053039865802BR5925MITRA ARQUIDIOCESANA DE L6008Londrina610986010-12062280524OfertasDivinaProvidencia63045D4E",
+      "telefone": "(43) 99169-1434",
+      "cnpj": "75.228.825/0095-47"
+    },
+    "transferencia": {
+      "titulo": "Depósito ou Transferência Bancária",
+      "imagem": "https://assets.ofertorio.com/24/08b6db91e48015c39d04a040d509f57a.png",
+      "banco": "Sicredi",
+      "agencia": "0718",
+      "conta": "48.823-7",
+      "beneficiario": "Paróquia Mãe da Divina Providência",
+      "instituicao": "Mitra Arquidiocesana de Londrina"
+    }
+  },
+  "dizimo": {
+    "titulo": "Dízimo",
+    "imagem": "https://assets.ofertorio.com/24/f162a3ccbc8d9f30295bfdff57f60ced.png",
+    "descricao": "Junte-se à nossa comunidade de fé e amor, tornando-se um dizimista! Seu compromisso e contribuição nos ajudam a continuar nossa missão de amor e serviço. Entre em contato conosco através do botão abaixo e faça parte dessa corrente de solidariedade e esperança. Seu gesto faz a diferença!",
+    "botao": {
+      "imagem": "https://assets.ofertorio.com/24/b184609d80a79fb0ae9e63bb04718380.png",
+      "link": "https://api.whatsapp.com/send?phone=5543999921434&text=Ol%C3%A1!%20Quero%20ser%20um(a)%20dizimista.."
+    }
+  }
+}
