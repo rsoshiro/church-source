@@ -1,0 +1,35 @@
+{
+  "paroquia": {
+    "nome": "Paróquia Mãe da Divina Providência",
+    "endereco": {
+      "logradouro": "Rua José Nogueira Franco",
+      "numero": "435",
+      "bairro": "Parque Residencial Alcântara",
+      "cep": "86047-420"
+    },
+    "contato": {
+      "email": "pmdivinaprovidencia@gmail.com",
+      "telefone": "(43) 3341-5226",
+      "whatsapp": "(43) 99992-1434"
+    },
+    "horarios": {
+      "secretaria": [
+        {
+          "dias": "Terça a sexta",
+          "periodos": [
+            "8h às 11h30",
+            "13h30 às 18h"
+          ]
+        },
+        {
+          "dias": "Sábado",
+          "periodos": [
+            "8h30 às 12h"
+          ]
+        }
+      ]
+    },
+    "imagem": "https://assets.ofertorio.com/24/dbb7eda38d6feccc04efe1b78cb47fd3.jpg",
+    "assuntos": "pastorais"
+  }
+}
