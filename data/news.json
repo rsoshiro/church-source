@@ -1,0 +1,12 @@
+{
+  "news": [
+    {
+      "title": "Sample News Article",
+      "date": "2025-03-01",
+      "content": "This is a sample news article for testing purposes",
+      "image": "images/news/sample-news.jpg",
+      "url": "https://mdprovidencia.com.br/sample-news"
+    }
+  ],
+  "last_updated": "2025-03-02T09:50:00"
+} 
