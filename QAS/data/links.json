@@ -1,0 +1,50 @@
+﻿{
+  "last_update": "2025-04-11T06:56:47.837551",
+  "links": [
+    {
+      "url": "https://forms.gle/oFFt4dW4ncwiVoen6",
+      "title": "Offt4Dw4Ncwivoen6",
+      "type": "web"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfIAFu15SNr_LcXDIR1oEhHjY5fYpRhpodnT6SrlFCJ21kAoQ/viewform",
+      "title": "Formulário Google",
+      "type": "google_form"
+    },
+    {
+      "url": "https://bit.ly/mdprovidencia",
+      "title": "Mdprovidencia",
+      "type": "web"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScr1b--4O-1XSVSHaqpjS2GUrQxN5bBZloIyxe75GcQZgIAVA/viewform?pli=1",
+      "title": "Formulário Google",
+      "type": "google_form"
+    },
+    {
+      "url": "https://forms.gle/7qnCYSUVfu4fdp13A",
+      "title": "7Qncysuvfu4Fdp13A",
+      "type": "web"
+    },
+    {
+      "url": "https://mdprovidencia.com.br/doacao/",
+      "title": "Fazer Doação",
+      "type": "web"
+    },
+    {
+      "url": "https://mdprovidencia.com.br/horarios-de-missas/",
+      "title": "Horários de Missas",
+      "type": "web"
+    },
+    {
+      "url": "https://maps.app.goo.gl/iKKLFFCZz3aqKsFH8",
+      "title": "Localização no Google Maps",
+      "type": "map"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5543999921434&text=Olá!%20Preciso%20de%20uma%20informação",
+      "title": "Contato via WhatsApp",
+      "type": "whatsapp"
+    }
+  ]
+}
