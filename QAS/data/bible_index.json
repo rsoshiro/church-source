@@ -1,0 +1,523 @@
+﻿{
+  "last_update": "2025-04-11T20:13:40.358181",
+  "source_url": "https://mdprovidencia.com.br/biblia-online/",
+  "books": {
+    "Antigo Testamento": [
+      {
+        "name": "Gênesis",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 31,
+        "file": "gênesis.json"
+      },
+      {
+        "name": "Êxodo",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "êxodo.json"
+      },
+      {
+        "name": "Levítico",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 17,
+        "file": "levítico.json"
+      },
+      {
+        "name": "Números",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 54,
+        "file": "números.json"
+      },
+      {
+        "name": "Deuteronômio",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 46,
+        "file": "deuteronômio.json"
+      },
+      {
+        "name": "Josué",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "josué.json"
+      },
+      {
+        "name": "Juízes",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 36,
+        "file": "juízes.json"
+      },
+      {
+        "name": "Rute",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "rute.json"
+      },
+      {
+        "name": "I Samuel",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 28,
+        "file": "i_samuel.json"
+      },
+      {
+        "name": "II Samuel",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 27,
+        "file": "ii_samuel.json"
+      },
+      {
+        "name": "I Reis",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 53,
+        "file": "i_reis.json"
+      },
+      {
+        "name": "II Reis",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "ii_reis.json"
+      },
+      {
+        "name": "I Crônicas",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 53,
+        "file": "i_crônicas.json"
+      },
+      {
+        "name": "II Crônicas",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "ii_crônicas.json"
+      },
+      {
+        "name": "Esdras",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 11,
+        "file": "esdras.json"
+      },
+      {
+        "name": "Neemias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 11,
+        "file": "neemias.json"
+      },
+      {
+        "name": "Ester",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "ester.json"
+      },
+      {
+        "name": "Jó",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "jó.json"
+      },
+      {
+        "name": "Salmos",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 6,
+        "file": "salmos.json"
+      },
+      {
+        "name": "Provérbios",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 33,
+        "file": "provérbios.json"
+      },
+      {
+        "name": "Eclesiastes",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "eclesiastes.json"
+      },
+      {
+        "name": "Cântico dos Cânticos",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 17,
+        "file": "cântico_dos_cânticos.json"
+      },
+      {
+        "name": "Isaías",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 31,
+        "file": "isaías.json"
+      },
+      {
+        "name": "Jeremias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 19,
+        "file": "jeremias.json"
+      },
+      {
+        "name": "Lamentações",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "lamentações.json"
+      },
+      {
+        "name": "Ezequiel",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 28,
+        "file": "ezequiel.json"
+      },
+      {
+        "name": "Daniel",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 21,
+        "file": "daniel.json"
+      },
+      {
+        "name": "Oséias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 9,
+        "file": "oséias.json"
+      },
+      {
+        "name": "Joel",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 20,
+        "file": "joel.json"
+      },
+      {
+        "name": "Amós",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 15,
+        "file": "amós.json"
+      },
+      {
+        "name": "Abdias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 21,
+        "file": "abdias.json"
+      },
+      {
+        "name": "Jonas",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 15,
+        "file": "jonas.json"
+      },
+      {
+        "name": "Miquéias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 16,
+        "file": "miquéias.json"
+      },
+      {
+        "name": "Naum",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 14,
+        "file": "naum.json"
+      },
+      {
+        "name": "Habacuc",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 17,
+        "file": "habacuc.json"
+      },
+      {
+        "name": "Sofonias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "sofonias.json"
+      },
+      {
+        "name": "Ageu",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 15,
+        "file": "ageu.json"
+      },
+      {
+        "name": "Zacarias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 17,
+        "file": "zacarias.json"
+      },
+      {
+        "name": "Malaquias",
+        "category": "Antigo Testamento",
+        "chapters_count": 1,
+        "verses_count": 14,
+        "file": "malaquias.json"
+      }
+    ],
+    "Novo Testamento": [
+      {
+        "name": "São Mateus",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 25,
+        "file": "são_mateus.json"
+      },
+      {
+        "name": "São Marcos",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 45,
+        "file": "são_marcos.json"
+      },
+      {
+        "name": "São Lucas",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 80,
+        "file": "são_lucas.json"
+      },
+      {
+        "name": "São João",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 51,
+        "file": "são_joão.json"
+      },
+      {
+        "name": "Atos dos Apóstolos",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 26,
+        "file": "atos_dos_apóstolos.json"
+      },
+      {
+        "name": "Romanos",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 32,
+        "file": "romanos.json"
+      },
+      {
+        "name": "I Coríntios",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 31,
+        "file": "i_coríntios.json"
+      },
+      {
+        "name": "II Coríntios",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 24,
+        "file": "ii_coríntios.json"
+      },
+      {
+        "name": "Gálatas",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 23,
+        "file": "gálatas.json"
+      },
+      {
+        "name": "Efésios",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 23,
+        "file": "efésios.json"
+      },
+      {
+        "name": "Filipenses",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 30,
+        "file": "filipenses.json"
+      },
+      {
+        "name": "Colossenses",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 29,
+        "file": "colossenses.json"
+      },
+      {
+        "name": "I Tessalonicenses",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 10,
+        "file": "i_tessalonicenses.json"
+      },
+      {
+        "name": "II Tessalonicenses",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 12,
+        "file": "ii_tessalonicenses.json"
+      },
+      {
+        "name": "I Timóteo",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 20,
+        "file": "i_timóteo.json"
+      },
+      {
+        "name": "II Timóteo",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 18,
+        "file": "ii_timóteo.json"
+      },
+      {
+        "name": "Tito",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 16,
+        "file": "tito.json"
+      },
+      {
+        "name": "Filêmon",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 25,
+        "file": "filêmon.json"
+      },
+      {
+        "name": "Hebreus",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 14,
+        "file": "hebreus.json"
+      },
+      {
+        "name": "São Tiago",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 27,
+        "file": "são_tiago.json"
+      },
+      {
+        "name": "I São Pedro",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 24,
+        "file": "i_são_pedro.json"
+      },
+      {
+        "name": "II São Pedro",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 21,
+        "file": "ii_são_pedro.json"
+      },
+      {
+        "name": "I São João",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 10,
+        "file": "i_são_joão.json"
+      },
+      {
+        "name": "II São João",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 13,
+        "file": "ii_são_joão.json"
+      },
+      {
+        "name": "III São João",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 15,
+        "file": "iii_são_joão.json"
+      },
+      {
+        "name": "São Judas",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 25,
+        "file": "são_judas.json"
+      },
+      {
+        "name": "Apocalipse",
+        "category": "Novo Testamento",
+        "chapters_count": 1,
+        "verses_count": 20,
+        "file": "apocalipse.json"
+      }
+    ],
+    "Livros Deuterocanônicos": [
+      {
+        "name": "Tobias",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 25,
+        "file": "tobias.json"
+      },
+      {
+        "name": "Judite",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 12,
+        "file": "judite.json"
+      },
+      {
+        "name": "I Macabeus",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 64,
+        "file": "i_macabeus.json"
+      },
+      {
+        "name": "II Macabeus",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 36,
+        "file": "ii_macabeus.json"
+      },
+      {
+        "name": "Sabedoria",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 16,
+        "file": "sabedoria.json"
+      },
+      {
+        "name": "Eclesiástico",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 40,
+        "file": "eclesiástico.json"
+      },
+      {
+        "name": "Baruc",
+        "category": "Livros Deuterocanônicos",
+        "chapters_count": 1,
+        "verses_count": 22,
+        "file": "baruc.json"
+      }
+    ]
+  }
+}
