@@ -1,0 +1,377 @@
+﻿{
+  "last_update": "2025-04-11T20:14:18.080850",
+  "source_url": "https://mdprovidencia.com.br/biblia-online/",
+  "bible_books": {
+    "Antigo Testamento": [
+      {
+        "name": "Gênesis",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/gn/"
+      },
+      {
+        "name": "Êxodo",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/êx/"
+      },
+      {
+        "name": "Levítico",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/lv/"
+      },
+      {
+        "name": "Números",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/nm/"
+      },
+      {
+        "name": "Deuteronômio",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/dt/"
+      },
+      {
+        "name": "Josué",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/js/"
+      },
+      {
+        "name": "Juízes",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jz/"
+      },
+      {
+        "name": "Rute",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/rt/"
+      },
+      {
+        "name": "I Samuel",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1sm/"
+      },
+      {
+        "name": "II Samuel",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2sm/"
+      },
+      {
+        "name": "I Reis",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1rs/"
+      },
+      {
+        "name": "II Reis",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2rs/"
+      },
+      {
+        "name": "I Crônicas",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1cr/"
+      },
+      {
+        "name": "II Crônicas",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2cr/"
+      },
+      {
+        "name": "Esdras",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ed/"
+      },
+      {
+        "name": "Neemias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ne/"
+      },
+      {
+        "name": "Ester",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/et/"
+      },
+      {
+        "name": "Jó",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jó/"
+      },
+      {
+        "name": "Salmos",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/sl/"
+      },
+      {
+        "name": "Provérbios",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/pv/"
+      },
+      {
+        "name": "Eclesiastes",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ec/"
+      },
+      {
+        "name": "Cântico dos Cânticos",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ct/"
+      },
+      {
+        "name": "Isaías",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/is/"
+      },
+      {
+        "name": "Jeremias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jr/"
+      },
+      {
+        "name": "Lamentações",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/lm/"
+      },
+      {
+        "name": "Ezequiel",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ez/"
+      },
+      {
+        "name": "Daniel",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/dn/"
+      },
+      {
+        "name": "Oséias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/os/"
+      },
+      {
+        "name": "Joel",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jl/"
+      },
+      {
+        "name": "Amós",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/am/"
+      },
+      {
+        "name": "Abdias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ab/"
+      },
+      {
+        "name": "Jonas",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jn/"
+      },
+      {
+        "name": "Miquéias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/mq/"
+      },
+      {
+        "name": "Naum",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/na/"
+      },
+      {
+        "name": "Habacuc",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/hc/"
+      },
+      {
+        "name": "Sofonias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/sf/"
+      },
+      {
+        "name": "Ageu",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ag/"
+      },
+      {
+        "name": "Zacarias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/zc/"
+      },
+      {
+        "name": "Malaquias",
+        "category": "Antigo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ml/"
+      }
+    ],
+    "Novo Testamento": [
+      {
+        "name": "São Mateus",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/mt/"
+      },
+      {
+        "name": "São Marcos",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/mc/"
+      },
+      {
+        "name": "São Lucas",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/lc/"
+      },
+      {
+        "name": "São João",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jo/"
+      },
+      {
+        "name": "Atos dos Apóstolos",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/at/"
+      },
+      {
+        "name": "Romanos",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/rm/"
+      },
+      {
+        "name": "I Coríntios",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1co/"
+      },
+      {
+        "name": "II Coríntios",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2co/"
+      },
+      {
+        "name": "Gálatas",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/gl/"
+      },
+      {
+        "name": "Efésios",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ef/"
+      },
+      {
+        "name": "Filipenses",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/fp/"
+      },
+      {
+        "name": "Colossenses",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/cl/"
+      },
+      {
+        "name": "I Tessalonicenses",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1ts/"
+      },
+      {
+        "name": "II Tessalonicenses",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2ts/"
+      },
+      {
+        "name": "I Timóteo",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1tn/"
+      },
+      {
+        "name": "II Timóteo",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2tm/"
+      },
+      {
+        "name": "Tito",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/tt/"
+      },
+      {
+        "name": "Filêmon",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/fm/"
+      },
+      {
+        "name": "Hebreus",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/hb/"
+      },
+      {
+        "name": "São Tiago",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/tg/"
+      },
+      {
+        "name": "I São Pedro",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1pe/"
+      },
+      {
+        "name": "II São Pedro",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2pe/"
+      },
+      {
+        "name": "I São João",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/1jo/"
+      },
+      {
+        "name": "II São João",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/2jo/"
+      },
+      {
+        "name": "III São João",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/3jo/"
+      },
+      {
+        "name": "São Judas",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/jd/"
+      },
+      {
+        "name": "Apocalipse",
+        "category": "Novo Testamento",
+        "url": "https://mdprovidencia.com.br/biblia-online/ap/"
+      }
+    ],
+    "Livros Deuterocanônicos": [
+      {
+        "name": "Tobias",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/tb/"
+      },
+      {
+        "name": "Judite",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/jt/"
+      },
+      {
+        "name": "I Macabeus",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/imc/"
+      },
+      {
+        "name": "II Macabeus",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/iimc/"
+      },
+      {
+        "name": "Sabedoria",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/sb/"
+      },
+      {
+        "name": "Eclesiástico",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/eclo/"
+      },
+      {
+        "name": "Baruc",
+        "category": "Livros Deuterocanônicos",
+        "url": "https://mdprovidencia.com.br/biblia-online/br/"
+      }
+    ]
+  }
+}

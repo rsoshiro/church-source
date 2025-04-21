@@ -1,0 +1,99 @@
+{
+  "titulo": "Pastoral Familiar",
+  "descricao": "A nossa família é a melhor de todas, pois nela eu posso intervir. Nas outras serei somente um intruso ou juiz… A minha família tem alegrias e tristezas como a de qualquer outro, mas também tem a semente da fraternidade, do amor gratuito e o exercício da partilha e da vida comunitária.",
+  "mensagem": {
+    "citacao": "O nosso sacerdote, o padre Limeira, já dizia: 'a melhor Família é a minha'. E é verdade.",
+    "paragrafos": [
+      "É exatamente na perspectiva comunitária que a Pastoral Familiar pretende atuar. Mesmo durante este ambiente de pandemia. A nossa palavra de ordem é acompanhar!",
+      "Formando pequenos grupos de poucas pessoas podemos realizar um trabalho decidido e dedicado à formação dos jovens para a vida matrimonial; acompanhamento dos casais jovens que contraíram matrimônio, para ajudá-los a cumprirem sua missão; levar casais unidos em uniões de fato à graça do Sacramento do Matrimônio; acompanhamento e orientações às famílias acerca da paternidade e maternidade responsáveis, o cuidado, educação e promoção das crianças e adolescentes; acompanhamento das famílias em crise e em dificuldades; acompanhamento e cuidado carinhoso com os idosos; incentivo à ação evangelizadora da família entre as outras famílias da comunidade.",
+      "Estamos seguros de poder oferecer agentes de pastoral familiar vocacionados e bem preparados para que as nossas ações de acompanhamento não se revistam de improvisações e transmissão de valores e doutrinas diferentes daquela que a Igreja e seu Magistério indicam para que as famílias sejam a primeira escola das virtudes humanas, sociais e cristãs, portal da fé, lugar privilegiado para despertar, viver, e fazer crescer vocações e carismas.",
+      "Que a Sagrada Família de Nazaré nos ajude nesse propósito e missão."
+    ]
+  },
+  "coordenacao": {
+    "principal": [
+      {
+        "cargo": "Coordenação",
+        "nomes": "Renato e Laura",
+        "contatos": ["(43) 9.9145.8123", "(43) 9.9165.7946"]
+      },
+      {
+        "cargo": "Vice-coordenação",
+        "nomes": "Zé e Sílvia",
+        "contatos": ["(43) 9.9991.2109", "(43) 9.9981.5747"]
+      }
+    ]
+  },
+  "setores": [
+    {
+      "nome": "Para preparação para a vida matrimonial",
+      "equipe": [
+        {
+          "cargo": "Coordenação",
+          "nomes": "André e Ana Paula",
+          "contatos": ["(43) 9.9833.6010", "(43) 9.9833.6090"]
+        },
+        {
+          "cargo": "Setor Juventude",
+          "nomes": "Wagner e Carol",
+          "contatos": ["(43) 9.9912.2523", "(43) 9.9945.1807"]
+        },
+        {
+          "cargo": "Celebrações",
+          "nomes": "Filipe e Larissa",
+          "contatos": ["(43) 9.9108.2006", "(43) 9.9191.1229"]
+        }
+      ]
+    },
+    {
+      "nome": "Para acompanhamento de Casais",
+      "equipe": [
+        {
+          "cargo": "Coordenação",
+          "nomes": "Carlos e Vânia",
+          "contatos": ["(43) 9.9993.9741"]
+        },
+        {
+          "cargo": "Recém-casados",
+          "nomes": "Neto e Najla",
+          "contatos": ["(43) 9.9903.6485", "(43) 9.9975.0525"]
+        },
+        {
+          "cargo": "Catequese Familiar",
+          "nomes": "André e Vanessa",
+          "contatos": ["(43) 9.9975.0332", "(43) 9.9975.0374"]
+        },
+        {
+          "cargo": "Acompanhamento de Idosos",
+          "nomes": "Genilda",
+          "contatos": ["(43) 9.9993.9322"]
+        }
+      ]
+    },
+    {
+      "nome": "Para Casos Especiais",
+      "equipe": [
+        {
+          "cargo": "Coordenação",
+          "nomes": "Sebastião e Marina",
+          "contatos": ["(43) 9.9957.9268", "(43) 9.9957.9281"]
+        },
+        {
+          "cargo": "Legitimação matrimonial",
+          "nomes": "Douglas e Renata",
+          "contatos": ["(43) 9.9911.5800", "(43) 9.9955.6555"]
+        },
+        {
+          "cargo": "Famílias em Crise",
+          "nomes": "André e Vanessa",
+          "contatos": ["(43) 9.9975.0332", "(43) 9.9975.0374"]
+        },
+        {
+          "cargo": "Casais Segunda União",
+          "nomes": "Zé e Sílvia",
+          "contatos": ["(43) 9.9991.2109", "(43) 9.9981.5747"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "batizado": {
+    "titulo": "Batizado",
+    "documentacao": [
+      "Registro de nascimento da criança",
+      "Se os padrinhos forem solteiros devem ter mais de 17 anos e o sacramento do crisma",
+      "Comprovante do curso de batismo dos pais e padrinhos",
+      "Certidão de casamento dos padrinhos"
+    ],
+    "informacoes_adicionais": "Para saber o prazo de entrega de documentação, taxas e outras informações, compareça em nossa Secretaria Paroquial.",
+    "imagem": "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/batizado-1.webp"
+  },
+  "casamento": {
+    "titulo": "Casamento e Legitimação",
+    "documentacao": [
+      "Xerox da identidade ou certidão de nascimento",
+      "Comprovante de batismo: a certidão de batismo atualizada para fins matrimoniais deve ser solicitada na paróquia onde recebeu o sacramento. O documento tem validade de 6 meses",
+      "Edital do civil ou comprovante de casamento no civil",
+      "Comprovante do curso de noivos ou legitimação",
+      "Comprovante de residência",
+      "Testemunhas: uma pessoa de cada lado, com os seguintes dados: nome, endereço, telefone, estado civil, idade, cidade"
+    ],
+    "prazo": "O processo deverá ser feito com 3 meses de antecedência na paróquia do noivo ou da noiva.",
+    "contato": {
+      "telefone": "(43) 3341-5226",
+      "whatsapp": "(43) 99992-1434"
+    },
+    "informacoes_adicionais": "Mais informações em nossa Secretaria Paroquial."
+  },
+  "celebracoes": {
+    "titulo": "Celebrações",
+    "eventos": [
+      {
+        "nome": "Grupo de Oração Jesus Eucarístico",
+        "dia": "Terça-feira",
+        "horario": "19h30"
+      },
+      {
+        "nome": "Catequese Familiar",
+        "dia": "Sábado",
+        "horario": "10h"
+      },
+      {
+        "nome": "Coral Infantil",
+        "dia": "Sábado",
+        "horario": "14h"
+      },
+      {
+        "nome": "Coroinhas",
+        "dia": "Sábado",
+        "horario": "15h"
+      },
+      {
+        "nome": "Terço dos Homens",
+        "dia": "Sexta-feira",
+        "frequencia": "A cada 15 dias"
+      }
+    ]
+  }
+}

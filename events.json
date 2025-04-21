@@ -1,0 +1,41 @@
+{
+  "eventos": {
+    "1": {
+      "titulo": "Adoração Silenciosa com momentos de oração",
+      "data": "20/02",
+      "hora_inicio": "09:00",
+      "duracao": "10h 00m",
+      "descricao": "Vamos adorar Jesus no Santíssimo Sacramento do Altar?",
+      "local": {
+        "nome": "Paróquia Mãe da Divina Providência",
+        "endereco": "Rua José Nogueira Franco, 435"
+      },
+      "programacao": [
+        {
+          "horario": "09:00",
+          "atividade": "Exposição com breves atos e cantos de louvores"
+        },
+        {
+          "horario": "12:00",
+          "atividade": "Angelus / Liturgia das Horas"
+        },
+        {
+          "horario": "15:00",
+          "atividade": "Terço da Misericórdia"
+        },
+        {
+          "horario": "18:00",
+          "atividade": "Terço Mariano"
+        },
+        {
+          "horario": "19:00",
+          "atividade": "Santa Missa"
+        }
+      ],
+      "redes_sociais": {
+        "instagram": "@paroquiamdprovidencia",
+        "site": "www.mdprovidencia.com.br"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "celebracoes": [
+    {
+      "nome": "GRUPO DE ORAÇÃO JESUS EUCARÍSTICO",
+      "dia": "Terça-feira",
+      "horario": "19h30"
+    },
+    {
+      "nome": "CATEQUESE FAMILIAR",
+      "dia": "Sábado",
+      "horario": "10h"
+    },
+    {
+      "nome": "CORAL INFANTIL",
+      "dia": "Sábado",
+      "horario": "14h"
+    },
+    {
+      "nome": "COROINHAS",
+      "dia": "Sábado",
+      "horario": "15h"
+    },
+    {
+      "nome": "TERÇO DOS HOMENS",
+      "dia": "Sexta-feira",
+      "frequencia": "a cada 15 dias"
+    }
+  ]
+}

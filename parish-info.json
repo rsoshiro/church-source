@@ -1,0 +1,46 @@
+{
+  "nome": "PARÓQUIA MÃE DA DIVINA PROVIDÊNCIA",
+  "endereco": {
+    "rua": "Rua José Nogueira Franco",
+    "numero": "435",
+    "bairro": "Parque Res. Alcantara",
+    "cep": "86047-420"
+  },
+  "contato": {
+    "email": "pmdivinaprovidencia@gmail.com",
+    "assuntos_pastorais": {
+      "telefone": "(43) 3341-5226",
+      "whatsapp": "(43) 99992-1434"
+    },
+    "assuntos_administrativos": {
+      "descricao": "Assuntos administrativos, financeiros, dizimo, metro quadrado"
+    }
+  },
+  "expediente": {
+    "dias_uteis": {
+      "dias": "TERÇA A SEXTA",
+      "horarios": [
+        {
+          "periodo": "manhã",
+          "inicio": "8:00",
+          "fim": "11:30"
+        },
+        {
+          "periodo": "tarde",
+          "inicio": "13:30",
+          "fim": "18:00"
+        }
+      ]
+    },
+    "sabado": {
+      "dia": "SÁBADO",
+      "horarios": [
+        {
+          "periodo": "manhã",
+          "inicio": "8:00",
+          "fim": "11:30"
+        }
+      ]
+    }
+  }
+}

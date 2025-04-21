@@ -1,0 +1,27 @@
+{
+  "parish": {
+    "name": "Paróquia Mãe da Divina Providência",
+    "location": "Zona Sul de Londrina",
+    "dedication": "Devoção a Nossa Senhora Mãe da Divina Providência",
+    "history": {
+      "fullText": "A comunidade se orgulha de ser uma Paróquia Mariana, dedicada à “Providência Divina”, um termo que se refere à ação direta de Deus na humanidade. A devoção a Nossa Senhora Mãe da Divina Providência surgiu em um período de grandes transformações na Igreja, um contexto similar ao atual, que nos convida a viver em missão permanente e a formar comunidades.\n\nA paróquia tem como co-padroeira a Serva de Deus Madre Leonia Milito, cuja obra missionária se estende por cinco continentes. Sua trajetória de santidade nos inspira a buscar coerência entre fé e missão.\n\nA escolha do nome da comunidade foi interpretada como um sinal divino. Após a chegada do Pe. Joel à Paróquia São Vicente de Paulo, ocorreu a morte do Pe. Luiz Dotto. O bispo designou dois padres, incluindo o Pe. Joel Medeiros, para organizar os pertences do Pe. Luiz, que havia legado sua casa à Arquidiocese de Londrina. Originalmente chamada “Capela da Divina Providência”, a denominação foi alterada para “Capela Mãe da Divina Providência” após a descoberta de um azulejo com a imagem de Nossa Senhora e o título “Madre della Divina Provvidenza” pelo Pe. Joel, coincidindo com a imagem já venerada.\n\nCriada Paróquia Mãe da Divina Providência, na zona sul de Londrina Somos a paróquia de número 84 da arquidiocese de Londrina. Sua elevação foi oficializada pelo arcebispo dom Geremias Steinmetz numa celebração eucarística, no domingo, 18 de fevereiro, com a presença da comunidade. Na ocasião, tomou posse o primeiro pároco, padre Vandemir Araujo.\n\nA nova paróquia se desmembra da Paróquia São Vicente de Paulo. Seu templo foi construído em 2017 em um terreno adquirido pela São Vicente em 2005 já com o intuito de que ali funcionasse uma futura paróquia. “É muito bonito esse processo histórico em que as pessoas vão se envolvendo, vão se comprometendo e vão realizando verdadeiramente sonhos no sentido de fazer uma igreja crescer, se desenvolver, para ser um sinal muito concreto da fé no lugar onde as pessoas vivem”, explicou o arcebispo.\n\nEsta é a primeira paróquia criada por dom Geremias nos seus quase 13 anos de episcopado. “Eu não havia criado nenhuma paróquia, portanto é aqui o lugar, a diocese em que criei a primeira paróquia, pode-se dizer assim que é uma filha que nasce e quero desejar que a Paróquia Mae da Divina Providência vá muito bem, consiga viver bem a fé e ser verdadeiramente um espaço de evangelização muito bonito e concreto”, desejou o arcebispo.\n\nNasce pequena\n\nSegundo dom Geremias, uma comunidade católica geralmente nasce muito pequena, com lideranças que começam a realizar ações como reuniões de famílias, oração e organização comunitária. “E assim vão crescendo no sonho de construir uma comunidade, foi o que aconteceu com essa paróquia… Então quero me alegrar com a agora Paróquia Mãe da Divina Providência por tudo aquilo que conseguiram e pelo belo exemplo que deram do valor da fé, de como é possível se reunir através da fé, para ver como é possível acontecer coisas bonitas como é o caso da construção de uma igreja e agora a criação da paróquia que trouxe mais alegria para o povo daquela região”, conclui dom Geremias."
+    },
+    "media": {
+      "highlightPhoto": "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-7.webp",
+      "gallery": [
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-1.webp",
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-2.webp",
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-3.webp",
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-4.webp",
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-5.webp",
+        "https://raw.githubusercontent.com/rsoshiro/church-source/refs/heads/main/hist-6.webp"
+      ]
+    },
+    "credits": {
+      "author": "Juliana Mastelini Moyses",
+      "organization": "Pascom Arquidiocesana",
+      "highlightPhotoBy": "Renilson Guimarães",
+      "photosBy": "Vitor Stelle"
+    }
+  }
+}

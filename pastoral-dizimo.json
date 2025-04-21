@@ -1,0 +1,27 @@
+{
+  "titulo": "Pastoral do Dízimo",
+  "objetivo": "A pastoral do Dízimo tem como objetivo executar as atividades de recebimento do dízimo e da coleta da Capela Mãe da Divina Providência.",
+  "descricao": "O dízimo é um gesto de amor e caridade, e a Capela Mãe da divina Providência eleva constantemente à Deus, uma prece de agradecimento a todos dizimistas que está sempre presente com seu efetivo auxílio de doação, possibilitando e viabilizando a manutenção de todas as atividades relacionadas à capela.",
+  "como_participar": "Para quem ainda não é dizimista e quer fazê-lo, deve procurar um colaborador no balcão do dízimo nas missas, solicitar uma ficha cadastral e devolvê-la preenchida com os dados pessoais e indicando a forma que gostaria de contribuir.",
+  "formas_contribuicao": [
+    {
+      "opcao": 1,
+      "metodo": "Envelope",
+      "descricao": "Enviado via correio no endereço do dizimista e depois pode ser entregue no balcão do dízimo nos dias de missas, ou colocá-lo na urna, junto ao balcão do dízimo na Capela"
+    },
+    {
+      "opcao": 2,
+      "metodo": "Boleto bancário",
+      "descricao": "Enviado pelo correio ou por e-mail"
+    },
+    {
+      "opcao": 3,
+      "metodo": "Cartão de débito bancário",
+      "descricao": "Feito diretamente no balcão do dízimo nas missas de final de semana, ou na secretaria da Capela, durante a semana"
+    }
+  ],
+  "voluntariado": {
+    "descricao": "As atividades do pessoal da equipe do dízimo e coleta da Capela, é totalmente voluntária e está sempre aberta a receber novos integrantes.",
+    "como_participar": "Se você gostaria de participar e ser mais um colaborador da equipe, procure um plantonista do dízimo nas missas e passe seu celular que entraremos em contato."
+  }
+}

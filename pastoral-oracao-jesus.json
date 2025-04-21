@@ -1,0 +1,42 @@
+{
+  "nome": "Grupo de Oração Jesus Eucarístico",
+  "descricao": "O Grupo de Oração é a célula fundamental da Renovação Carismática Católica; é o lugar da expectativa e, ao mesmo tempo, da realização da promessa perene de Deus; é cenáculo de Pentecostes dos dias atuais, onde juntamente com Maria nos reunimos em humildade e unânime oração, para que se cumpra a promessa feita tanto para os homens de ontem, quanto para os de hoje: '… acontecerá que derramarei o meu Espírito sobre todo ser vivo' (Joel 3,1a).",
+  "objetivo": "O objetivo do Grupo de Oração é levar os participantes a experimentar o pentecostes pessoal, a crescer e chegar à maturidade da vida cristã plena do Espírito, segundo os desejos de Jesus: 'Eu vim para que as ovelhas tenham vida e a tenham em abundância' (Jo 10,10b).",
+  "caracteristicas": [
+    "Núcleo de serviço",
+    "Reunião de oração",
+    "Grupo de perseverança"
+  ],
+  "historia": {
+    "dataFundacao": "15/01/2008",
+    "inicioDescricao": "Começou pequeno, somente com 7 pessoas e as reuniões aconteciam no Santuário Eucarístico Mariano, na Avenida Madre Leônia Milito, 575.",
+    "mudancaLocal": "No ano 2016 tivemos o convite para trazer o grupo para a Capela da mãe da Divina Providência."
+  },
+  "estruturaAtual": {
+    "numeroServos": 40,
+    "ministerios": [
+      "Comunicação Social",
+      "Oração por Cura e Libertação",
+      "Intercessão",
+      "Música",
+      "Pregação"
+    ]
+  },
+  "reunioes": {
+    "dia": "terça-feira",
+    "horario": "20:00",
+    "local": "Capela da mãe da Divina Providência"
+  },
+  "contatos": {
+    "facebook": "Facebook/grupodeoracaojesuseucaristico",
+    "email": "grupojesus.eucaristico@gmail.com",
+    "coordenador": {
+      "nome": "Adirlei",
+      "telefone": "(43) 9.9112-9977"
+    },
+    "comunicacaoSocial": {
+      "nome": "Lais",
+      "telefone": "(43) 9.9958-7510"
+    }
+  }
+}
