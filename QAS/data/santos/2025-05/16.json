@@ -2,15 +2,15 @@
   "date": "2025-05-16T00:00:00",
   "formatted_date": "16/05/2025",
   "day_of_week": "Friday",
-  "title": "Santo do Dia",
+  "title": "São Simão Stock, homem de obediência ao Senhor",
   "content": "O santo de hoje nasceu no condado de Kant (Inglaterra). Com apenas 12 anos, movido pelo Espírito Santo de Deus, abandonou sua família por uma vida eremítica, uma vida no deserto. Ele fez do tronco de uma árvore a sua morada, por isso o ‘Stock’ em seu nome (stock = tronco). Ali, se consagrou na penitência e na busca da salvação das almas. Descia até o povoado para visitar os doentes e evangelizar, e voltava para o seu retiro.\n\nSimão, homem de obediência ao Senhor. Deus o quis na família carmelita, recém chegados à Inglaterra. Após discernir, tornou-se um religioso nesta Ordem. Profundamente mariano, era um homem do serviço e dedicado aos irmãos. Nossa Senhora apareceu a ele, com o escapulário, apresentando-o como uma proteção especial àqueles que o usarem com devoção. Quanto mais marianos, mais cristãos!\n\nSão Simão Stock, rogai por nós!",
   "date_in_content": "16 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-05-16-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/328.jpg",
+    "local_path": "../santos/imagens/2025-05-16-santo.webp",
+    "filename": "2025-05-16-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }
