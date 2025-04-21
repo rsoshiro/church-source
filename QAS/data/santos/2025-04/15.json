@@ -2,15 +2,15 @@
   "date": "2025-04-15T00:00:00",
   "formatted_date": "15/04/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "São Crescente, foi martirizado por não negar a Jesus Cristo",
   "content": "Nasceu em Mira, na Ásia Menor. Crescente chorou muitas vezes quando percebeu pessoas que se entregando a religiões politeístas, de muitas divindades, longe daquele que é o único Senhor e Salvador: Jesus Cristo.\n\nSeu esforço era o de levar a sua experiência. Primeiro, através de uma oração de intercessão constante pela conversão de todos.\n\nCerta vez, numa festa pagã aos deuses, ele se fez presente e movido pelo Espírito Santo, começou a evangelizar. Inimigos da fé cristã o levaram a um juiz, que propôs que ele “apenas” expressasse exteriormente o culto às divindades pagãs, com o objetivo de preservar sua vida.\n\nCrescente desprezou a proposta, e foi martirizado por não negar a Jesus Cristo.\n\nSão Crescente, rogai por nós!",
   "date_in_content": "15 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-04-15-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/89.jpg",
+    "local_path": "../santos/imagens/2025-04-15-santo.webp",
+    "filename": "2025-04-15-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

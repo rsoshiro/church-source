@@ -2,15 +2,15 @@
   "date": "2025-04-08T00:00:00",
   "formatted_date": "08/04/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "Santo Alberto, homem de oração, de vida sacramental e mariano",
   "content": "Nasceu na Itália no ano de 1150. Foi dizendo ‘sim’ a vontade do Senhor. Tornou-se religioso na Ordem Agostiniana, depois padre e superior de uma Comunidade. De ‘sim’ em ‘sim’ foi caminhando na vontade do Senhor, que o queria servindo a Igreja de Cristo e ao povo de Deus no Episcopado. Foi enviado como missionário para a Terra Santa, em Jerusalém.\n\nHomem de oração, de vida sacramental, mariano. Apaixonado por Deus, por sua Igreja, pela verdade e pelo mistério pascal.\n\nEntre os cristãos e não-cristãos haviam aqueles que o perseguia, até que no dia da Exaltação da Santa Cruz, ele estava com todo o Clero, e foi apunhalado por um fanático anti-cristão.\n\nMorreu perdoando e unindo o seu sangue ao Sangue de Cristo.\n\nSanto Alberto, rogai por nós!",
   "date_in_content": "8 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-04-08-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/10.jpg",
+    "local_path": "../santos/imagens/2025-04-08-santo.webp",
+    "filename": "2025-04-08-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

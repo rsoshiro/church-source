@@ -2,15 +2,15 @@
   "date": "2025-05-06T00:00:00",
   "formatted_date": "06/05/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "São Domingos Sávio - Padroeiro dos acólitos",
   "content": "O santo de hoje viveu o lema “Antes morrer do que pecar”.\n\nNascido em Turim, na Itália, no ano de 1842, Domingos conheceu muito cedo Dom Bosco e participou do Oratório – lugar de formação integral – onde seu coração se apaixonou por Jesus e Nossa Senhora Auxiliadora.\n\nPequeno na estatura, mas gigante na busca de corresponder ao chamado à santidade, foi um ícone da alegria de ser santo. Um jovem comum, que buscava cumprir os seus deveres e amava a vida de oração.\n\nCom a saúde fragilizada, faleceu com apenas 15 anos.\n\nSão Domingos Sávio, rogai por nós.",
   "date_in_content": "6 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-05-06-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/97.jpg",
+    "local_path": "../santos/imagens/2025-05-06-santo.webp",
+    "filename": "2025-05-06-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

@@ -2,15 +2,15 @@
   "date": "2025-03-11T00:00:00",
   "formatted_date": "11/03/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "Santo Eulógio - Mártir Espanhol",
   "content": "Nascido em Córdova, Espanha, no século VIII, descobriu seu chamado ao sacerdócio e fez um ótimo caminho formativo, também nas áreas da ciência, aprofundando-se nas ciências teológicas.\n\nEra um homem de muito estudo, oração e amor.\n\nA Espanha foi afetada por invasões e o príncipe perseguia cruelmente a Igreja, prendendo e matando a muitos cristãos.\n\nSão Eulógio deixou muitos escritos, com testemunhos de mártires e santos, assim como obras apologéticas e a ‘Exortação ao martírio’, que escreveu na prisão.\n\nEle foi decapitado no dia 11 de março de 859, recebendo a coroa da vida imortal.\n\nSanto Eulógio, rogai por nós!",
   "date_in_content": "11 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-03-11-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/113.jpg",
+    "local_path": "../santos/imagens/2025-03-11-santo.webp",
+    "filename": "2025-03-11-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

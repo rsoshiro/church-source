@@ -2,15 +2,15 @@
   "date": "2025-05-03T00:00:00",
   "formatted_date": "03/05/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São Filipe e São Tiago, discípulos e apóstolos de Jesus Cristo",
   "content": "Filipe nasceu em Betsaida, e o Evangelho de São João é que nos apresenta dados a respeito de seu santo testemunho. Jesus passou, chamou-o e ele disse ‘sim’ com a vida.\n\nEle foi ‘canal’ para que São Bartolomeu também se tornasse discípulo de Cristo. Durante o acontecimento da multiplicação dos pães, Filipe também participou deste milagre (foi para Filipe que Jesus perguntou como se faria para alimentar aquela multidão).\n\nNa Santa Ceia, o apóstolo Filipe é quem pede a Jesus: ‘Mostra-nos o Pai e isso nos basta’  (Jo 14,8). Filipe estava em Pentecostes com a Virgem Maria e os outros apóstolos. São Clemente de Alexandria nos diz que ele foi crucificado. Que honra para os apóstolos morrerem como o seu Senhor!\n\nSão Tiago também foi martirizado, por volta do ano 62. Ele que nasceu em Caná, filho de Alfeu, familiar de Nosso Senhor Jesus Cristo. E foi um dos doze apóstolos. Nos Atos dos Apóstolos encontramos ele como o primeiro bispo de Jerusalém. Tiago recebeu mais de uma visita de São Paulo e foi reconhecido como uma das colunas principais da Igreja, ao lado de São Pedro e São João. Uma das cartas do Novo Testamento é atribuída a ele. E, nela, o apóstolo nos ensina que a fé sem obras é morta e que é preciso deixarmos que o Espírito Santo governe a nossa língua.\n\nO martírio não está centrado no sofrimento, mas no amor a Jesus Cristo que supera essa vida.\n\nSão Filipe e São Tiago, rogai por nós!",
   "date_in_content": "3 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-05-03-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/120.jpg",
+    "local_path": "../santos/imagens/2025-05-03-santo.webp",
+    "filename": "2025-05-03-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

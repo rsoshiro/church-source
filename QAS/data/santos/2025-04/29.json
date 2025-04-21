@@ -2,15 +2,15 @@
   "date": "2025-04-29T00:00:00",
   "formatted_date": "29/04/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "Santa Catarina de Sena, servia a Cristo e sua Igreja",
   "content": "Neste dia, celebramos a vida de uma das mulheres que marcaram profundamente a história da Igreja: Santa Catarina de Sena. Reconhecida como Doutora da Igreja, era de uma enorme e pobre família de Sena, na Itália, onde nasceu em 1347.\n\nVoltada à oração, ao silêncio e à penitência, não se consagrou em uma congregação, mas continuou, no seu cotidiano dos serviços domésticos, a servir a Cristo e Sua Igreja, já que tudo o que fazia, oferecia pela salvação das almas. Através de cartas às autoridades, embora analfabeta e de frágil constituição física, conseguia mover homens para a reconciliação e paz como um gigante.\n\nDotada de dons místicos, recebeu espiritualmente e realmente as chagas do Cristo; além de manter uma profunda comunhão com Deus Pai, por meio da qual teve origem sua obra: “O Diálogo”. Comungando também com a situação dos seus, ajudou-o em muito, socorrendo o povo italiano, que sofria com uma peste mortífera e com igual amor socorreu a Igreja que, com dois Papas, sofria cisão, até que Catarina, santamente, movimentou os céus e a terra, conseguindo banir toda confusão. Morreu no ano de 1380, repetindo: “Se morrer, sabeis que morro de paixão pela Igreja”.\n\nSanta Catarina de Sena, rogai por nós!",
   "date_in_content": "29 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "../santos/imagens/2025-04-29-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/70.jpg",
+    "local_path": "../santos/imagens/2025-04-29-santo.webp",
+    "filename": "2025-04-29-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }
