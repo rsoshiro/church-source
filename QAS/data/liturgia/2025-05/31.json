@@ -5,8 +5,13 @@
   "readings": [
     {
       "type": "primeira_leitura",
-      "title": "Leitura da Profecia",
-      "content": "Leitura da Profecia de Sofonias \n3,14-18  \nCanta de alegria, cidade de Sião; rejubila, povo de Israel! Alegra-te e exulta de todo o coração, cidade de Jerusalém!\nO Senhor revogou a sentença contra ti, afastou teus inimigos; o rei de Israel é o Senhor, ele está no meio de ti, nunca mais temerás o mal.\nNaquele dia, se dirá a Jerusalém: \"Não temas, Sião, não te deixes levar pelo desânimo!\nO Senhor, teu Deus, está no meio de ti, o valente guerreiro que te salva; ele exultará de alegria por ti, movido por amor; exultará por ti, entre louvores,\ncomo nos dias de Festa. Afastarei de ti a desgraça, para que nunca mais te cause humilhação\"."
+      "title": "Leitura do Dia",
+      "content": "Leitura da Profecia de Sofonias\n3,14-18\nCanta de alegria, cidade de Sião;\nrejubila, povo de Israel!\nAlegra-te e exulta de todo o coração,\ncidade de Jerusalém!\nO Senhor revogou a sentença contra ti,\nafastou teus inimigos;\no rei de Israel é o Senhor, ele está no meio de ti,\nnunca mais temerás o mal.\nNaquele dia, se dirá a Jerusalém:\n\"Não temas, Sião,\nnão te deixes levar pelo desânimo!\nO Senhor, teu Deus, está no meio de ti,\no valente guerreiro que te salva;\nele exultará de alegria por ti,\nmovido por amor;\nexultará por ti, entre louvores,\ncomo nos dias de Festa.\nAfastarei de ti a desgraça,\npara que nunca mais te cause humilhação\"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho do Dia",
+      "content": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n1,39-56\nNaqueles dias, Maria partiu para a região montanhosa,\ndirigindo-se, apressadamente, a uma cidade da Judeia.\nEntrou na casa de Zacarias e cumprimentou Isabel.\nQuando Isabel ouviu a saudação de Maria,\na criança pulou no seu ventre\ne Isabel ficou cheia do Espírito Santo.\nCom um grande grito, exclamou:\n\"Bendita és tu entre as mulheres\ne bendito é o fruto do teu ventre!\"\nComo posso merecer\nque a mãe do meu Senhor me venha visitar?\nLogo que a tua saudação chegou aos meus ouvidos,\na criança pulou de alegria no meu ventre.\nBem-aventurada aquela que acreditou,\nporque será cumprido, o que o Senhor lhe prometeu\".\nMaria disse:\n\"A minha alma engrandece o Senhor,\ne o meu espírito se alegra em Deus, meu Salvador,\nporque olhou para a humildade de sua serva.\nDoravante todas as gerações\nme chamarão bem-aventurada,\nporque o Todo-poderoso\nfez grandes coisas em meu favor.\nO seu nome é santo,\ne sua misericórdia se estende, de geração em geração,\na todos os que o temem.\nEle mostrou a força de seu braço:\ndispersou os soberbos de coração.\nDerrubou do trono os poderosos\ne elevou os humildes.\nEncheu de bens os famintos,\ne despediu os ricos de mãos vazias.\nSocorreu Israel, seu servo,\nlembrando-se de sua misericórdia,\nconforme prometera aos nossos pais,\nem favor de Abraão e de sua descendência, para sempre\".\nMaria ficou três meses com Isabel;\ndepois voltou para casa."
     }
   ],
   "title": "Palavra do dia",
