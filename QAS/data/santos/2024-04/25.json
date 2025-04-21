@@ -7,7 +7,7 @@
   "date_in_content": "25 de abril",
   "image": {
     "original_url": "https://assets.ofertorio.com/api/saints/228.jpg",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2024-04-25-santo.webp",
+    "local_path": "../santos/imagens/2024-04-25-santo.webp",
     "filename": "2024-04-25-santo.webp",
     "width": 300,
     "height": 300,

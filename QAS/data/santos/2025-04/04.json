@@ -1,4 +1,4 @@
-﻿{
+{
   "date": "2025-04-04T00:00:00",
   "formatted_date": "04/04/2025",
   "day_of_week": "Friday",
@@ -7,7 +7,7 @@
   "date_in_content": "4 de abril",
   "image": {
     "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-04-e98ee7fd.webp",
+    "local_path": "../santos/imagens/2025-04-04-e98ee7fd.webp",
     "width": 400,
     "height": 156,
     "format": "WebP",
