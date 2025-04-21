@@ -2,8 +2,23 @@
   "date": "2025-05-20T00:00:00",
   "formatted_date": "20/05/2025",
   "day_of_week": "Tuesday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "14,19-28\nNaqueles dias,\nde Antioquia e Icônio chegaram judeusque convenceram as multidões.Então apedrejaram Pauloe arrastaram-no para fora da cidade,pensando que ele estivesse morto.\nMas, enquanto os discípulos o rodeavam,Paulo levantou-se e entrou na cidade.No dia seguinte, partiu para Derbe com Barnabé."
+    },
+    {
+      "type": "evangelho",
+      "title": "Depois de terem pregado o Evangelho naquela cidadee feito muitos discípulos,voltaram para Listra, Icônio e Antioquia.",
+      "content": "Encorajando os discípulos,eles os exortavam a permanecerem firmes na fé,dizendo-lhes:\n\"É preciso que passemos por muitos sofrimentospara entrar no Reino de Deus\".\nOs apóstolos designaram presbíteros para cada comunidade.Com orações e jejuns, eles os confiavam ao Senhor,em quem haviam acreditado.\nEm seguida, atravessando a Pisídia,chegaram à Panfília.\nAnunciaram a palavra em Perge,e depois desceram para Atália.\nDali embarcaram para Antioquia,de onde tinham saído, entregues à graça de Deus,para o trabalho que haviam realizado.\nChegando ali, reuniram a comunidade.\nContaram-lhe tudo o que Deus fizera por meio delese como havia aberto a porta da fé para os pagãos.\nE passaram então algum tempo com os discípulos."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "14,27-31a\nNaquele tempo, disse Jesus a seus discípulos:\n\"Deixo-vos a paz,a minha paz vos dou;mas não a dou como o mundo.Não se perturbe nem se intimide o vosso coração.\nOuvistes que eu vos disse:'Vou, mas voltarei a vós'.Se me amásseis,ficaríeis alegres porque vou para o Pai,pois o Pai é maior do que eu.\nDisse-vos isto, agora, antes que aconteça,para que, quando acontecer,vós acrediteis.\nJá não falarei muito convosco,pois o chefe deste mundo vem.Ele não tem poder sobre mim,\nmas, para que o mundo reconheça que eu amo o Pai,eu procedo conforme o Pai me ordenou\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/20.html"
 }

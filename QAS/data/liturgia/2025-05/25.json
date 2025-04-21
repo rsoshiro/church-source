@@ -2,8 +2,18 @@
   "date": "2025-05-25T00:00:00",
   "formatted_date": "25/05/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura \nLeitura dos Atos dos Apóstolos \n15,1-2.22-29  \nNaqueles dias:\nChegaram alguns da Judeia e ensinavam aos irmãos de Antioquia, dizendo: \"Vós não podereis salvar-vos, se não fordes circuncidados, como ordena a Lei de Moisés\":\nIsto provocou muita confusão, e houve uma grande discussão de Paulo e Barnabé com eles. Finalmente, decidiram que Paulo, Barnabé e alguns outros fossem a Jerusalém, para tratar dessa questão com os apóstolos e os anciãos.\nEntão os apóstolos e os anciãos, de acordo com toda a comunidade de Jerusalém, resolveram escolher alguns da comunidade para mandá-los a Antioquia, com Paulo e Barnabé. Escolheram Judas, chamado Bársabas, e Silas, que eram muito respeitados pelos irmãos.\nAtravés deles enviaram a seguinte carta: \"Nós, os apóstolos e os anciãos, vossos irmãos, saudamos os irmãos vindos do paganismo e que estão em Antioquia e nas regiões da Síria e da Cilícia.\nFicamos sabendo que alguns dos nossos causaram perturbações com palavras que transtornaram vosso espírito. Eles não foram enviados por nós.\nEntão decidimos, de comum acordo, escolher alguns representantes e mandá-los até vós, junto com nossos queridos irmãos Barnabé e Paulo,\nhomens que arriscaram suas vidas pelo nome de nosso Senhor Jesus Cristo.\nPor isso, estamos enviando Judas e Silas, que pessoalmente vos transmitirão a mesma mensagem.\nPorque decidimos, o Espírito Santo e nós, não vos impor nenhum fardo, além destas coisas indispensáveis:\nabster-se de carnes sacrificadas aos ídolos, do sangue, das carnes de animais sufocados e das uniões ilegítimas. Vós fareis bem se evitardes essas coisas. Saudações!\""
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura\nLeitura do Livro do Apocalipse de São João \n21,10-14.22-23  \nUm anjo me levou em espírito a uma montanha grande e alta. Mostrou-me a cidade santa, Jerusalém, descendo do céu, de junto de Deus,\nbrilhando com a glória de Deus. Seu brilho era como o de uma pedra preciosíssima, como o brilho de jaspe cristalino.\nEstava cercada por uma muralha maciça e alta, com doze portas. Sobre as portas estavam doze anjos, e nas portas estavam escritos os nomes das doze tribos de Israel.\nHavia três portas do lado do oriente, três portas do lado norte, três portas do lado sul e três portas do lado do ocidente.\nA muralha da cidade tinha doze alicerces, e sobre eles estavam escritos os nomes dos doze apóstolos do Cordeiro.\nNão vi templo na cidade, pois o seu Templo é o próprio Senhor, o Deus Todo-poderoso, e o Cordeiro.\nA cidade não precisa de sol, nem de lua que a iluminem, pois a glória de Deus é a sua luz e a sua lâmpada é o Cordeiro."
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/25.html"
 }

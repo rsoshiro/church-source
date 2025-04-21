@@ -2,10 +2,23 @@
   "date": "2025-03-08T00:00:00",
   "formatted_date": "08/03/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Profeta Isaías \n58,9b-14\nAssim fala o Senhor:\n\"Se destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a linguagem maldosa;\nse acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia.\nO Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão.\nTeu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar.\nSe não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações,\nentão te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai\". Falou a boca do Senhor."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Lucas \n5,27-32 \nNaquele tempo,\nJesus viu um cobrador de impostos, chamado Levi, sentado na coletoria. Jesus lhe disse: \n\"Segue-me.\"\nLevi deixou tudo, levantou-se e o seguiu.\nDepois, Levi preparou em casa um grande banquete para Jesus. Estava aí grande número de cobradores de impostos e outras pessoas sentadas à mesa com eles.\nOs fariseus e seus mestres da Lei murmuravam e diziam aos discípulos de Jesus: \"Por que vós comeis e bebeis com os cobradores de impostos e com os pecadores?\"\nJesus respondeu: \"Os que são sadios não precisam de médico, mas sim os que estão doentes.\nEu não vim chamar os justos, mas sim os pecadores para a conversão\"."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nPoucos viam Mateus como era: conheciam-no como aquele que estava «sentado no banco dos impostos» (v. 9). Com efeito, era cobrador de impostos: ou seja, alguém que cobrava os tributos em nome do império romano, que ocupava a Palestina. Em síntese, era um colaboracionista, um traidor do povo. Podemos imaginar o desprezo que o povo sentia por ele: era um âpublicanoâ, assim se chamava. Mas, aos olhos de Jesus, Mateus é um homem, com as suas misérias e a sua grandeza. Estai atentos a isto: Jesus não se detém nos adjetivos, Jesus procura sempre o substantivo. âEste é um pecador, este é um tal pelo qualâ¦â são adjetivos: Jesus vai à pessoa, ao coração, esta é uma pessoa, este é um homem, esta é uma mulher, Este olhar de Jesus que é belíssimo, que vê o outro, quem quer que seja, como destinatário de amor, é o início da paixão evangelizadora. Tudo começa a partir deste olhar, que aprendemos com Jesus. Podemos perguntar-nos: como vemos os outros? (Audiência Geral de 11 de janeiro de 2023)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/08.html"
 }
-
-# Dados atualizados manualmente

@@ -2,8 +2,18 @@
   "date": "2025-05-08T00:00:00",
   "formatted_date": "08/05/2025",
   "day_of_week": "Thursday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "8,26-40\nNaqueles dias:\nUm anjo do Senhor falou a Filipe, dizendo:\"Prepara-te e vai para o sul,no caminho que desce de Jerusalém a Gaza.O caminho é deserto\".Filipe levantou-se e foi.\nNisso apareceu um eunuco etíope,ministro de Candace, rainha da Etiópiae administrador geral do seu tesouro,que tinha ido em peregrinação a Jerusalém.\nEle estava voltando para casae vinha sentado no seu carro,\nlendo o profeta Isaías.\nEntão o Espírito disse a Filipe:\"Aproxima-te desse carro e acompanha-o\".\nFilipe correu,ouviu o eunuco ler o profeta Isaías e perguntou:\"Tu compreendes o que estás lendo?\"\nO eunuco respondeu:\"Como posso, se ninguém mo explica?\"Então convidou Filipe a subir\ne a sentar-se junto a ele.\nA passagem da Escritura\nque o eunuco estava lendo era esta:\n\"Ele foi levado como ovelha ao matadouro;e qual um cordeiro diante do seu tosquiador,ele emudeceu e não abriu a boca.\nEles o humilharam e lhe negaram justiça;e seus descendentes, quem os poderá enumerar?Pois sua vida foi arrancada da terra\".\nE o eunuco disse a Filipe:\"Peço que me expliquesde quem o profeta está dizendo isso.Ele fala de si mesmo ou se refere a algum outro?\"\nEntão Filipe começou a falare, partindo dessa passagem da Escritura,anunciou Jesus ao eunuco.\nEles prosseguiram o caminhoe chegaram a um lugar onde havia água.Então o eunuco disse a Filipe:\"Aqui temos água.\nO que impede que eu seja batizado?\"[37]\nO eunuco mandou parar o carro.Os dois desceram para a água e Filipe batizou o eunuco.\nQuando saíram da água,o Espírito do Senhor arrebatou a Filipe.O eunuco não o viu maise prosseguiu sua viagem, cheio de alegria.\nFilipe foi parar em Azoto.E, passando adiante, evangelizava todas as cidadesaté chegar a Cesareia."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "6,44-51\nNaquele tempo, disse Jesus à multidão:\n\"Ninguém pode vir a mim,se o Pai que me enviou não o atrai.E eu o ressuscitarei no último dia.\nEstá escrito nos Profetas:'Todos serão discípulos de Deus'.Ora, todo aquele que escutou o Pai\ne por ele foi instruído, vem a mim.\nNão que alguém já tenha visto o Pai.Só aquele que vem de junto de Deus viu o Pai.\nEm verdade, em verdade vos digo,quem crê, possui a vida eterna.\nEu sou o pão da vida.\nOs vossos pais comeram o maná no desertoe, no entanto, morreram.\nEis aqui o pão que desce do céu:quem dele comer, nunca morrerá.\nEu sou o pão vivo descido do céu.Quem comer deste pão viverá eternamente.E o pão que eu dareié a minha carne dada para a vida do mundo\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/08.html"
 }

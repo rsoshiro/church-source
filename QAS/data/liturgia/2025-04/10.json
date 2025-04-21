@@ -2,8 +2,23 @@
   "date": "2025-04-10T00:00:00",
   "formatted_date": "10/04/2025",
   "day_of_week": "Thursday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Gênesis \n17,3-9\nNaqueles dias,\nAbrão prostrou-se com o rosto por terra.\nE Deus lhe disse: \"Eis a minha aliança contigo: tu serás pai de uma multidão de nações.\nJá não te chamarás Abrão, mas o teu nome será Abraão, porque farei de ti o pai de uma multidão de nações.\nFarei crescer tua descendência infinitamente. Farei nascer de ti nações, e reis sairão de ti.\nEstabelecerei minha aliança entre mim e ti e teus descendentes para sempre; uma aliança eterna, para que eu seja teu Deus \ne o Deus de teus descendentes.\nA ti e aos teus descendentes darei a terra em que vives como estrangeiro, todo o país de Canaã como propriedade para sempre. E eu serei o Deus dos teus descendentes\".\nDeus disse a Abraão: \"Guarda a minha aliança, tu e a tua descendência para sempre\"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo João \n8,51-59  \nNaquele tempo, disse Jesus aos judeus:\n\"Em verdade, em verdade, eu vos digo: se alguém guardar a minha palavra, jamais verá a morte\".\nDisseram então os judeus: \"Agora sabemos que tens um demônio. Abraão morreu e os profetas também, e tu dizes: 'Se alguém guardar a minha palavra jamais verá a morte'.\nAcaso és maior do que nosso pai Abraão, que morreu, como também os profetas? Quem pretendes tu ser?\".\nJesus respondeu: \"Se me glorifico a mim mesmo, minha glória não vale nada. Quem me glorifica é o meu Pai, aquele que vós dizeis ser o vosso Deus.\nNo entanto, não o conheceis. Mas eu o conheço e, se dissesse que não o conheço, seria um mentiroso, como vós! Mas eu o conheço e guardo a sua palavra.\nVosso pai Abraão exultou, por ver o meu dia; ele o viu, e alegrou-se\".\nOs judeus disseram-lhe então: \"Nem sequer cinquenta anos tens , e viste Abraão!?\"\nJesus respondeu: \"Em verdade, em verdade vos digo, antes que Abraão existisse, eu sou\".\nEntão eles pegaram em pedras para apedrejar Jesus, mas ele escondeu-se e saiu do Templo."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nA alegria da fé, do Evangelho é o termo de comparação da fé de uma pessoa: sem alegria essa pessoa não é um crente verdadeiro. Voltemos para casa, mas antes façamos a celebração aqui com estas palavras de Jesus: âO vosso pai, Abraão, exultou com a ideia de ver o meu dia; viu-o e rejubilouâ. E pedir ao Senhor a graça de exultar na esperança, a graça de poder ver o dia de Jesus quando nos encontrarmos com Ele e a graça do júbilo. (Homilia na Capela da Casa Santa Marta, 26 de março de 2015)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/10.html"
 }

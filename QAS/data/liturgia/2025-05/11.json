@@ -2,8 +2,18 @@
   "date": "2025-05-11T00:00:00",
   "formatted_date": "11/05/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura \nLeitura dos Atos dos Apóstolos \n13,14.43-52  \nNaqueles dias, Paulo e Barnabé\npartindo de Perge, chegaram a Antioquia da Pisídia. E, entrando na sinagoga em dia de sábado, sentaram-se.\nMuitos judeus e pessoas piedosas \nconvertidas ao judaísmo seguiram Paulo e Barnabé. Conversando com eles, os dois insistiam para que continuassem fiéis à graça de Deus.\nNo sábado seguinte, quase toda a cidade se reuniu para ouvir a palavra de Deus.\nAo verem aquela multidão, os judeus ficaram cheios de inveja e, com blasfêmias, opunham-se ao que Paulo dizia.\nEntão, com muita coragem, Paulo e Barnabé declararam: \"Era preciso anunciar a palavra de Deus primeiro a vós. Mas, como a rejeitais e vos considerais indignos da vida eterna, sabei que vamos dirigir-nos aos pagãos.\nPorque esta é a ordem que o Senhor nos deu: 'Eu te coloquei como luz para as nações, para que leves a salvação até os confins da terra'\".\nOs pagãos ficaram muito contentes, quando ouviram isso, e glorificavam a palavra do Senhor. Todos os que eram destinados à vida eterna, abraçaram a fé.\nDesse modo, a palavra do Senhor\nespalhava-se por toda a região.\nMas os judeus\ninstigaram as mulheres ricas e religiosas, assim como os homens influentes da cidade, provocaram uma perseguição contra Paulo e Barnabé e expulsaram-nos do seu território.\nEntão os apóstolos sacudiram contra eles a poeira dos pés, e foram para a cidade de Icônio.\nOs discípulos, porém, ficaram cheios de alegria e do Espírito Santo."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura\nLeitura do Livro do Apocalipse de São João \n7,9.14b-17  \nEu, João,\nvi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão.\nEntão um dos anciãos me disse: \"Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro.\nPor isso, estão diante do trono de Deus e lhe prestam culto, dia e noite, no seu templo. E aquele que está sentado no trono os abrigará na sua tenda.\nNunca mais terão fome, nem sede. Nem os molestará o sol, nem algum calor ardente.\nPorque o Cordeiro, que está no meio do trono, será o seu pastor e os conduzirá às fontes da água da vida. E Deus enxugará as lágrimas de seus olhos\"."
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/11.html"
 }

@@ -2,8 +2,18 @@
   "date": "2025-05-12T00:00:00",
   "formatted_date": "12/05/2025",
   "day_of_week": "Monday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "11,1-18\nNaqueles dias,\nOs apóstolos e os irmãos, que viviam na Judeia,souberam que também os pagãoshaviam acolhido a Palavra de Deus.\nQuando Pedro subiu a Jerusalém,os fiéis de origem judaicacomeçaram a discutir com ele, dizendo:\n\"Tu entraste na casa de pagãos e comeste com eles!\"\nEntão, Pedro começou a contar-lhes,ponto por ponto, o que havia acontecido:\n\"Eu estava na cidade de Jopee, ao fazer oração, entrei em êxtasee tive a seguinte visão:vi uma coisa parecida com uma grande toalhaque, sustentada pelas quatro pontas,descia do céu e chegava até junto de mim.\nOlhei atentamente e vi dentro delaquadrúpedes da terra, animais selvagens,répteis e aves do céu.\nDepois ouvi uma voz que me dizia:'Levanta-te, Pedro, mata e come'.\nEu respondi:\n'De modo nenhum, Senhor!Porque jamais entrou coisa profana e impurana minha boca'.\nA voz me disse pela segunda vez:'Não chames impuro o que Deus purificou'.\nIsso repetiu-se por três vezes.Depois a coisa foi novamente levantada para o céu.\nNesse momento, três homens se apresentaramna casa em que nos encontrávamos.Tinham sido enviados de Cesareia, à minha procura.\nO Espírito me disse que eu fosse com eles sem hesitar.Os seis irmãos que estão aqui me acompanharame nós entramos na casa daquele homem.\nEntão ele nos contou que tinha visto um anjoapresentar-se em sua casa e dizer:'Manda alguém a Jope para chamar Simão,conhecido como Pedro.\nEle te falará de acontecimentosque trazem a salvaçãopara ti e para toda a tua família'.\nLogo que comecei a falar,o Espírito Santo desceu sobre eles,da mesma forma que desceu sobre nós no princípio.\nEntão eu me lembrei do que o Senhor havia dito:\n'João batizou com água,mas vós sereis batizados no Espírito Santo'.\nDeus concedeu a eles o mesmo dom que deu a nósque acreditamos no Senhor Jesus Cristo.Quem seria eu para me opor à ação de Deus?\"\nAo ouvirem isso, os fiéis de origem judaica se acalmarame glorificavam a Deus, dizendo:\"Também aos pagãos Deus concedeu a conversãoque leva para a vida!\""
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "10,1-10\nNaquele tempo, disse Jesus:\n\"Em verdade, em verdade vos digo,quem não entra no redil das ovelhas pela porta,mas sobe por outro lugar,\né ladrão e assaltante.\nQuem entra pela porta é o pastor das ovelhas.\nA esse o porteiro abre,e as ovelhas escutam a sua voz;ele chama as ovelhas pelo nomee as conduz para fora.\nE, depois de fazer sair todas as que são suas,caminha à sua frente,\ne as ovelhas o seguem,porque conhecem a sua voz.\nMas não seguem um estranho,antes fogem dele,porque não conhecem a voz dos estranhos\".\nJesus contou-lhes esta parábola,mas eles não entenderam o que ele queria dizer.\nEntão Jesus continuou:\"Em verdade, em verdade vos digo,eu sou a porta das ovelhas.\nTodos aqueles que vieram antes de mimsão ladrões e assaltantes,mas as ovelhas não os escutaram.\nEu sou a porta. Quem entrar por mim, será salvo;entrará e sairá e encontrará pastagem.\nO ladrão só vem para roubar,\nmatar e destruir.Eu vim para que tenham vida\ne a tenham em abundância\".Palavra da Salvação.\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/12.html"
 }

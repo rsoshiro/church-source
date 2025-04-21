@@ -2,8 +2,18 @@
   "date": "2025-05-18T00:00:00",
   "formatted_date": "18/05/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura \nLeitura dos Atos dos Apóstolos \n14,21b-27\nNaqueles dias, Paulo e Barnabé,\nvoltaram para as cidades de Listra, Icônio e Antioquia.\nEncorajando os discípulos, eles os exortavam a permanecerem firmes na fé, dizendo-lhes: \n\"É preciso que passemos por muitos sofrimentos para entrar no Reino de Deus\".\nOs apóstolos designaram presbíteros \npara cada comunidade. Com orações e jejuns, eles os confiavam ao Senhor, em quem haviam acreditado.\nEm seguida, atravessando a Pisídia, chegaram à Panfília.\nAnunciaram a palavra em Perge, e depois desceram para Atália.\nDali embarcaram para Antioquia, de onde tinham saído, entregues à graça de Deus, para o trabalho que haviam realizado.\nChegando ali, reuniram a comunidade. Contaram-lhe tudo o que Deus fizera por meio deles e como havia aberto a porta da fé para os pagãos."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura \nLeitura do Livro do Apocalipse de São João \n21,1-5a  \nEu, João,\nvi um novo céu e uma nova terra. Pois o primeiro céu e a primeira terra passaram, e o mar já não existe.\nVi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido.\nEntão, ouvi uma voz forte que saía do trono e dizia: \"Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles.\nDeus enxugará toda lágrima dos seus olhos. A morte não existirá mais, e não haverá mais luto, nem choro, nem dor, porque passou o que havia antes\".\nAquele que está sentado no trono disse: \"Eis que faço novas todas as coisas\". Depois, ele me disse: \n\"Escreve, porque estas palavras \nsão dignas de fé e verdadeiras\"."
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/18.html"
 }

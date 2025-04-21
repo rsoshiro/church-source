@@ -2,8 +2,18 @@
   "date": "2025-04-30T00:00:00",
   "formatted_date": "30/04/2025",
   "day_of_week": "Wednesday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "5,17-26\nNaqueles dias,\nlevantaram-se o sumo sacerdote\ne todos os do seu partido- isto é, o partido dos saduceus -cheios de raiva\ne mandaram prender os apóstolos\ne lançá-los na cadeia pública.\nPorém, durante a noite,o anjo do Senhor abriu as portas da prisãoe os fez sair, dizendo:\n\"Ide falar ao povo, no Templo,sobre tudo o que se refere a este modo de viver\".\nEles obedeceram e, ao amanhecer,entraram no Templo e começaram a ensinar.O Sumo Sacerdote chegou com os seus partidáriose convocou o Sinédrio e o Conselhoformado pelas pessoas importantes do povo de Israel.Então mandaram buscar os apóstolos à prisão.\nMas, ao chegarem à prisão,os servos não os encontraram e voltaram dizendo:\n\"Encontramos a prisão fechada, com toda segurança,e os guardas estavam a postos na frente da porta.Mas, quando abrimos a porta,não encontramos ninguém lá dentro\".\nAo ouvirem essa notícia,o chefe da guarda do Templo e os sumos sacerdotesnão sabiam o que pensare perguntavam-se o que poderia ter acontecido.\nChegou alguém que lhes disse:\"Os homens que vós colocastes na prisãoestão no Templo ensinando o povo!\"\nEntão o chefe da guarda do Templo saiu com os guardase trouxe os apóstolos, mas sem violência,porque eles tinham medo\nque o povo os atacasse com pedras."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo segundo São João",
+      "content": "3,16-21\nDeus amou tanto o mundo,que deu o seu Filho unigênito,para que não morra todo o que nele crer,mas tenha a vida eterna.\nDe fato, Deus não enviou o seu Filho ao mundopara condenar o mundo,mas para que o mundo seja salvo por ele.\nQuem nele crê, não é condenado,mas quem não crê, já está condenado,porque não acreditou no nome do Filho unigênito.\nOra, o julgamento é este:a luz veio ao mundo,mas os homens preferiram as trevas à luz,porque suas ações eram más.\nQuem pratica o malodeia a luze não se aproxima da luz,para que suas ações não sejam denunciadas.\nMas quem age conforme a verdadeaproxima-se da luz,para que se manifesteque suas ações são realizadas em Deus.\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/30.html"
 }

@@ -2,8 +2,18 @@
   "date": "2025-05-30T00:00:00",
   "formatted_date": "30/05/2025",
   "day_of_week": "Friday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "18,9-18\nEstando Paulo em Corinto,\numa noite, o Senhor disse-lhe em visão:\"Não tenhas medo;\ncontinua a falar e não te cales,\nporque eu estou contigo.Ninguém te porá a mão para fazer mal.Nesta cidade há um povo numeroso que me pertence\".\nAssim Paulo ficou um ano e meio entre eles,ensinando-lhes a Palavra de Deus.\nNa época em que Galião era proncônsul na Acaia,os judeus insurgiram-se em massa contra Pauloe levaram-no diante do tribunal,\ndizendo:\n\"Este homem induz o povo a adorar a Deusde modo contrário à Lei\".\nPaulo ia tomar a palavra,quando Galião falou aos judeus, dizendo:\"Judeus, se fosse por causa de um delitoou de uma ação criminosa,seria justo que eu atendesse a vossa queixa.\nMas, como é questão de palavras,de nomes e da vossa Lei,tratai disso vós mesmos.Eu não quero ser juiz nessas coisas\".\nE Galião mandou-os sair do tribunal.\nEntão todos agarraram Sóstenes,\no chefe da sinagoga,e espancaram-no diante do tribunal.E Galião nem se incomodou com isso.\nPaulo permaneceu ainda vários dias em Corinto.Despedindo-se dos irmãos, embarcou para a Síria,em companhia de Priscila e Áquila.Em Cencreia, Paulo rapou a cabeçapois tinha feito uma promessa."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "16,20-23a\nNaquele tempo, disse Jesus aos seus discípulos:\n\"Em verdade, em verdade vos digo:Vós chorareis e vos lamentareis,mas o mundo se alegrará;vós ficareis tristes,mas a vossa tristeza se transformará em alegria.\nA mulher, quando deve dar à luz,fica angustiada porque chegou a sua hora;mas, depois que a criança nasceu,ela já não se lembra dos sofrimentos,por causa da alegria de um homem ter vindo ao mundo.\nTambém vós agora sentis tristeza,mas eu hei de ver-vos novamentee o vosso coração se alegrará,e ninguém vos poderá tirar a vossa alegria.\nNaquele dia, não me perguntareis mais nada\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/30.html"
 }

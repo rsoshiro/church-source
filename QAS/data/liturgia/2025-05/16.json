@@ -2,8 +2,18 @@
   "date": "2025-05-16T00:00:00",
   "formatted_date": "16/05/2025",
   "day_of_week": "Friday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "13,26-33\nNaqueles dias, tendo chegado a Antioquia da Pisídia,Paulo disse na sinagoga:\n\"Irmãos, descendentes de Abraão,e todos vós que temeis a Deus,a nós foi enviada esta mensagem de salvação.\nOs habitantes de Jerusalém e seus chefesnão reconheceram a Jesuse, ao condená-lo, cumpriram as profeciasque se leem todos os sábados.\nEmbora não encontrassem nenhum motivopara a sua condenação,pediram a Pilatos que fosse morto.\nDepois de realizarem tudo o que a Escritura diza respeito de Jesus,eles o tiraram da cruz e o colocaram num túmulo.\nMas Deus o ressuscitou dos morto:\ne, durante muitos dias, ele foi vistopor aqueles que o acompanharamdesde a Galileia até Jerusalém.Agora eles são testemunhas de Jesus diante do povo."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "14,1-6\nNaquele tempo, disse Jesus a seus discípulos:\n\"Não se perturbe o vosso coração.Tendes fé em Deus,tende fé em mim também.\nNa casa de meu Pai há muitas moradas.Se assim não fosse, eu vos teria dito.Vou preparar um lugar para vós,\ne quando eu tiver ido preparar-vos um lugar,voltarei e vos levarei comigo,a fim de que onde eu estiverestejais também vós.\nE para onde eu vou,vós conheceis o caminho\".\nTomé disse a Jesus:\"Senhor, nós não sabemos para onde vais.Como podemos conhecer o caminho?\"\nJesus respondeu:\"Eu sou o Caminho, a Verdade e a Vida.Ninguém vai ao Pai senão por mim\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/16.html"
 }

@@ -2,8 +2,28 @@
   "date": "2025-04-06T00:00:00",
   "formatted_date": "06/04/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura\nLeitura do Livro do Profeta Isaías \n43,16-21\nIsto diz o Senhor, que abriu uma passagem no mar e um caminho entre águas impetuosas;\nque pôs a perder carros e cavalos, tropas e homens corajosos; pois estão todos mortos e não ressuscitarão, foram abafados como mecha de pano e apagaram-se:\n\"Não relembreis coisas passadas, não olheis para fatos antigos.\nEis que eu farei coisas novas, e que já estão surgindo: \nacaso não as reconheceis? Pois abrirei uma estrada no deserto e farei correr rios na terra seca.\nHão de glorificar-me os animais selvagens, os dragões e os avestruzes, porque fiz brotar água no deserto e rios na terra seca para dar de beber a meu povo, a meus escolhidos.\nEste povo, eu o criei para mim e ele cantará meus louvores\"."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura\nLeitura da Carta de São Paulo aos Filipenses \n3,8-14\nIrmãos:\nNa verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele;\nnão com minha justiça provindo da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé.\nEsta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte,\npara ver se alcanço a ressurreição dentre os mortos.\nNão que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.\nIrmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente.\nCorro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo João \n8,1-11\nNaquele tempo,\nJesus foi para o monte das Oliveiras.\nDe madrugada, voltou de novo ao Templo. Todo o povo se reuniu em volta dele. Sentando-se, começou a ensiná-los.\nEntretanto, os mestres da Lei e os fariseus trouxeram uma mulher surpreendida em adultério. Colocando-a no meio deles,\ndisseram a Jesus: \n\"Mestre, esta mulher foi surpreendida em flagrante adultério.\nMoisés na Lei mandou apedrejar tais mulheres. Que dizes tu?\"\nPerguntavam isso para experimentar Jesus e para terem motivo de o acusar. Mas Jesus, inclinando-se, começou a escrever com o dedo no chão.\nComo persistissem em interrogá-lo, Jesus ergueu-se e disse:\n\"Quem dentre vós não tiver pecado, seja o primeiro a atirar-lhe uma pedra\".\nE tornando a inclinar-se, continuou a escrever no chão.\nE eles, ouvindo o que Jesus falou, foram saindo um a um, a começar pelos mais velhos; e Jesus ficou sozinho, com a mulher que estava lá, no meio do povo.\nEntão Jesus se levantou e disse: \"Mulher, onde estão eles? Ninguém te condenou?\"\nEla respondeu: \"Ninguém, Senhor\". Então Jesus lhe disse: \n\"Eu também não te condeno. Podes ir, e de agora em diante não peques mais\"."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nE Jesus despede a mulher com estas palavras maravilhosas: «Vai e de agora em diante não tornes a pecar» (v. 11). E assim Jesus abre diante dela um caminho novo, criado pela misericórdia, uma vereda que exige o seu compromisso de não voltar a pecar. Trata-se de um convite válido para cada um de nós: quando nos perdoa, Jesus abre-nos sempre um caminho novo para irmos em frente. Neste tempo de Quaresma, somos chamados a reconhecer-nos pecadores e a pedir perdão a Deus. E o perdão, por sua vez, enquanto nos reconcilia e nos concede a paz, leva-nos a recomeçar uma história renovada. Toda a verdadeira conversão visa um futuro novo, um caminho novo, uma vida boa, uma vida livre do pecado, uma vida generosa. Não tenhamos medo de pedir perdão a Jesus, porque Ele nos abre a porta para esta vida nova. A Virgem Maria nos ajude a testemunhar a todos o amor misericordioso de Deus que, em Jesus, nos perdoa e renova a nossa existência, oferecendo-nos sempre renovadas possibilidades. (Angelus de 7 de abril de 2019)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/06.html"
 }

@@ -2,8 +2,18 @@
   "date": "2025-05-05T00:00:00",
   "formatted_date": "05/05/2025",
   "day_of_week": "Monday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "6,8-15\nNaqueles dias,\nEstêvão, cheio de graça e poder,fazia prodígios e grandes sinais entre o povo.\nMas alguns membros da chamada Sinagoga dos Libertos,\njunto com cirenenses e alexandrinos,e alguns da Cilícia e da Ásia,começaram a discutir com Estêvão.\nPorém, não conseguiamresistir à sabedoria e ao Espírito com que ele falava.\nEntão subornaram alguns indivíduos, que disseram:\"Ouvimos este homem dizendo blasfêmiascontra Moisés e contra Deus\".\nDesse modo, incitaram o povo,os anciãos e os doutores da Lei,que prenderam Estêvão e o conduziram ao Sinédrio.\nAí apresentaram falsas testemunhas, que diziam:\"Este homem não cessa de falarcontra este lugar santo e contra a Lei.\nE nós o ouvimos afirmar que Jesus Nazarenoia destruir este lugar e ia mudar os costumesque Moisés nos transmitiu\".\nTodos os que estavam sentados no Sinédriotinham os olhos fixos sobre Estêvão,e viram seu rosto como o rosto de um anjo."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "6,22-29\nDepois que Jesus saciara os cinco mil homens,seus discípulos o viram andando sobre o mar.\nNo dia seguinte, a multidãoque tinha ficado do outro lado do marconstatou que havia só uma barcae que Jesus não tinha subido para ela com os discípulos,mas que eles tinham partido sozinhos.\nEntretanto, tinham chegado outras barcas de Tiberíades,perto do lugar onde tinham comido o pãodepois de o Senhor ter dado graças.\nQuando a multidão viuque Jesus não estava ali,nem os seus discípulos,subiram às barcase foram à procura de Jesus, em Cafarnaum.\nQuando o encontraram no outro lado do mar,perguntaram-lhe:\"Rabi, quando chegaste aqui?\"\nJesus respondeu:\"Em verdade, em verdade, eu vos digo:estais me procurando não porque vistes sinais,mas porque comestes pão e ficastes satisfeitos.\nEsforçai-vos não pelo alimento que se perde,mas pelo alimento que permanece até a vida eterna,e que o Filho do homem vos dará.Pois este é quem o Pai marcou com seu selo\".\nEntão perguntaram:\"Que devemos fazer para realizar as obras de Deus?\"\nJesus respondeu:\"A obra de Deus é que acrediteisnaquele que ele enviou\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/05.html"
 }

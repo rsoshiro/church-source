@@ -2,8 +2,18 @@
   "date": "2025-05-06T00:00:00",
   "formatted_date": "06/05/2025",
   "day_of_week": "Tuesday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "7,51-8,1a\nNaqueles dias, Estêvão disse ao povo, aos anciãose aos doutores da lei:\n\"Homens de cabeça dura, insensíveis\ne incircuncisos de coração e ouvido!Vós sempre resististes ao Espírito Santoe como vossos pais agiram, assim fazeis vós!\nA qual dos profetas vossos pais não perseguiram?Eles mataram aqueles que anunciavam a vinda do Justo,do qual, agora, vós vos tornastes traidores e assassinos.\nVós recebestes a Lei, por meio de anjos,e não a observastes!\"\nAo ouvir essas palavras, eles ficaram enfurecidose rangeram os dentes contra Estêvão.\nEstêvão, cheio do Espírito Santo,olhou para o céu e viu a glória de Deuse Jesus, de pé, à direita de Deus.\nE disse: \"Estou vendo o céu aberto,e o Filho do Homem, de pé, à direita de Deus\".\nMas eles, dando grandes gritos e, tapando os ouvidos,avançaram todos juntos contra Estêvão;\narrastaram-no para fora da cidadee começaram a apedrejá-lo.As testemunhas deixaram suas vestesaos pés de um jovem, chamado Saulo.\nEnquanto o apedrejavam, Estêvão clamou dizendo:\"Senhor Jesus, acolhe o meu espírito\".\nDobrando os joelhos, gritou com voz forte:\"Senhor, não os condenes por este pecado\".E, ao dizer isto, morreu.\nSaulo era um dos que aprovavam a execução de Estêvão."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "6,30-35\nNaquele tempo, a multidão perguntou a Jesus:\n\"Que sinal realizas,para que possamos ver e crer em ti?\"Que obra fazes?\nNossos pais comeram o maná no deserto,como está na Escritura:'Pão do céu deu-lhes a comer'\".\nJesus respondeu:\"Em verdade, em verdade vos digo,não foi Moisés quem vos deuo pão que veio do céu.É meu Pai que vos dá o verdadeiro pão do céu.\nPois o pão de Deus é aquele que desce do céue dá vida ao mundo\".\nEntão pediram:\"Senhor, dá-nos sempre desse pão\".\nJesus lhes disse:\"Eu sou o pão da vida.Quem vem a mim não terá mais fomee quem crê em mim nunca mais terá sede\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/06.html"
 }

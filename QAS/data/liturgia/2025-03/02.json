@@ -2,13 +2,28 @@
   "date": "2025-03-02T00:00:00",
   "formatted_date": "02/03/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura\nLeitura do Livro do Eclesiástico \n27,5-8 (gr. 4-7)\nQuando a gente sacode a peneira, ficam nela só os refugos; assim os defeitos de um homem aparecem no seu falar.\nComo o forno prova os vasos do oleiro, assim o homem é provado em sua conversa,\nO fruto revela como foi cultivada a árvore; assim, a palavra mostra o coração do homem.\nNão elogies a ninguém, antes de ouvi-lo falar: pois é no falar que o homem se revela."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura\nLeitura da Primeira Carta de São Paulo aos Coríntios \n15,54-58\nIrmãos:\nQuando este ser corruptível estiver vestido de incorruptibilidade e este ser mortal estiver vestido de imortalidade, então estará cumprida a palavra da Escritura: \"A morte foi tragada pela vitória.\nÓ morte, onde está a tua vitória? Onde está o teu aguilhão?\"\nO aguilhão da morte é o pecado, e a força do pecado é a Lei.\nGraças sejam dadas a Deus que nos dá a vitória pelo Senhor nosso, Jesus Cristo.\nPortanto, meus amados irmãos, sede firmes e inabaláveis, empenhando-vos cada vez mais na obra do Senhor, certos de que vossas fadigas não são em vão, no Senhor."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Lucas \n6,39-45 \nNaquele tempo,\nJesus contou uma parábola aos discípulos: \"Pode um cego guiar outro cego? Não cairão os dois num buraco?\nUm discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre.\nPor que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho?\nComo podes dizer a teu irmão: irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão.\nNão existe árvore boa que dê frutos ruins, nem árvore ruim que dê frutos bons.\nToda árvore é reconhecida pelos seus frutos. Não se colhem figos de espinheiros, nem uvas de plantas espinhosas.\nO homem bom tira coisas boas do bom tesouro do seu coração. Mas o homem mau tira coisas más do seu mau tesouro, pois sua boca fala do que o coração está cheio\"."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nA página evangélica hodierna apresenta breves parábolas, com as quais Jesus deseja indicar aos seus discípulos o caminho a percorrer para viver com sabedoria. Com a pergunta: «Um cego pode guiar outro cego?» (Lc 6, 39), Ele quer frisar que um guia não pode ser cego, mas deve ver bem, isto é, deve possuir a sabedoria para guiar com sabedoria, caso contrário corre o risco de causar danos às pessoas que a ele se confiam. Assim Jesus chama a atenção de quantos têm responsabilidades educativas ou de chefia: os pastores de almas, as autoridades públicas, os legisladores, os mestres, os pais, exortando-os a estar cientes do próprio papel delicado e a discernir sempre o caminho certo pelo qual conduzir as pessoas. [...] No trecho de hoje encontramos outra frase significativa, que exorta a não ser presunçoso nem hipócrita. Diz assim: «Porque reparas no argueiro que está na vista do teu irmão, e não reparas na trave que está na tua própria vista?» (v. 41). Muitas vezes, todos sabemos, é mais fácil ou cômodo ver e condenar os defeitos e os pecados alheios, sem conseguir ver os próprios com a mesma lucidez. Escondemos sempre os nossos defeitos, inclusive de nós mesmos; mas, é fácil ver os defeitos alheios. [...] Todos temos defeitos: todos. Devemos estar cientes disto e, antes de condenar os outros, devemos olhar para dentro de nós mesmos. Assim podemos agir de modo credível, com humildade, testemunhando a caridade. (Angelus de 3 de março de 2019)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/02.html"
 }
-
-# Dados atualizados manualmente
-
-
-# Dados atualizados manualmente

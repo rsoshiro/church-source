@@ -2,10 +2,23 @@
   "date": "2025-03-15T00:00:00",
   "formatted_date": "15/03/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Deuteronômio \n26, 16-19 \nMoisés dirigiu a palavra ao povo de Israel e lhe disse:\n\"Hoje, o Senhor teu Deus te manda cumprir esses preceitos e decretos. Guarda-os e observa-os com todo o teu coração e com toda a tua alma.\nTu escolheste hoje o Senhor para ser o teu Deus, para seguires os seus caminhos, e guardares seus preceitos, mandamentos e decretos, e para obedeceres à sua voz.\nE o Senhor te escolheu, hoje, \npara que sejas para ele um povo particular, \ncomo te prometeu, a fim de observares todos os seus mandamentos.\nAssim ele te fará ilustre entre todas as nações que criou, e te tornará superior em honra e glória, a fim de que sejas o povo santo do Senhor teu Deus, como ele disse\"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Mateus \n5,43-48  \nNaquele tempo, disse Jesus aos seus discípulos:\n\"Vós ouvistes o que foi dito: 'Amarás o teu próximo e odiarás o teu inimigo!'\nEu, porém, vos digo: Amai os vossos inimigos e rezai por aqueles que vos perseguem!\nAssim, vos tornareis filhos do vosso Pai que está nos céus, porque ele faz nascer o sol sobre maus e bons, e faz cair a chuva sobre justos e injustos.\nPorque, se amais somente aqueles que vos amam, que recompensa tereis? Os cobradores de impostos não fazem a mesma coisa?\nE se saudais somente os vossos irmãos, o que fazeis de extraordinário? Os pagãos não fazem a mesma coisa?\nPortanto, sede perfeitos como o vosso Pai celeste é perfeito\"."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nQuando ouvimos isto, parece-nos que o Senhor pode o impossível. E depois, por que amar os inimigos? Se não se reagir aos prepotentes, qualquer abuso tem livre trânsito, e isso não é correto. Mas será mesmo assim? Será que o Senhor nos pede realmente coisas que são impossíveis, e aliás injustas? É assim? (â¦) é possível que uma pessoa consiga amar os próprios inimigos? Se dependesse apenas de nós, seria impossível. Mas lembremo-nos que quando o Senhor pede algo, Ele quer oferecê-lo. O Senhor nunca nos pede algo que não nos dê primeiro. Quando Ele me diz para amar os inimigos, quer dar-me a capacidade de o fazer. Sem esta capacidade não conseguiríamos, mas Ele diz-nos âamai o inimigoâ e dá-nos a capacidade de amar. (...) A força de amar é o Espírito Santo, e com o Espírito de Jesus podemos responder ao mal com o bem, podemos amar quem nos fere. Assim fazem os cristãos. Como é triste quando pessoas e povos orgulhosos por ser cristãos veem os outros como inimigos e pensam em fazer guerra! É muito triste! (Angelus de 20 de fevereiro de 2022)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/15.html"
 }
-
-# Dados atualizados manualmente

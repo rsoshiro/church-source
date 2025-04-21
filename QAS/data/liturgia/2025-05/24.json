@@ -2,8 +2,18 @@
   "date": "2025-05-24T00:00:00",
   "formatted_date": "24/05/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "16,1-10\nNaqueles dias:\nPaulo foi para Derbe e Listra.\nHavia em Listra um discípulo chamado Timóteo,filho de uma judia, crente, e de pai grego.\nOs irmãos de Listra e Icôniodavam bom testemunho de Timóteo.\nPaulo quis então que Timóteo partisse com ele.\nTomou-o consigo e circuncidou-o,por causa dos judeus\nque se encontravam nessas regiões,pois todos sabiam que o pai de Timóteo era grego.\nPercorrendo as cidades,Paulo e Timóteo transmitiam as decisõesque os apóstolos e anciãos de Jerusalém haviam tomado.E recomendavam que fossem observadas.\nAs igrejas fortaleciam-se na fé\ne, de dia para dia, cresciam em número.\nPaulo e Timóteo atravessaram a Frígia\ne a região da Galácia,pois o Espírito Santo os proibirade pregar a Palavra de Deus na Ásia.\nChegando perto da Mísia,eles tentaram entrar na Bitínia,mas o Espírito de Jesus os impediu.\nEntão atravessaram a Mísiae desceram para Trôade.\nDurante a noite, Paulo teve uma visão:na sua frente, estava de péum macedônio que lhe suplicava:\"Vem à Macedônia e ajuda-nos!\""
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "15,18-21\nNaquele tempo, disse Jesus aos seus discípulos:\n\"Se o mundo vos odeia,sabei que primeiro me odiou a mim.\nSe fôsseis do mundo,\no mundo gostaria daquilo que lhe pertence.Mas, porque não sois do mundo,porque eu vos escolhi e apartei do mundo,o mundo por isso vos odeia.\nLembrai-vos daquilo que eu vos disse:'O servo não é maior que seu senhor'.Se me perseguiram a mim,também perseguirão a vós.Se guardaram a minha palavra,também guardarão a vossa.\nTudo isto eles farão contra vós\npor causa do meu nome,porque não conhecem aquele que me enviou\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/24.html"
 }

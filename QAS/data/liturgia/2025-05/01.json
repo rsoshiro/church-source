@@ -2,10 +2,18 @@
   "date": "2025-05-01T00:00:00",
   "formatted_date": "01/05/2025",
   "day_of_week": "Thursday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "5,27-33\nNaqueles dias, os guardas\nlevaram os apóstolos e os apresentaram ao Sinédrio.O sumo sacerdote começou a interrogá-los,\ndizendo: \"Nós tínhamos proibido expressamenteque vós ensinásseis em nome de Jesus.Apesar disso, enchestes a cidade de Jerusalémcom a vossa doutrina.E ainda nos quereis tornar responsáveispela morte desse homem!\"\nEntão Pedro e os outros apóstolos responderam:\"É preciso obedecer a Deus, antes que aos homens.\nO Deus de nossos pais ressuscitou Jesus,a quem vós matastes, pregando-o numa cruz.\nDeus, por seu poder, o exaltou,tornando-o Guia Supremo e Salvador,para dar ao povo de Israel a conversãoe o perdão dos seus pecados.\nE disso somos testemunhas, nós e o Espírito Santo,que Deus concedeu àqueles que lhe obedecem\".\nQuando ouviram isto,ficaram furiosos e queriam matá-los."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "3,31-36\n\"Aquele que vem do altoestá acima de todos.O que é da terra,pertence à terra e fala das coisas da terra.Aquele que vem do céuestá acima de todos.\nDá testemunho daquilo que viu e ouviu,mas ninguém aceita o seu testemunho.\nQuem aceita o seu testemunhoatesta que Deus é verdadeiro.\nDe fato, aquele que Deus envioufala as palavras de Deus,porque Deus lhe dá o espírito sem medida.\nO Pai ama o Filhoe entregou tudo em sua mão.\nAquele que acredita no Filhopossui a vida eterna.Aquele, porém, que rejeita o Filho não verá a vida,pois a ira de Deus permanece sobre ele\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/01.html"
 }
-
-# Dados atualizados manualmente

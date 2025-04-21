@@ -2,8 +2,18 @@
   "date": "2025-04-29T00:00:00",
   "formatted_date": "29/04/2025",
   "day_of_week": "Tuesday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Atos dos Apóstolos",
+      "content": "4,32-37\nA multidão dos fiéisera um só coração e uma só alma.\nNinguém considerava como próprias as coisas que possuía,\nmas tudo entre eles era posto em comum.\nCom grandes sinais de poder,os apóstolos davam testemunhoda ressurreição do Senhor Jesus.\nE os fiéis eram estimados por todos.\nEntre eles ninguém passava necessidade,pois aqueles que possuíam terras ou casas,vendiam-nas, levavam o dinheiro,\ne o colocavam aos pés dos apóstolos.\nDepois, era distribuídoconforme a necessidade de cada um.\nJosé, chamado pelos apóstolos de Barnabé,que significa filho da consolação,levita e natural de Chipre,\npossuía um campo.Vendeu e foi depositar o dinheiroaos pés dos apóstolos.Palavra do Senhor."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "3,7b-15\nNaquele tempo, disse Jesus a Nicodemos:\n\"Vós deveis nascer do alto.\nO vento sopra onde quere tu podes ouvir o seu ruído,mas não sabes de onde vem, nem para onde vai.Assim acontece a todo aquele que nasceu do Espírito\".\nNicodemos perguntou:\"Como é que isso pode acontecer?\"\nRespondeu-lhe Jesus:\"Tu és mestre em Israel,mas não sabes estas coisas?\nEm verdade, em verdade te digo,nós falamos daquilo que sabemose damos testemunho daquilo que temos visto,mas vós não aceitais o nosso testemunho.\nSe não acreditais,\nquando vos falo das coisas da terra,como acreditareisse vos falar das coisas do céu?\nE ninguém subiu ao céu,a não ser aquele que desceu do céu,o Filho do Homem.\nDo mesmo modo como Moiséslevantou a serpente no deserto,assim é necessárioque o Filho do Homem seja levantado,\npara que todos os que nele creremtenham a vida eterna\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/29.html"
 }

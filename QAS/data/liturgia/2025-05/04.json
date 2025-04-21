@@ -2,8 +2,18 @@
   "date": "2025-05-04T00:00:00",
   "formatted_date": "04/05/2025",
   "day_of_week": "Sunday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura \nLeitura dos Atos dos Apóstolos \n5,27b-32.40b-41  \nNaqueles dias, os guardas levaram os apóstolos e os apresentaram ao Sinédrio.\nO sumo sacerdote começou a interrogá-los, dizendo: \n\"Nós tínhamos proibido expressamente\nque vós ensinásseis em nome de Jesus. Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina. E ainda nos quereis tornar responsáveis pela morte desse homem!\"\nEntão Pedro e os outros apóstolos responderam: \"É preciso obedecer a Deus, antes que aos homens.\nO Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz.\nDeus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados.\nE disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem\".\nEntão mandaram açoitar os apóstolos e proibiram que eles falassem em nome de Jesus, e depois os soltaram.\nOs apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura\nLeitura do Livro do Apocalipse de São João\n5,11-14  \nEu, João, vi\ne ouvi a voz de numerosos anjos, que estavam em volta do trono, e dos Seres vivos e dos Anciãos. Eram milhares de milhares, milhões de milhões,\ne proclamavam em alta voz: \"O Cordeiro imolado é digno de receber o poder, a riqueza, a sabedoria e a força, a honra, a glória e o louvor\".\nOuvi também todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, e diziam: \"Ao que está sentado no trono e ao Cordeiro, o louvor e a honra, a glória e o poder para sempre\".\nOs quatro Seres vivos respondiam: \"Amém\", e os Anciãos se prostraram em adoração daquele que vive para sempre."
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/04.html"
 }

@@ -2,8 +2,23 @@
   "date": "2025-05-22T00:00:00",
   "formatted_date": "22/05/2025",
   "day_of_week": "Thursday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "15,7-21\nNaqueles dias,"
+    },
+    {
+      "type": "evangelho",
+      "title": "Depois de longa discussão,Pedro levantou-se e falou aos apóstolos e anciãos:\"Irmãos, vós sabeis que, desde os primeiros dias,Deus me escolheu, do vosso meio,para que os pagãos ouvissem de minha bocaa palavra do Evangelho e acreditassem.",
+      "content": "Ora, Deus, que conhece os corações,testemunhou a favor deles,dando-lhes o Espírito Santo como o deu a nós.\nE não fez nenhuma distinção entre nós e eles,purificando o coração deles mediante a fé.\nEntão, por que vós agora colocais Deus à prova,querendo impor aos discípulos um jugoque nem nossos pais e nem nós mesmostivemos força para suportar?\nAo contrário, é pela graça do Senhor Jesusque acreditamos ser salvos,exatamente como eles\".\nHouve então um grande silêncio em toda a assembleia.Depois disso, ouviram Barnabé e Paulocontar todos os sinais e prodígiosque Deus havia realizado,por meio deles, entre os pagãos.\nQuando Barnabé e Paulo terminaram de falar,Tiago tomou a palavra e disse:\"Irmãos, ouvi-me:\nSimão acaba de nos lembrar como, desde o começo,Deus se dignou tomar homens das nações pagãspara formar um povo dedicado ao seu Nome.\nIsso concorda com as palavras dos profetas,pois está escrito:\n'Depois disso, eu voltareie reconstruirei a tenda de Davi que havia caído;reconstruirei as ruínas que ficaram e a reerguerei,\na fim de que o resto dos homensprocure o Senhor com todas as naçõesque foram consagradas ao meu Nome.\nÉ o que diz o Senhor, que fez estas coisas,\nconhecidas há muito tempo'.\nPor isso, sou do parecerque devemos parar de importunaros pagãos que se convertem a Deus.\nVamos somente prescreverque eles evitem o que está contaminado pelos ídolos,as uniões ilegítimas,\ncomer carne de animal sufocadoe o uso do sangue.\nCom efeito, desde os tempos antigos,em cada cidade, Moisés tem os seus pregadores,que o lêem todos os sábados nas sinagogas\"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "15,9-11\nNaquele tempo, disse Jesus a seus discípulos:\n\"Como meu Pai me amou,assim também eu vos amei.Permanecei no meu amor.\nSe guardardes os meus mandamentos,permanecereis no meu amor,assim como eu guardei os mandamentos do meu Paie permaneço no seu amor.\nEu vos disse isto,para que a minha alegria esteja em vóse a vossa alegria seja plena\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/22.html"
 }

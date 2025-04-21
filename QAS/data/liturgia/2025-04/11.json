@@ -2,8 +2,23 @@
   "date": "2025-04-11T00:00:00",
   "formatted_date": "11/04/2025",
   "day_of_week": "Friday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Profeta Jeremias \n20,10-13  \nEu ouvi as injúrias de tantos homens e os vi espalhando o medo em redor: \"Denunciai-o, denunciemo-lo\". Todos os amigos observavam minhas falhas: \"Talvez ele cometa um engano \ne nós poderemos apanhá-lo e desforrar-nos dele\".\nMas o Senhor está ao meu lado, \ncomo forte guerreiro; por isso, os que me perseguem cairão vencidos. Por não terem tido êxito, eles se cobrirão de vergonha. Eterna infâmia, que nunca se apaga!\nÓ Senhor dos exércitos, \nque provas o homem justo e vês os sentimentos do coração, rogo-te me faças ver tua vingança sobre eles; pois eu te declarei a minha causa.\nCantai ao Senhor, louvai o Senhor, pois ele salvou a vida de um pobre homem das mãos dos maus."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo João \n10,31-42\nNaquele tempo,\nos judeus pegaram pedras para apedrejar Jesus.\nE ele lhes disse: \"Por ordem do Pai, mostrei-vos muitas obras boas. Por qual delas me quereis apedrejar?\"\nOs judeus responderam: \"Não queremos te apedrejar por causa das obras boas, mas por causa de blasfêmia, porque sendo apenas um homem, tu te fazes Deus!\"\nJesus disse: \"Acaso não está escrito na vossa Lei: 'Eu disse: vós sois deuses'?\nOra, ninguém pode anular a Escritura: se a Lei chama deuses as pessoas às quais se dirigiu a palavra de Deus,\npor que então me acusais de blasfêmia, quando eu digo que sou Filho de Deus, eu a quem o Pai consagrou e enviou ao mundo?\nSe não faço as obras do meu Pai, não acrediteis em mim.\nMas, se eu as faço, mesmo que não queirais acreditar em mim, acreditai nas minhas obras, para que saibais e reconheçais que o Pai está em mim e eu no Pai\".\nOutra vez procuravam prender Jesus, mas ele escapou das mãos deles.\nJesus passou para o outro lado do Jordão, e foi para o lugar \nonde, antes, João tinha batizado. E permaneceu ali.\nMuitos foram ter com ele, e diziam: \"João não realizou nenhum sinal, mas tudo o que ele disse a respeito deste homem, é verdade\".\nE muitos, ali, acreditaram nele."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nEsta reconciliação é recriação do mundo e a missão mais profunda de Jesus: a redenção de todos nós, pecadores. E Jesus faz isto não com palavras, nem com gestos ou caminhando nas ruas, não! Fá-lo com a sua carne. É precisamente Deus que se torna um de nós, homem, para nos curar a partir de dentro, a nós pecadores. (...) Esse é o maior milagre. E o que Jesus faz com isso? Ele nos torna filhos, com a liberdade dos filhos. E por isso podemos dizer: âPai!â Ao contrário, nunca poderíamos dizer isso. âPai!â, e dizer âPaiâ com uma atitude tão boa e tão bonita. Com liberdade. Esse é o grande milagre de Jesus. Nós, escravos do pecado, nos libertou, nos curou bem no fundo de nossa existência. Será bom para nós pensarmos nisso e pensarmos quanto é belo ser filho. É tão bela essa liberdade dos filhos, porque o Filho está em casa. Jesus nos abriu as portas de casa, agora estamos em casa. (...) Essa é a raiz de nossa coragem: sou livre, sou filho, o Pai me ama e eu amo o Pai. Peçamos ao Senhor a graça de entender bem essa Sua obra, o que Deus fez nâEle. Deus reconciliou o mundo consigo mesmo em Cristo, confiando a nós a palavra da reconciliação. E a graça de levar adiante essa palavra de reconciliação com força, com a liberdade de filhos. Somos salvos em Jesus Cristo e ninguém pode roubar de nós essa carteira de identidade: esse é o meu nome, filho de Deus. Bela carteira de identidade. Estado civil: livre. Que assim seja. (Homilia na Capela da Casa Santa Marta, 7 de julho de 2013)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/11.html"
 }

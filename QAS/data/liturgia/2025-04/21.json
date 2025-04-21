@@ -2,8 +2,18 @@
   "date": "2025-04-21T00:00:00",
   "formatted_date": "21/04/2025",
   "day_of_week": "Monday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "2,14.22-32\nNo dia de Pentecostes,\nPedro de pé, junto com os onze apóstolos,levantou a voz e falou à multidão:\n\"Homens de Israel, escutai estas palavras:Jesus de Nazaré foi um homem aprovado por Deus,junto de vós, pelos milagres, prodígios e sinaisque Deus realizou, por meio dele, entre vós.Tudo isto vós bem o sabeis.\nDeus, em seu desígnio e previsão,determinou que Jesus\nfosse entregue pelas mãos dos ímpios,\ne vós o matastes, pregando-o numa cruz.\nMas Deus ressuscitou a Jesus,libertando-o das angústias da morte,porque não era possível que ela o dominasse.\nPois Davi dele diz:'Eu via sempre o Senhor diante de mim,\npois está à minha direita para eu não vacilar.\nAlegrou-se por isso meu coraçãoe exultou minha línguae até minha carne repousará na esperança.\nPorque não deixarás minha alma na região dos mortos\nnem permitirás que teu Santo experimente corrupção.\nDeste-me a conhecer os caminhos da vida\ne a tua presença me encherá de alegria'.\nIrmãos,\nseja-me permitido dizer com franquezaque o patriarca Davi morreu e foi sepultado\ne seu sepulcro está entre nós até hoje.\nMas, sendo profeta,\nsabia que Deus lhe jurara solenemente\nque um de seus descendentes ocuparia o trono.\nÉ, portanto, a ressurreição de Cristo\nque previu e anunciou com as palavras:'Ele não foi abandonado na região dos mortose sua carne não conheceu a corrupção'.\nCom efeito, Deus ressuscitou este mesmo Jesuse disto todos nós somos testemunhas\"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+      "content": "28,8-15\nNaquele tempo,\nas mulheres partiram depressa do sepulcro.Estavam com medo,\nmas correram com grande alegria,para dar a notícia aos discípulos.\nDe repente, Jesus foi ao encontro delas, e disse:\"Alegrai-vos!\"As mulheres aproximaram-se,e prostraram-se diante de Jesus,\nabraçando seus pés.\nEntão Jesus disse a elas:\n\"Não tenhais medo.Ide anunciar aos meus irmãosque se dirijam para a Galileia.Lá eles me verão\".\nQuando as mulheres partiram,alguns guardas do túmulo foram à cidade,e comunicaram aos sumos sacerdotestudo o que havia acontecido.\nOs sumos sacerdotes reuniram-se com os anciãos,e deram uma grande soma de dinheiro aos soldados,\ndizendo-lhes:\"Dizei que os discípulos dele foram durante a noitee roubaram o corpo, enquanto vós dormíeis.\nSe o governador ficar sabendo disso,\nnós o convenceremos.Não vos preocupeis\".\nOs soldados pegaram o dinheiro,e agiram de acordo com as instruções recebidas.E assim, o boato espalhou-se entre os judeus,até ao dia de hoje.\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/21.html"
 }

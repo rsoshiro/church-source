@@ -2,8 +2,23 @@
   "date": "2025-04-05T00:00:00",
   "formatted_date": "05/04/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Profeta Jeremias \n11,18-20\nSenhor, avisaste-me e eu entendi; fizeste-me saber as intrigas deles.\nEu era como manso cordeiro levado ao sacrifício, e não sabia que tramavam contra mim: \"Vamos cortar a árvore em toda sua força, eliminá-lo do mundo dos vivos, para seu nome não ser mais lembrado\".\nE tu, Senhor dos exércitos, que julgas com justiça e perscrutas os afetos do coração, concede que eu veja a vingança que tomarás contra eles, pois eu te confiei a minha causa. Palavra do Senhor."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo João \n7,40-53 \nNaquele tempo,\nao ouvirem as palavras de Jesus, algumas pessoas da multidão diziam: \"Este é, verdadeiramente, o Profeta\".\nOutros diziam: \"Ele é o Messias\". Mas alguns objetavam: \"Porventura o Messias virá da Galileia?\nNão diz a Escritura que o Messias será da descendência de Davi e virá de Belém, povoado de onde era Davi?\"\nAssim, houve divisão no meio do povo por causa de Jesus.\nAlguns queriam prendê-lo, mas ninguém pôs as mãos nele.\nEntão, os guardas do Templo voltaram para os sumos sacerdotes e os fariseus, e estes lhes perguntaram: \"Por que não o trouxestes?\"\nOs guardas responderam: \"Ninguém jamais falou como este homem\".\nEntão os fariseus disseram-lhes: \"Também vós vos deixastes enganar?\nPor acaso algum dos chefes ou dos fariseus \nacreditou nele?\nMas esta gente que não conhece a Lei, é maldita!\"\nNicodemos, porém, um dos fariseus, aquele que se tinha encontrado com Jesus anteriormente, disse:\n\"Será que a nossa Lei julga alguém, antes de o ouvir e saber o que ele fez?\"\nEles responderam: \"Também tu és galileu, porventura? Vai estudar e verás que da Galileia não surge profeta\".\nE cada um voltou para sua casa."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\n«E cada um voltou para a sua casa» (Jo 7, 53): após a discussão e tudo o mais, cada um voltou às suas convicções. Há uma ruptura no povo: as pessoas que seguem Jesus escutam-no - não se dão conta do muito tempo que passam ouvindo-o, porque a Palavra de Jesus entra no coração - e o grupo de Doutores da Lei que a priori rejeitam Jesus porque não age de acordo com a lei, de acordo com eles. São dois grupos de pessoas. O povo que ama Jesus, que o segue, e o grupo dos intelectuais da Lei, os chefes de Israel, os líderes do povo. Isto é claro «quando os guardas foram ter com os chefes dos sacerdotes, os quais lhes disseram: «Por que não o trouxestes aqui?»; os guardas responderam: âNunca um homem falou assimâ. Mas os fariseus lhes responderam: âVocês também se deixaram enganar?â... Este grupo de doutores da Lei, a elite, sente desprezo por Jesus. Mas também desprezam o povo, âaquelas pessoasâ, que são ignorantes, que não sabem nada. O povo santo e fiel de Deus. (Homilia na Capela da Casa Santa Marta, 28 de março de 2020)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/04/05.html"
 }

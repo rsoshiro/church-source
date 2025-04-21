@@ -2,10 +2,28 @@
   "date": "2025-03-19T00:00:00",
   "formatted_date": "19/03/2025",
   "day_of_week": "Wednesday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Primeira Leitura",
+      "content": "Primeira Leitura\nLeitura do Segundo Livro de Samuel \n7,4-5a.12-14a.16  \nNaqueles dias,\na Palavra do Senhor foi dirigida a Natã \nnestes termos:\n\"Vai dizer ao meu servo Davi: 'Assim fala o Senhor:\nQuando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza.\nSerá ele que construirá uma casa para o meu nome, e eu firmarei para sempre o seu trono real.\nEu serei para ele um pai e ele será para mim um filho.\nTua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre'\"."
+    },
+    {
+      "type": "segunda_leitura",
+      "title": "Segunda Leitura",
+      "content": "Segunda Leitura \nLeitura da Carta de São Paulo aos Romanos \n4,13.16-18.22\nIrmãos,\nnão foi por causa da Lei, mas por causa da justiça que vem da fé, que Deus prometeu o mundo como herança a Abraão ou à sua descendência.\nÉ em virtude da fé que alguém se torna herdeiro. Logo, a condição de herdeiro é uma graça, um dom gratuito, e a promessa de Deus continua valendo para toda a descendência de Abraão, tanto para a descendência que se apega à Lei, quanto para a que se apoia somente na fé de Abraão, que é o pai de todos nós.\nPois está escrito: \"Eu fiz de ti pai de muitos povos\". Ele é pai diante de Deus, porque creu em Deus que vivifica os mortos e faz existir o que antes não existia.\nContra toda a humana esperança, ele firmou-se na esperança e na fé. Assim, tornou-se pai de muitos povos, conforme lhe fora dito: \"Assim será a tua posteridade\".\nEsta sua atitude de fé lhe foi creditada como justiça."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Mateus \n1,16.18-21.24a\nJacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo.\nA origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse: \"José, Filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho, e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nMateus, dirigindo-se sobretudo aos judeus-cristãos, parte de Abraão e chega a José, definido como «o esposo de Maria, de quem nasceu Jesus, que se chama Cristo» (1, 16). [â¦] O evangelista Mateus ajuda-nos a compreender que a figura de José, embora aparentemente marginal, discreta, em segunda linha, representa antes de tudo um elemento central na história da salvação. José vive o seu protagonismo sem nunca querer apoderar-se da cena. [â¦] Ele lembra-nos que todos aqueles que aparentemente estão escondidos, ou na âsegunda linhaâ, têm um protagonismo inigualável na história da salvação. O mundo precisa destes homens e destas mulheres: homens e mulheres na segunda linha, mas que apoiam o desenvolvimento da nossa vida, de cada um de nós, e que com a oração, com o exemplo, com o ensinamento nos apoiam no caminho da vida.[...] Esta sociedade líquida, gasosa, encontra na história de José uma indicação muito clara da importância dos vínculos humanos. De fato, o Evangelho narra-nos a genealogia de Jesus, não só por uma razão teológica, mas também para recordar a cada um de nós que a nossa vida é constituída por laços que nos precedem e acompanham. O Filho de Deus escolheu o caminho dos vínculos para vir ao mundo, a via da história: não desceu ao mundo magicamente, não. Percorreu o caminho histórico que fazemos todos nós. (Audiência Geral de 24 de novembro de 2021)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/19.html"
 }
-
-# Dados atualizados manualmente

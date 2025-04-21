@@ -2,10 +2,23 @@
   "date": "2025-03-07T00:00:00",
   "formatted_date": "07/03/2025",
   "day_of_week": "Friday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura do Livro",
+      "content": "Leitura do Livro do Profeta Isaías \n58,1-9a\nAssim fala o Senhor Deus:\n\"Grita forte, sem cessar, levanta a voz como trombeta e denuncia os crimes do meu povo e os pecados da casa de Jacó.\nBuscam-me cada dia e desejam conhecer meus propósitos, como gente que pratica a justiça e não abandonou a lei de Deus. Exigem de mim julgamentos justos e querem estar na proximidade de Deus:\n'Por que não te regozijaste, quando jejuávamos, e o ignoraste, quando nos humilhávamos?' - É porque no dia do vosso jejum tratais de negócios e oprimis os vossos empregados.\nÉ porque ao mesmo tempo que jejuais, fazeis litígios e brigas e agressões impiedosas. Não façais jejum com esse espírito, se quereis que vosso pedido seja ouvido no céu.\nAcaso é esse jejum que aprecio, o dia em que uma pessoa se mortifica? Trata-se talvez de curvar a cabeça como junco, e de deitar-se em saco e sobre cinza? Acaso chamas a isso jejum, dia grato ao Senhor?\nAcaso o jejum que prefiro não é outro: - quebrar as cadeias injustas, desligar as amarras do jugo, tornar livres os que estão detidos, enfim, romper todo tipo de sujeição?\nNão é repartir o pão com o faminto, acolher em casa os pobres e peregrinos? Quando encontrares um nu, cobre-o, e não desprezes a tua carne.\nEntão, brilhará tua luz como a aurora e tua saúde há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá.\nEntão invocarás o Senhor e ele te atenderá, pedirás socorro, e ele dirá: 'Eis-me aqui' \"."
+    },
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Mateus \n9,14-15  \nNaquele tempo,\nos discípulos de João aproximaram-se de Jesus e perguntaram: \"Por que razão nós e os fariseus praticamos jejuns, mas os teus discípulos não?\"\nDisse-lhes Jesus: \"Por acaso, os amigos do noivo podem estar de luto enquanto o noivo está com eles? Dias virão em que o noivo será tirado do meio deles. Então, sim, eles jejuarão\"."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nO meu jejum ajuda os outros? Porque se não ajuda, é um jejum fingido, é incoerente e leva para um caminho de uma vida dupla. Finjo ser um cristão, certo... como os fariseus, como os saduceus. Mas, por dentro, não sou. Por isso, é preciso pedir humildemente a graça da coerência. A coerência. Se não posso fazer algo, não faço. Mas não o faço incoerentemente. Faça apenas o que eu puder fazer, mas com coerência cristã. Que o Senhor nos dê essa graça. (Homilia na Capela da Casa Santa Marta, 16 de fevereiro de 2018)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/07.html"
 }
-
-# Dados atualizados manualmente

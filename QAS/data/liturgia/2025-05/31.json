@@ -2,8 +2,13 @@
   "date": "2025-05-31T00:00:00",
   "formatted_date": "31/05/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura da Profecia",
+      "content": "Leitura da Profecia de Sofonias \n3,14-18  \nCanta de alegria, cidade de Sião; rejubila, povo de Israel! Alegra-te e exulta de todo o coração, cidade de Jerusalém!\nO Senhor revogou a sentença contra ti, afastou teus inimigos; o rei de Israel é o Senhor, ele está no meio de ti, nunca mais temerás o mal.\nNaquele dia, se dirá a Jerusalém: \"Não temas, Sião, não te deixes levar pelo desânimo!\nO Senhor, teu Deus, está no meio de ti, o valente guerreiro que te salva; ele exultará de alegria por ti, movido por amor; exultará por ti, entre louvores,\ncomo nos dias de Festa. Afastarei de ti a desgraça, para que nunca mais te cause humilhação\"."
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/31.html"
 }

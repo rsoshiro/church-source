@@ -2,8 +2,18 @@
   "date": "2025-05-17T00:00:00",
   "formatted_date": "17/05/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "13,44-52\nNo sábado seguinte, quase toda a cidade se reuniupara ouvir a palavra de Deus.\nAo verem aquela multidão,os judeus ficaram cheios de invejae, com blasfêmias, opunham-se ao que Paulo dizia.\nEntão, com muita coragem,Paulo e Barnabé declararam:\"Era preciso anunciar a palavra de Deus primeiro a vós.Mas, como a rejeitaise vos considerais indignos da vida eterna,sabei que nos vamos dirigir aos pagãos.\nPorque esta é a ordem que o Senhor nos deu:'Eu te coloquei como luz para as nações,para que leves a salvaçãoaté os confins da terra'\".\nOs pagãos ficaram muito contentes,quando ouviram isso,e glorificavam a palavra do Senhor.Todos os que eram destinados à vida eterna,abraçaram a fé.\nDesse modo, a palavra do Senhor\nespalhava-se por toda a região.\nMas os judeus instigaram\nas mulheres ricas e religiosas,\nassim como os homens influentes da cidade,\nprovocaram uma perseguição contra Paulo e Barnabé\ne expulsaram-nos do seu território.\nEntão os apóstolos sacudiram contra eles\na poeira dos pés, e foram para a cidade de Icônio.\nOs discípulos, porém ficaram cheios de alegria\ne do Espírito Santo."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "14,7-14\nNaquele tempo, disse Jesus a seus discípulos:\n\"Se vós me conhecêsseis,conheceríeis também o meu Pai.E desde agora o conheceis e o vistes\".\nDisse Filipe:\"Senhor, mostra-nos o Pai, isso nos basta!\"\nJesus respondeu:\"Há tanto tempo estou convosco,e não me conheces, Filipe?Quem me viu, viu o Pai.Como é que tu dizes:'Mostra-nos o Pai'?\nNão acreditas que eu estou no Paie o Pai está em mim?As palavras que eu vos digo,não as digo por mim mesmo,mas é o Pai que, permanecendo em mim,realiza as suas obras.\nAcreditai-me: eu estou no Paie o Pai está em mim.Acreditai, ao menos, por causa destas mesmas obras.\nEm verdade, em verdade vos digo,quem acredita em mimfará as obras que eu faço,e fará ainda maiores do que estas.Pois eu vou para o Pai,\ne o que pedirdes em meu nome, eu o realizarei,a fim de que o Pai seja glorificado no Filho.\nSe pedirdes algo em meu nome,eu o realizarei\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/17.html"
 }

@@ -2,10 +2,18 @@
   "date": "2025-03-24T00:00:00",
   "formatted_date": "24/03/2025",
   "day_of_week": "Monday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "evangelho",
+      "title": "Evangelho",
+      "content": "Evangelho do Dia\nProclamação do Evangelho de Jesus Cristo segundo Lucas \n4,24-30\nJesus, vindo a Nazaré, disse ao povo na sinagoga:\n\"Em verdade eu vos digo que nenhum profeta é bem recebido em sua pátria.\nDe fato, eu vos digo: no tempo do profeta Elias, quando não choveu durante três anos e seis meses e houve grande fome em toda a região, havia muitas viúvas em Israel.\nNo entanto, a nenhuma delas foi enviado Elias, senão a uma viúva que vivia em Sarepta, na Sidônia.\nE no tempo do profeta Eliseu, havia muitos leprosos em Israel. Contudo, nenhum deles foi curado, mas sim Naamã, o sírio\".\nQuando ouviram estas palavras de Jesus, todos na sinagoga ficaram furiosos.\nLevantaram-se e o expulsaram da cidade. Levaram-no até ao alto do monte sobre o qual a cidade estava construída, com a intenção de lançá-lo no precipício.\nJesus, porém, passando pelo meio deles, continuou o seu caminho."
+    },
+    {
+      "type": "santo_padre",
+      "title": "Palavras do Santo Padre",
+      "content": "Palavras do Santo Padre\nEstas palavras revelam que o fracasso para Jesus não foi totalmente inesperado. Conhecia o seu povo, conhecia o coração do seu povo, conhecia o risco que estava a correr e previa a rejeição. Então podemos perguntar-nos: se é assim, se previa o fracasso, por que foi à sua cidade? Por que fazer o bem a pessoas que não estão dispostas a aceitá-lo? É uma pergunta que nos fazemos com frequência. Contudo, é uma questão que nos ajuda a compreender melhor a Deus. Face aos nossos fechamentos, ele não retrocede: não põe limites ao seu amor. Perante os nossos fechamentos, ele vai em frente. Vemos um reflexo disto nos pais que estão conscientes da ingratidão dos filhos, mas não deixam de os amar e de lhes fazer o bem. Deus é assim, mas a um nível muito mais elevado. E hoje também nos convida a acreditar no bem, a nunca deixar de procurar fazer o bem. (Angelus de 30 de janeiro de 2022)\nSua contribuiÃ§Ã£o para uma grande missÃ£o: \nOutros eventos na programaÃ§Ã£o:\nSanto do dia\nOraÃ§Ãµes\nFestas LitÃºrgicas\nMissa Santa Marta\n nas nossas s\nPara receber as Ãºltimas notÃ­cias\n                                    Angelus\n                                    AudiÃªncias Gerais\nA Nossa FÃ©\n                                    Palavra do dia\nInformaÃ§Ãµes Ãteis\n                                    Quem somos\n                                    Contatos\n                                    Perguntas frequentes\n                                    Avisos\n                                    Privacy Policy\n                                    Cookie Policy\nOutros sites\n                                    Vatican.va\n                                    L'Osservatore Romano\n                                    Vaticanstate.va\n                                    Peter's Pence\n                                    Photo\n                                    Podcast\n                                    ProgramaÃ§Ã£o\n                                    Short Waves\n                                    ServiÃ§os profissionais"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/03/24.html"
 }
-
-# Dados atualizados manualmente

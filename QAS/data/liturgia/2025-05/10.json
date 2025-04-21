@@ -2,8 +2,18 @@
   "date": "2025-05-10T00:00:00",
   "formatted_date": "10/05/2025",
   "day_of_week": "Saturday",
-  "readings": [],
-  "reflection": "",
-  "saint_of_day": "",
-  "general_content": "Conteúdo da liturgia ainda não disponível para esta data futura. Os dados serão atualizados quando o site da igreja publicá-los."
+  "readings": [
+    {
+      "type": "primeira_leitura",
+      "title": "Leitura dos Atos dos Apóstolos",
+      "content": "9,31-42\nNaqueles dias:\nA Igreja, vivia em pazem toda a Judeia, Galileia e Samaria.Ela consolidava-se e progredia no temor do Senhore crescia em número com a ajuda do Espírito Santo.\nPedro percorria todos os lugares;e visitou também os fiéis que moravam em Lida.\nEncontrou aí um homem chamado Eneias,que estava paralíticoe, há oito anos, jazia numa cama.\nPedro disse-lhe:\n\"Eneias, Jesus Cristo te cura!Levanta-te e arruma a tua cama!\"Imediatamente Eneias se levantou.\nTodos os habitantes de Lida e da região do Saronviram isso e se converteram ao Senhor.\nEm Jope, havia uma discípula chamada Tabita,nome que quer dizer Gazela.Eram muitas as boas obras\nque fazia e as esmolas que dava.\nNaqueles dias ela ficou doente e morreu.Então lavaram seu corpoe o colocaram no andar superior da casa.\nComo Lida ficava perto de Jope,e ouvindo dizer que Pedro estava lá,os discípulos mandaram dois homens com um recado:\"Vem depressa até nós!\"\nPedro partiu imediatamente com eles.Assim que chegou,levaram-no ao andar superior,onde todas as viúvas foram ao seu encontro.Chorando, elas mostravam a Pedroas túnicas e mantos que Tabita havia feito,quando vivia com elas.\nPedro mandou que todos saíssem.Em seguida, pôs-se de joelhos e rezou.Depois, voltou-se para o corpo e disse:\"Tabita, levanta-te!\"ela então abriu os olhos, viu Pedro e sentou-se.\nPedro deu-lhe a mão e ajudou-a a levantar-se.Depois chamou os fiéis e as viúvase apresentou-lhes Tabita viva.\nO fato ficou conhecido em toda a cidade de Jopee muitos acreditaram no Senhor."
+    },
+    {
+      "type": "evangelho",
+      "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+      "content": "6,60-69\nNaquele tempo:\nmuitos dos discípulos de Jesus\nque o escutaram, disseram:\"Esta palavra é dura.Quem consegue escutá-la?\"\nSabendo que seus discípulos estavam murmurandopor causa disso mesmo,Jesus perguntou:\"Isto vos escandaliza?\nE quando virdes o Filho do Homemsubindo para onde estava antes?\nO Espírito é que dá vida,a carne não adianta nada.As palavras que vos falei são espírito e vida.\nMas entre vós há alguns que não creem\".Jesus sabia, desde o início,quem eram os que não tinham fée quem havia de entregá-lo.\nE acrescentou:\"É por isso que vos disse:ninguém pode vir a mima não ser que lhe seja concedido pelo Pai\".\nA partir daquele momento,muitos discípulos voltaram atráse não andavam mais com ele.\nEntão, Jesus disse aos doze:\"Vós também quereis ir embora?\"\nSimão Pedro respondeu:\"A quem iremos, Senhor?Tu tens palavras de vida eterna.\nNós cremos firmemente e reconhecemosque tu és o Santo de Deus\".\nA Nossa FÃ©\nInformaÃ§Ãµes Ãteis\nOutros sites"
+    }
+  ],
+  "title": "Palavra do dia",
+  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/10.html"
 }
