@@ -70,7 +70,7 @@
     "saint_faustina": {
       "day": 5,
       "time": "19:00",
-      "description": "Missa Votiva de Santa Faustina",
+      "description": "Missa Votiva de Santa Faustina - teste",
       "exceptions": ["saturday", "sunday"]
     },
     "saint_john_paul": {
