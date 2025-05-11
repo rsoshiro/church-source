@@ -1,19 +1,7 @@
-﻿{
-  "date": "2025-05-01T00:00:00",
+{
+  "date": "2025-05-01",
   "formatted_date": "01/05/2025",
   "day_of_week": "Thursday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n5,27-33\nNaqueles dias, os guardas\nlevaram os apóstolos e os apresentaram ao Sinédrio.\nO sumo sacerdote começou a interrogá-los,\ndizendo: \"Nós tínhamos proibido expressamente\nque vós ensinásseis em nome de Jesus.\nApesar disso, enchestes a cidade de Jerusalém\ncom a vossa doutrina.\nE ainda nos quereis tornar responsáveis\npela morte desse homem!\"\nEntão Pedro e os outros apóstolos responderam:\n\"É preciso obedecer a Deus, antes que aos homens.\nO Deus de nossos pais ressuscitou Jesus,\na quem vós matastes, pregando-o numa cruz.\nDeus, por seu poder, o exaltou,\ntornando-o Guia Supremo e Salvador,\npara dar ao povo de Israel a conversão\ne o perdão dos seus pecados.\nE disso somos testemunhas, nós e o Espírito Santo,\nque Deus concedeu àqueles que lhe obedecem\".\nQuando ouviram isto,\nficaram furiosos e queriam matá-los."
-    },
-    {
-      "type": "evangelho",
-      "title": "Evangelho do Dia",
-      "content": "Proclamação do Evangelho de Jesus Cristo segundo João\n3,31-36\n\"Aquele que vem do alto\nestá acima de todos.\nO que é da terra,\npertence à terra e fala das coisas da terra.\nAquele que vem do céu\nestá acima de todos.\nDá testemunho daquilo que viu e ouviu,\nmas ninguém aceita o seu testemunho.\nQuem aceita o seu testemunho\natesta que Deus é verdadeiro.\nDe fato, aquele que Deus enviou\nfala as palavras de Deus,\nporque Deus lhe dá o espírito sem medida.\nO Pai ama o Filho\ne entregou tudo em sua mão.\nAquele que acredita no Filho\npossui a vida eterna.\nAquele, porém, que rejeita o Filho não verá a vida,\npois a ira de Deus permanece sobre ele\"."
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/01.html"
+  "title": "Liturgia do Dia - 01/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

@@ -1,19 +1,7 @@
-﻿{
-  "date": "2025-05-20T00:00:00",
+{
+  "date": "2025-05-20",
   "formatted_date": "20/05/2025",
   "day_of_week": "Tuesday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n14,19-28\nNaqueles dias,\nde Antioquia e Icônio chegaram judeus\nque convenceram as multidões.\nEntão apedrejaram Paulo\ne arrastaram-no para fora da cidade,\npensando que ele estivesse morto.\nMas, enquanto os discípulos o rodeavam,\nPaulo levantou-se e entrou na cidade.\nNo dia seguinte, partiu para Derbe com Barnabé.\nDepois de terem pregado o"
-    },
-    {
-      "type": "evangelho",
-      "title": "Evangelho naquela cidade",
-      "content": "e feito muitos discípulos,\nvoltaram para Listra, Icônio e Antioquia.\nEncorajando os discípulos,\neles os exortavam a permanecerem firmes na fé,\ndizendo-lhes:\n\"É preciso que passemos por muitos sofrimentos\npara entrar no Reino de Deus\".\nOs apóstolos designaram presbíteros para cada comunidade.\nCom"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/20.html"
+  "title": "Liturgia do Dia - 20/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

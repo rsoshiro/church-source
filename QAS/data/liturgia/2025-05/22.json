@@ -1,19 +1,7 @@
-﻿{
-  "date": "2025-05-22T00:00:00",
+{
+  "date": "2025-05-22",
   "formatted_date": "22/05/2025",
   "day_of_week": "Thursday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n15,7-21\nNaqueles dias,\nDepois de longa discussão,\nPedro levantou-se e falou aos apóstolos e anciãos:\n\"Irmãos, vós sabeis que, desde os primeiros dias,\nDeus me escolheu, do vosso meio,\npara que os pagãos ouvissem de minha boca\na palavra do"
-    },
-    {
-      "type": "evangelho",
-      "title": "Evangelho e acreditassem.",
-      "content": "Ora, Deus, que conhece os c"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/22.html"
+  "title": "Liturgia do Dia - 22/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

@@ -1,19 +1,7 @@
-﻿{
-  "date": "2025-05-13T00:00:00",
+{
+  "date": "2025-05-13",
   "formatted_date": "13/05/2025",
   "day_of_week": "Tuesday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n11,19-26\nNaqueles dias,\naqueles que se haviam espalhado\npor causa da perseguição que se seguiu à morte de Estêvão,\nchegaram à Fenícia, à ilha de Chipre\ne à cidade de Antioquia,\nembora não pregassem a Palavra\na ninguém que não fosse judeu.\nContudo, alguns deles,\nhabitantes de Chipre e da cidade de Cirene,\nchegaram a Antioquia\ne começaram a pregar também aos gregos,\nanunciando-lhes a Boa-Nova do Senhor Jesus.\nE a mão do Senhor estava com eles.\nMuitas pessoas acreditaram no"
-    },
-    {
-      "type": "evangelho",
-      "title": "Evangelho",
-      "content": "e se converteram ao Senhor.\nA notícia chegou aos ouvidos da Igreja\nque estava em Jerusalém.\nEntão"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/13.html"
+  "title": "Liturgia do Dia - 13/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

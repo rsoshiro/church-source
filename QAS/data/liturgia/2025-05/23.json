@@ -1,14 +1,7 @@
-﻿{
-  "date": "2025-05-23T00:00:00",
+{
+  "date": "2025-05-23",
   "formatted_date": "23/05/2025",
   "day_of_week": "Friday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n15,22-31\nNaqueles dias,\npareceu bem aos apóstolos e aos anciãos,\nde acordo com toda a comunidade de Jerusalém,\nescolher alguns da comunidade\npara mandá-los a Antioquia, com Paulo e Barnabé.\nEscolheram Judas, chamado Bársabas, e Silas,\nque eram muito respeitados pelos irmãos.\nAtravés deles"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/23.html"
+  "title": "Liturgia do Dia - 23/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

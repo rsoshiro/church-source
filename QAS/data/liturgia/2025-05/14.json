@@ -1,19 +1,7 @@
-﻿{
-  "date": "2025-05-14T00:00:00",
+{
+  "date": "2025-05-14",
   "formatted_date": "14/05/2025",
   "day_of_week": "Wednesday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Leitura dos Atos dos Apóstolos\n1,15-17.20-26\nNaqueles dias,\nPedro levantou-se no meio dos irmãos e disse:\n\"Irmãos, era preciso que se cumprisse\no que o Espírito Santo, por meio de Davi,\nanunciou na Escritura sobre Judas,\nque se tornou o guia daqueles que prenderam Jesus.\nJudas era um dos nossos\ne participava do mesmo ministério.\nDe fato, no livro dos"
-    },
-    {
-      "type": "salmo",
-      "title": "Salmos está escrito:",
-      "content": "'fique deserta a sua morada,\nnem haja quem nela habite!'\nE ainda:\n'Que outro ocupe o seu lugar!'\nHá homens que nos acompanharam\ndurante todo o tempo em que o Senhor Jesus\nvivia no meio de nós,\na começar pelo batismo de João\naté ao dia em que foi elevado ao céu.\nAgora, é preciso que um deles se junte a nós\npara ser testemunha da sua ressurreição\".\nEntão eles apresentaram dois homens:\nJosé, chamado Barsabás,\nque tinha o apelido de Justo, e Matias.\nEm seguida, fizeram esta oração:\n\"Senhor, tu conheces os c"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/14.html"
+  "title": "Liturgia do Dia - 14/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }

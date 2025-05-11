@@ -1,14 +1,7 @@
-﻿{
-  "date": "2025-05-25T00:00:00",
+{
+  "date": "2025-05-25",
   "formatted_date": "25/05/2025",
   "day_of_week": "Sunday",
-  "readings": [
-    {
-      "type": "primeira_leitura",
-      "title": "Leitura do Dia",
-      "content": "Primeira Leitura\nLeitura dos Atos dos Apóstolos\n15,1-2.22-29\nNaqueles dias:\nChegaram alguns da Judeia\ne ensinavam aos irmãos de Antioquia, dizendo:\n\"Vós não podereis salvar-vos,\nse não fordes circuncidados,\ncomo ordena a Lei de Moisés\":\nIsto provocou muita confusão, e houve\numa grande discussão de Paulo e Barnabé com eles.\nFinalmente, decidiram que Paulo, Barnabé\ne alguns outros fossem a Jerusalém,\npara tratar dessa questão\ncom os apóstolos e os anciãos.\nEntão os apóstolos e os anciãos,\nde acordo com toda a comunidade de Jerusalém,\nresolveram escolher alguns da comunidade\npara mandá-los a Antioquia, com Paulo e Barnabé.\nEscolheram Judas, chamado Bársabas, e Silas,\nque eram muito respeitados pelos irmãos.\nAtravés deles"
-    }
-  ],
-  "title": "Palavra do dia",
-  "source_url": "https://www.vaticannews.va/pt/palavra-do-dia/2025/05/25.html"
+  "title": "Liturgia do Dia - 25/05/2025",
+  "content": "Informações da liturgia para este dia ainda não estão disponíveis. Por favor, verifique mais tarde."
 }
