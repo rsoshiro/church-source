@@ -1,0 +1,214 @@
+{
+  "id": "santo-antonio-padua-2025",
+  "slug": "santo-antonio-padua-devocao-milagres",
+  "title": "Santo Antônio de Pádua: O Santo dos Milagres e Casamentos",
+  "subtitle": "Conheça a vida e devoção ao santo mais querido do Brasil",
+  "author": "Paróquia São José",
+  "category": "Santos e Devoções",
+  "tags": ["Santo Antônio", "Santos Franciscanos", "Milagres", "Casamento", "Devoção Popular", "13 de Junho"],
+  "created_at": "2025-06-13T09:30:00Z",
+  "updated_at": "2025-06-13T09:30:00Z",
+  "published": true,
+  "featured": true,
+  "reading_time": 6,
+  "word_count": 950,
+  "seo": {
+    "meta_title": "Santo Antônio de Pádua: História, Milagres e Oração | Paróquia São José",
+    "meta_description": "Descubra a vida de Santo Antônio de Pádua, suas orações poderosas, milagres e por que é considerado o santo casamenteiro. Celebração 13 de junho.",
+    "keywords": ["Santo Antônio", "Santo Antônio de Pádua", "oração Santo Antônio", "milagres Santo Antônio", "santo casamenteiro", "13 de junho", "santos franciscanos", "devoção católica"],
+    "canonical_url": "/blog/santo-antonio-padua-devocao-milagres",
+    "og_image": "/images/santo-antonio-padua-og.jpg"
+  },
+  "content": {
+    "intro": {
+      "text": "Santo Antônio de Pádua, conhecido carinhosamente como o 'Santo Casamenteiro' e 'Santo dos Milagres', é uma das figuras mais veneradas da Igreja Católica. Sua festa, celebrada em 13 de junho, mobiliza milhões de fiéis ao redor do mundo, especialmente no Brasil, onde sua devoção é profundamente enraizada na cultura popular.",
+      "highlight": "Um santo que conquistou corações com sua simplicidade e poder de intercessão",
+      "styling": {
+        "background": "linear-gradient(135deg, #8B4513 0%, #D2691E 100%)",
+        "text_color": "#FFFFFF",
+        "padding": "24px",
+        "border_radius": "16px",
+        "shadow": "0 8px 32px rgba(139, 69, 19, 0.3)"
+      }
+    },
+    "main_sections": [
+      {
+        "id": "vida-santo-antonio",
+        "title": "A Vida de Santo Antônio",
+        "icon": "👑",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nascido em Lisboa, Portugal, em 1195, Fernando Martins de Bulhões (seu nome de batismo) ingressou jovem na vida religiosa. Inicialmente agostiniano, depois se tornou franciscano, adotando o nome de Antônio."
+          },
+          {
+            "type": "highlight_box",
+            "title": "Dados Biográficos",
+            "items": [
+              "Nascimento: 15 de agosto de 1195, Lisboa",
+              "Morte: 13 de junho de 1231, Pádua",
+              "Canonização: 30 de maio de 1232 (menos de 1 ano após a morte)",
+              "Proclamado Doutor da Igreja: 16 de janeiro de 1946"
+            ],
+            "styling": {
+              "background": "#FFF8DC",
+              "border_left": "4px solid #D2691E",
+              "padding": "16px"
+            }
+          }
+        ]
+      },
+      {
+        "id": "milagres-intercessao",
+        "title": "Milagres e Intercessão",
+        "icon": "✨",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Santo Antônio é invocado para encontrar objetos perdidos, conseguir emprego, resolver problemas familiares e, principalmente, para questões do coração. Sua fama de 'casamenteiro' vem dos inúmeros relatos de pessoas que encontraram o amor após suas orações."
+          },
+          {
+            "type": "testimonial_card",
+            "quote": "Santo Antônio, Santo Antônio, se me deres um marido, ponho-vos numa capelinha de ouro com três degraus de prata.",
+            "author": "Oração Popular Tradicional",
+            "styling": {
+              "background": "#F0F8FF",
+              "border": "2px solid #D2691E",
+              "border_radius": "12px",
+              "padding": "20px",
+              "font_style": "italic"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tradicoes-populares",
+        "title": "Tradições e Devoções",
+        "icon": "🎉",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "No Brasil, as festividades de Santo Antônio são marcadas por quermesses, casamentos coletivos, distribuição de pãezinhos benzidos e a tradicional 'trezena' - treze dias de oração que antecedem sua festa."
+          },
+          {
+            "type": "tradition_list",
+            "title": "Tradições Populares",
+            "items": [
+              {
+                "name": "Pãozinho de Santo Antônio",
+                "description": "Pães benzidos distribuídos aos fiéis, símbolo da providência divina"
+              },
+              {
+                "name": "Casamentos Coletivos",
+                "description": "Cerimônias realizadas no dia 13 de junho para casais de baixa renda"
+              },
+              {
+                "name": "Quermesses Juninas",
+                "description": "Festas comunitárias com comidas típicas e brincadeiras tradicionais"
+              },
+              {
+                "name": "Simpatias do Amor",
+                "description": "Práticas populares para encontrar o amor verdadeiro"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "oracoes-santo-antonio",
+        "title": "Orações a Santo Antônio",
+        "icon": "🙏",
+        "content": [
+          {
+            "type": "prayer_card",
+            "title": "Oração Principal",
+            "prayer": "Glorioso Santo Antônio, que recebestes de Deus o privilégio de fazer encontrar as coisas perdidas, ajudai-me a encontrar a graça de Deus que perdi pelo pecado. Fazei que eu procure, antes de tudo, o Reino de Deus e a sua justiça, e tudo mais me será dado por acréscimo. Ajudai-me a fazer penitência dos meus pecados. Alcançai-me a pureza de coração, o amor ao próximo, o desprezo das coisas terrenas e o ardente desejo das coisas celestiais. Amém.",
+            "styling": {
+              "background": "linear-gradient(145deg, #FFF8DC 0%, #F5DEB3 100%)",
+              "border": "2px solid #D2691E",
+              "border_radius": "16px",
+              "padding": "24px",
+              "text_align": "center",
+              "font_family": "serif"
+            }
+          },
+          {
+            "type": "prayer_card",
+            "title": "Oração para Encontrar Objetos Perdidos",
+            "prayer": "Santo Antônio, Santo Antônio, perdeu-se não sei o quê. Santo Antônio, Santo Antônio, ajudai-me a procurar. Se a coisa não aparecer, pelo menos a paciência não me tire. Amém.",
+            "styling": {
+              "background": "#F0F8FF",
+              "border": "1px solid #D2691E",
+              "border_radius": "12px",
+              "padding": "16px",
+              "font_style": "italic"
+            }
+          }
+        ]
+      }
+    ],
+    "biblical_references": [
+      {
+        "reference": "Mateus 7:7-8",
+        "text": "Pedi e vos será dado; buscai e achareis; batei e vos será aberto. Pois todo aquele que pede, recebe; quem busca, acha; e ao que bate, se abre.",
+        "context": "A confiança na oração e na providência divina"
+      },
+      {
+        "reference": "1 João 5:14-15",
+        "text": "Esta é a confiança que temos nele: se pedirmos alguma coisa segundo a sua vontade, ele nos ouve. E, se sabemos que nos ouve em tudo o que lhe pedimos, sabemos que alcançamos as petições que lhe fizemos.",
+        "context": "A eficácia da intercessão dos santos"
+      }
+    ],
+    "reflection": {
+      "title": "Reflexão: A Simplicidade que Transforma",
+      "content": "Santo Antônio nos ensina que a verdadeira grandeza está na simplicidade e no serviço ao próximo. Sua vida dedicada aos pobres e necessitados, sua pregação eloquente e seus milagres nasceram de um coração puro e totalmente entregue a Deus. Que possamos, como ele, ser instrumentos da providência divina na vida de nossos irmãos.",
+      "call_to_action": "Neste mês de junho, dedique um tempo especial à oração e à caridade, seguindo o exemplo de Santo Antônio.",
+      "styling": {
+        "background": "linear-gradient(135deg, #8B4513 0%, #CD853F 100%)",
+        "color": "#FFFFFF",
+        "padding": "32px",
+        "border_radius": "20px",
+        "text_align": "center",
+        "shadow": "0 12px 40px rgba(139, 69, 19, 0.4)"
+      }
+    }
+  },
+  "styling": {
+    "primary_color": "#8B4513",
+    "secondary_color": "#D2691E",
+    "accent_color": "#CD853F",
+    "background_color": "#FFF8DC",
+    "text_color": "#2F1B14",
+    "card_shadow": "0 4px 16px rgba(139, 69, 19, 0.15)",
+    "border_radius": "12px",
+    "font_family": {
+      "primary": "Roboto",
+      "secondary": "Georgia"
+    },
+    "responsive": {
+      "mobile": {
+        "padding": "16px",
+        "font_size": "14px"
+      },
+      "tablet": {
+        "padding": "24px",
+        "font_size": "16px"
+      },
+      "desktop": {
+        "padding": "32px",
+        "font_size": "18px"
+      }
+    }
+  },
+  "related_posts": [
+    "corpus-christi-2025",
+    "sao-joao-batista-festa-junina",
+    "santos-franciscanos-brasil"
+  ],
+  "social_sharing": {
+    "facebook": true,
+    "twitter": true,
+    "whatsapp": true,
+    "email": true
+  }
+} 
