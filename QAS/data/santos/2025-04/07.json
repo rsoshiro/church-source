@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-07T00:00:00",
   "formatted_date": "07/04/2025",
   "day_of_week": "Monday",
-  "title": "Santo do Dia",
+  "title": "São João Batista de La Salle, intercessor dos mestres e educadores",
   "content": "Nasceu na França, em Reims, no ano de 1651, dentro de uma família abastada. Perdeu muito cedo seus pais, e foi ele, com este amor alimentado na oração, na vivência dos mandamentos, na vida sacramental, que educou os seus irmãos. E o carisma da educação foi brotando naquele coração chamado à vida religiosa e sacerdotal.\n\nEstudou em Paris, e deu passos concretos de encontro às necessidades no campo da educação: cuidar e educar de maneira virtuosa os homens. Sendo assim, foi uma resposta de Deus para a Igreja.\n\nLa Salle teve uma santidade reconhecida pela sociedade. Doze ‘irmãos’ se uniram a ele nesse projeto de Deus. Esse sacerdote, centrado na Eucaristia, teve suas escolas populares espalhadas pela França, Europa, e hoje, pelo mundo.\n\nSão João Batista de La Salle, fundador dos “irmãos das escolas cristãs”, nos prova que quando se tem uma inspiração, e como Igreja, ela fará bem à sociedade, vale a pena nos doarmos, mesmo que a incompreensão nos visite.\n\nFaleceu no dia 07 de abril de 1719, em Rouen, na França, e é intercessor dos mestres e educadores, para que sejamos na sociedade um sinal de esperança.\n\nSão João Batista de La Salle, rogai por nós!",
   "date_in_content": "7 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-07-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/171.jpg",
+    "local_path": "../santos/imagens/2025-04-07-santo.webp",
+    "filename": "2025-04-07-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

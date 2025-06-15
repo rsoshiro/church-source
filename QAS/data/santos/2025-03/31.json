@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-31T00:00:00",
   "formatted_date": "31/03/2025",
   "day_of_week": "Monday",
-  "title": "Santo do Dia",
+  "title": "São Benjamim, servia aos irmãos na caridade",
   "content": "Nasceu no ano de 394 na Pérsia e, ao ser evangelizado, começou a participar da Igreja ao ponto de descobrir sua vocação ao diaconato.\n\nServiu a Palavra e aos irmãos na caridade, chamando a atenção de muitos para Cristo.\n\nChegou a ser preso por um ano, sofrendo, e se renunciasse ao nome de Jesus, seria solto. Porém, mesmo na dor, na solidão e na injustiça, ele uniu-se ainda mais ao Cristo crucificado.\n\nFoi solto com a ordem de não falar mais de Jesus para ninguém, o que era impossível, pois sua vida e seu serviço evangelizavam.\n\nBenjamim foi canal para que muitos cegos voltassem a ver, muitos leprosos fossem curados e assim muitos corações duvidosos se abriram a Deus.\n\nFoi novamente preso, levado a público e torturado para que renunciasse à fé. Perguntou então ao rei, se gostaria que algum de seus súditos fosse desleal a ele. Obviamente que o rei disse que não. E assim o diácono disse que assim também ele, não poderia renunciar à sua fé, a seu Rei, Jesus Cristo.\n\nE por não renunciar a Jesus, foi martirizado. Isso no ano de 422.\n\nSão Benjamim, rogai por nós!",
   "date_in_content": "31 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-31-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/48.jpg",
+    "local_path": "../santos/imagens/2025-03-31-santo.webp",
+    "filename": "2025-03-31-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

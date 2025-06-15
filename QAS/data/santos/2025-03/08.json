@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-08T00:00:00",
   "formatted_date": "08/03/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São João de Deus - Patrono dos hospitais",
   "content": "Neste dia, lembramos a vida de João Cidade que depois de viver longa aventura distante de Deus, aventurou-se ao Evangelho e hoje, é aclamado como São João de Deus, o patrono dos hospitais. João nasceu em Évora, Portugal, em 1495; com oito anos fugiu de casa e foi para a Espanha, onde fez obras e vivenciou inúmeras aventuras.\n\nComeçou João suas histórias, cuidando do rebanho, depois com os estudos tornou-se administrador, mas encantado pelo militarismo, tornou-se soldado e combateu na célebre batalha de Pávia, onde saiu vitorioso ao lado de Carlos V. Certa vez foi morar em Granada e lá abriu um pequeno negócio de livros, sendo que, ao mesmo tempo, passou a ouvir o grande santo pregador João de Ávila, que no Espírito Santo suscitou a conversão radical de João.\n\nDo encontro com Cristo, começou sua maior aventura, que consistiu em construir com Cristo uma história de santidade. Renunciou a si mesmo, assumiu a cruz e se colocou radicalmente nos caminhos de Jesus, quando no distribuir os bens aos pobres, e acabou sendo lançado num hospital de loucos por parte dos conhecidos, já que João começava a ter inúmeras atitudes voluntariamente estranhas, que visavam não o manicômio, mas a penitência pela humilhação. Como tudo concorre para o bem dos que amam a Deus, acabou sendo providencial o tempo que João passou sofrendo naquele hospital, pois diante do tratamento desumano que davam para os pobres e doentes mentais, o Senhor suscitou no coração de João o carisma para lidar com os doentes na caridade e gratuidade.\n\nDesta forma, São João, experimentando a vida na Providência, passou a acolher numa casa alugada, indigentes e doentes, depois entregou-se ao cuidado exclusivo num hospital fundado por ele em Granada (Espanha) e assistido por um grupo de companheiros que, mais tarde, constituíram a Ordem Hospitalar de São João de Deus, o qual entrou no céu em 1550.\n\nSão João de Deus, rogai por nós!",
   "date_in_content": "8 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-08-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/191.jpg",
+    "local_path": "../santos/imagens/2025-03-08-santo.webp",
+    "filename": "2025-03-08-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

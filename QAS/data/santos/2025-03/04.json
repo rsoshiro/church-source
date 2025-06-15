@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-04T00:00:00",
   "formatted_date": "04/03/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "São Casimiro - Modelo para a juventude",
   "content": "Mesmo sendo patrono da juventude da Lituânia, o santo de hoje é modelo para todas as idades. Seu nome significa ‘comandar’. De fato, com a graça de Deus e muito esforço, foi comandando ao longo de sua vida, todo o pensar, todo falar, todo o querer para Deus.\n\nFilho do rei da Polônia e de família católica, Casemiro nasceu no ano de 1454. Com a ajuda da oração, da penitência, da direção espiritual e até do Papa do seu tempo, ele pôde discernir que seu chamado não era s&#x\u0001;r ao seu pai. Renunciou ao trono, mas não deixou de ser solidário à realidade paterna, às necessidades do reino, sendo braço direito no governo de seu pai.\n\nTeve toda uma vida de ascese e sacrifício, sendo modelo para a juventude.\n\nFaleceu com apenas 26 anos.\n\nSão Casimiro, rogai por nós!",
   "date_in_content": "4 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-04-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/66.jpg",
+    "local_path": "../santos/imagens/2025-03-04-santo.webp",
+    "filename": "2025-03-04-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

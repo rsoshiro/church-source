@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-11T00:00:00",
   "formatted_date": "11/05/2025",
   "day_of_week": "Sunday",
-  "title": "Santo do Dia",
+  "title": "Santo Inácio de Láconi, exemplo vivo da pobreza",
   "content": "Francisco Inácio Vincenzo Peis, o segundo de nove irmãos, nasceu na cidade de Láconi, Itália, no dia 17 de novembro de 1701. Seus pais eram muito pobres, mas ricos de virtudes humanas e cristãs, educando os filhos no fiel seguimento de Jesus Cristo.\n\nInácio, desde a infância, sentiu um forte chamado para a vida religiosa. Possuía dons especiais de profecia, de cura e um forte carisma. Costumava praticar severas penitências, mantendo seu espírito sereno e alegre, em estreita comunhão com Cristo.\n\nAntes de completar os vinte anos de idade, ele adoeceu gravemente e por duas vezes quase morreu. Nessa ocasião, decidiu que seguiria os passos de São Francisco de Assis e se dedicaria aos pobres e doentes, se ficasse curado. E assim o fez. Foi para a cidade de Cagliari para viver entre os frades capuchinhos do Convento do Bom Caminho. Mas não pôde ser aceito, devido à sua frágil saúde. Depois de totalmente recuperado, em 1721, vestiu o hábito dos franciscanos.\n\nFrei Inácio de Láconi, como era chamado, foi enviado para vários conventos e, após quinze anos, retornou ao Convento do Bom Caminho em Cagliari, onde permaneceu em definitivo. Ali, ficou encarregado da portaria, função que desempenhou até à morte. Tinha o verdadeiro espírito franciscano: exemplo vivo da pobreza, entretanto de absoluta disponibilidade aos pobres, aos desamparados, aos doentes físicos e aos doentes espirituais, ou seja, aos pecadores, muitos dos quais conseguiu recolocar no caminho cristão.\n\nDurante seus últimos cinco anos de vida, Inácio ficou completamente cego. Mesmo assim continuou cumprindo com rigor a vida comum com todos os regulamentos do convento. Morreu no dia 11 de maio de 1781. Depois da morte, a fama de sua santidade se fortaleceu com a relação dos milagres alcançados pela sua intercessão.\n\nFrei Inácio de Láconi foi beatificado pelo Papa Pio XII em 1940 e depois canonizado por este mesmo Santo Padre em 1951. O dia designado para sua celebração litúrgica foi o de sua morte: 11 de maio.\n\nSanto Inácio de Láconi, rogai por nós!",
   "date_in_content": "11 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-11-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/154.jpg",
+    "local_path": "../santos/imagens/2025-05-11-santo.webp",
+    "filename": "2025-05-11-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

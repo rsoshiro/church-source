@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-27T00:00:00",
   "formatted_date": "27/03/2025",
   "day_of_week": "Thursday",
-  "title": "Santo do Dia",
+  "title": "São Ruperto, grande apóstolo da Baviera",
   "content": "O santo de hoje foi um grande apóstolo da Baviera, Alemanha. A pedido do rei, foi convidado a evangelizar a França, e fez este belo trabalho. Após ser eleito bispo, a corte da Baviera o chamou, convidando-o também a evangelizar aquelas terras. Juntamente com o apoio do rei pôde ter o apoio de muitos religiosos, inclusive de sua irmã, que também era consagrada.\n\nSão Ruperto evangelizou a muitos, fazendo a Boa Nova chegar às altas autoridades, ao ponto do sucessor do rei já ser evangelizado. Antes de sua última Santa Missa, sua irmã ouviu sua oração de entrega: “Pai, em Tuas mãos eu entrego o meu espírito”. Em toda sua vida, e também na morte, viveu entregue a Deus.\n\nSão Ruperto, rogai por nós!",
   "date_in_content": "27 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-27-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/319.jpg",
+    "local_path": "../santos/imagens/2025-03-27-santo.webp",
+    "filename": "2025-03-27-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

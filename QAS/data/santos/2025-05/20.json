@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-20T00:00:00",
   "formatted_date": "20/05/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "São Bernardino de Sena, homem zeloso",
   "content": "Nasceu em Massa Marítima, na Toscana, Itália, no ano de 1380. Muito cedo, infelizmente, perdeu seus pais; mas, por outro lado, a Providência Santíssima agiu na sua formação através de tias cristãs fervorosas. Tanto que oraram, testemunharam, foram canais da Providência Divina para a vida de São Bernardino.\n\nNuma vida de oração e penitência, ele discerniu seu chamado a uma vida consagrada, entrando para a família franciscana na Ordem dos Frades Menores. Ali, tornou-se sacerdote.\n\nSão Bernardino possuía muitas qualidades; muitas delas, sobrenaturais. Muitos dons, dentre eles, o carisma da pregação. Um homem zeloso, liderou o movimento da observância em prol de uma vivência radical do carisma franciscano. Quantas pessoas, na Itália, conheceram esse santo por causa da eficácia do nome de Jesus!\n\nGrande devoto; tanto que nas leituras do ofício de hoje, encontramos um texto tirado de um de seus sermões: “O nome de Jesus é a luz dos pregadores, porque ilumina, com o seu esplendor, os que anunciam e os que ouvem a Sua Palavra. Por que razão a luz da fé se difundiu no mundo inteiro tão rápida e ardentemente, senão porque foi pregado este nome?”. Um grande pregador, ele reconhecia que tudo era graça na sua vida. Muitos puderam conhecer, através dos lábios desse pregador, o amor de Deus. Ele se expressou, revelou-se plenamente em Cristo Jesus na força do seu Espírito.\n\nSão Bernardino, como todos os santos e santas da Igreja de todos os tempos, foi conduzido pelo Espírito Santo. Centrado no mistério da Eucaristia, devotíssimo da Santíssima Virgem, ele se consumiu ao serviço da Palavra e do povo de Deus. No ano de 1444, ele partiu para o céu e intercede por nós para que sejamos todos servos da Palavra para glória e de Jesus.\n\nSão Bernardino de Sena, rogai por nós!",
   "date_in_content": "20 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-20-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/52.jpg",
+    "local_path": "../santos/imagens/2025-05-20-santo.webp",
+    "filename": "2025-05-20-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

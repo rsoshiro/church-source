@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-25T00:00:00",
   "formatted_date": "25/03/2025",
   "day_of_week": "Tuesday",
-  "title": "Santo do Dia",
+  "title": "Anunciação do Senhor",
   "content": "Neste dia, a Igreja festeja solenemente o anúncio da Encarnação do Filho de Deus. O tema central desta grande festa é o Verbo Divino que assume nossa natureza humana, sujeitando-se ao tempo e espaço.\n\nHoje é o dia em que a eternidade entra no tempo ou, como afirmou o Papa São Leão Magno: “A humildade foi assumida pela majestade; a fraqueza, pela força; a mortalidade, pela eternidade.”\n\nCom alegria contemplamos o mistério do Deus Todo-Poderoso, que na origem do mundo cria todas as coisas com sua Palavra, porém, desta vez escolhe depender da Palavra de um frágil ser humano, a Virgem Maria, para poder realizar a Encarnação do Filho Redentor:\n\n“No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem e disse-lhe: ‘Ave, cheia de graça, o Senhor é contigo.’ Não temas , Maria, conceberás e darás à luz um filho, e lhe porás o nome de Jesus. Maria perguntou ao anjo: ‘Como se fará isso, pois não conheço homem?’ Respondeu-lhe o anjo:’ O Espírito Santo descerá sobre ti. Então disse Maria: ‘Eis aqui a serva do Senhor. Faça-se em mim segundo a tu palavra’” (cf. Lc 1,26-38).\n\nSendo assim, hoje é o dia de proclamarmos: “E o Verbo se fez carne e habitou entre nós” (Jo 1,14a). E fazermos memória do início oficial da Redenção de TODOS, devido à plenitude dos tempos. É o momento histórico, em que o SIM do Filho ao Pai precedeu o da Mãe: “Então eu disse: Eis que venho (porque é de mim que está escrito no rolo do livro), venho, ó Deus, para fazer a tua vontade” (Hb 10,7). Mas não suprimiu o necessário SIM humano da Virgem Santíssima.\n\nCumprindo desta maneira a profecia de Isaías: “Por isso, o próprio Senhor vos dará um sinal: uma virgem conceberá e dará à luz um filho, e o chamará Deus Conosco” (Is 7,14). Por isso rezemos com toda a Igreja:\n\n“Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por nosso Jesus Cristo, vosso Filho, na unidade do Espírito Santo”.",
   "date_in_content": "25 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-25-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/35.jpg",
+    "local_path": "../santos/imagens/2025-03-25-santo.webp",
+    "filename": "2025-03-25-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

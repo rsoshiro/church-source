@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-23T00:00:00",
   "formatted_date": "23/05/2025",
   "day_of_week": "Friday",
-  "title": "Santo do Dia",
+  "title": "São Juliano esposo fiel, amou a família e os necessitados",
   "content": "Era casado e possuía uma hospedaria. Nela, ele partilhava a vida eterna que trazia em seu coração. Esposo fiel que amou a família e os necessitados.\n\nNo ano de 305, o imperador Diocleciano começou uma perseguição aos cristãos. Juliano, então, passou a acolher em sua hospedaria os cristãos perseguidos.\n\nAlguns homens denunciaram Juliano. Ele foi arrancado de casa e levado ao tribunal. Por não renunciar à fé em Cristo, foi condenado e decapitado. Hoje, ele vive com Cristo na Glória. Continuamos em tempos de perseguição, velada em alguns lugares e, em outros, bem visível.\n\nQue o santo de hoje possa interceder para que, o Espírito Santo, nos ajude a sermos ousados em nosso testemunho, sem medo da morte e das perseguições, certos de que a nossa recompensa se encontra no céu.\n\nSão Juliano, rogai por nós!",
   "date_in_content": "23 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-23-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/206.jpg",
+    "local_path": "../santos/imagens/2025-05-23-santo.webp",
+    "filename": "2025-05-23-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-26T00:00:00",
   "formatted_date": "26/04/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São Pascásio, nasceu para ser escritor",
   "content": "Pascásio Radbert foi personagem considerável no seu tempo. Os historiadores da Teologia continuam a mencionar a teoria que ele imaginou para “esclarecer” o mistério da presença de Jesus no Santíssimo Sacramento. Como diplomata, viajou muito entre 822 e 834, para solucionar questões da Igreja e tentar apaziguar os conflitos que punham em campo os sucessores de Carlos Magno.\n\nEra um enjeitado exposto no pórtico de Nossa Senhora de Soissons no fim do século VIII. A abadessa Teodarda, prima direita de Carlos Magno, recolheu-o e educou-o da melhor maneira que pôde. Sempre ele se referiu à sua mãe adotiva com reconhecimento e veneração; apesar disso, deixou-a algum tempo para se lançar em aventuras.\n\nConverteu-se aos 22 anos, e foi então Adelardo, irmão de Teodarda, abade de Corbie, que o recebeu entre os seus monges. Veio a ser um célebre professor, que deu celebridade às escolas de Corbie.\n\nEm 844, os seus colegas de elegeram-no como abade mas, sete anos mais tarde, fizeram uma espécie de revolução que o obrigou a refugiar-se noutra abadia. Não se afligiu. Nascera para ser escritor, e tinha várias obras em preparação: “Que felicidade, dizia, ser lançado nos braços da filosofia e da sabedoria, e poder de novo beber no meu outono o leite das Sagradas Escrituras, que alimentou a minha juventude!”\n\nMas afinal os monges de Corbie acabaram por o chamar; voltou a viver com eles como simples religioso, edificando-os com os exemplos e continuando a escrever. Aí morreu a 26 de abril de 865.\n\nSão Pascásio, rogai por nós!",
   "date_in_content": "26 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-26-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/280.jpg",
+    "local_path": "../santos/imagens/2025-04-26-santo.webp",
+    "filename": "2025-04-26-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-11T00:00:00",
   "formatted_date": "11/04/2025",
   "day_of_week": "Friday",
-  "title": "Santo do Dia",
+  "title": "Santo Estanislau, amou e evangelizou os pobres",
   "content": "Celebramos a vida de Santo Estanislau, que nasceu no ano 1030, pouco tempo depois do Cristianismo ter entrado na Polônia. Santo Estanislau foi sacerdote na Igreja de Cracóvia.\n\nO lugar geográfico da Polônia era causa de muitos transtornos internos e externos, porém, nada se comparava ao rei da Polônia – Boleslau II – que era guerreiro, cruel, devasso e opressor. Por escolha do Espírito Santo, Estanislau tornou-se bispo daquela região; e, como tal, teve que se tornar um “João Batista”, já que o rei dava um grande vexame no campo moral.\n\nEstanislau é amado por toda Polônia como um santo que profundamente amou os pobres, evangelizou e morreu mártir. Em 1079, o rei Boleslau num ato de loucura atingiu com um punhal Estanislau, durante a Santa Missa, lugar onde o santo uniu seu sacrifício ao Sacrifício de Cristo.\n\nSanto Estanislau, rogai por nós!",
   "date_in_content": "11 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-11-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/108.jpg",
+    "local_path": "../santos/imagens/2025-04-11-santo.webp",
+    "filename": "2025-04-11-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-09T00:00:00",
   "formatted_date": "09/04/2025",
   "day_of_week": "Wednesday",
-  "title": "Santo do Dia",
+  "title": "São Leopoldo Mandic, herói dos confessionários",
   "content": "O santo de hoje foi um herói dos confessionários. Nasceu na Dalmácia (ex-Iugoslávia) no ano de 1866, dentro de uma família croata, que o formou bem para a vida com Deus e para o amor aos irmãos.\n\nFoi discernindo sua vocação, e aos 16 anos tomou uma decisão: queria servir a Deus promovendo a reconciliação, a reunificação dos cristãos ortodoxos na Igreja Católica. E o Espírito Santo o encaminhou para entrar na vida franciscana.\n\nLeopoldo tinha a saúde muito fragilizada e, ao mesmo tempo, aquele desejo de ir para o Oriente e promover a comunhão dos cristãos.\n\nIngressou na Ordem Franciscana em 1884 e em 1890 já era sacerdote. Seu pedido era insistente a seus superiores, para que o enviasse para essa missão de unificação, mas dentro do discernimento e de sua debilidade física, ele tinha que obedecer e ir de convento em convento, até que em 1909 chegou em Pádua, na Itália, no Convento de Santa Cruz.\n\nEsse frade descobriu em cada alma o seu ‘Oriente’. E por obediência e amor, atendia-os por horas, sempre em espírito de oração e de abertura aos carismas do Espírito Santo.\n\nCom 76 anos partiu para o Céu, e hoje intercede por nós.\n\nSão Leopoldo Mandic, rogai por nós!",
   "date_in_content": "9 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-09-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/212.jpg",
+    "local_path": "../santos/imagens/2025-04-09-santo.webp",
+    "filename": "2025-04-09-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

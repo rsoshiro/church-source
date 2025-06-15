@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-13T00:00:00",
   "formatted_date": "13/03/2025",
   "day_of_week": "Thursday",
-  "title": "Santo do Dia",
+  "title": "Santos Rodrigo e Salomão - Sacerdotes mártires",
   "content": "Pertenceram ao bispado de Córdova. Rodrigo tornou-se um sacerdote muito zeloso na busca da santidade e cumprimento dos seus deveres, em um tempo onde os cristãos eram duramente perseguidos.\n\nSeus irmãos de sangue começaram uma contenda, a qual tentou apartar. Não compreendendo tal ato, um deles o feriu, deixando-o inconsciente. Aproveitou então para difamá-lo, espalhando que o sacerdote Rodrigo tinha renunciado a fé cristã. Um escândalo foi gerado e o caluniado refugiou-se numa serra, em oração e contemplação, indo a cidade somente para buscar alimentos.\n\nNuma dessas ocasiões, o irmão agressor resolveu denunciá-lo. Ao ser questionado pelo juiz, Rodrigo declarou: “Nasci cristão e cristão hei de morrer”.\n\nFoi preso, e ali na cadeia conheceu outro cristão, Salomão. Ambos transformaram a cadeia num oratório, travando uma linda amizade. Ameaçados e questionados, não renunciaram a fé. Foram separados, mas permaneceram fiéis a Deus. Condenados à morte, ajoelharam-se, abraçaram o crucifixo e degolados, foram martirizados.\n\nSantos Rodrigo e Salomão, rogai por nós!",
   "date_in_content": "13 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-13-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/311.jpg",
+    "local_path": "../santos/imagens/2025-03-13-santo.webp",
+    "filename": "2025-03-13-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

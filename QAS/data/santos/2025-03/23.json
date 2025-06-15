@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-23T00:00:00",
   "formatted_date": "23/03/2025",
   "day_of_week": "Sunday",
-  "title": "Santo do Dia",
+  "title": "São Turíbio de Mongrovejo, homem apostólico",
   "content": "De origem espanhola, nasceu no ano de 1538. Cresceu muito bem educado dentro de uma formação cristã e humana, estudou Direito e prestou muitos serviços nessa área, sempre buscando dar testemunho cristão no ambiente em que se encontrava.\n\nTuríbio ajudou até o rei Felipe, mas o chamado à vida dedicada ao Senhor, dentro do ministério sacerdotal, falou mais forte. Renunciou à sua profissão e, como sacerdote, foi escolhido bispo e enviado ao Peru. Era um homem apostólico.\n\nDeparou-se com muitas injustiças: indígenas oprimidos, pobres abandonados. Então ele, no anúncio e na denúncia, passou a ser respeitado e ouvido por muitos.\n\nSem interesses e sem comungar com o poder opressor, ele deixou um marco para toda a América: de que o mundo precisa de santos, e isso só é possível na misericórdia, no amor, na verdade, no anúncio e na coragem de denunciar.\n\nDepois de uma grave enfermidade, faleceu em 1606.\n\nSão Turíbio de Mongrovejo, rogai por nós!",
   "date_in_content": "23 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-23-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/349.jpg",
+    "local_path": "../santos/imagens/2025-03-23-santo.webp",
+    "filename": "2025-03-23-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

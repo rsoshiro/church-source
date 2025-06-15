@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-24T00:00:00",
   "formatted_date": "24/04/2025",
   "day_of_week": "Thursday",
-  "title": "Santo do Dia",
+  "title": "São Fidélis (Fiel) de Sigmaringa, fiel a vontade de Deus",
   "content": "O santo de hoje nasceu em Sigmaringa (Alemanha) no ano de 1577. Seu nome de batismo era Marcos Rei. Era dotado de grande habilidade com os estudos. Marcos era um cristão católico, tornando-se mais tarde um conhecido filósofo e advogado. Porém, havia um chamado que o inquietava: a consagração total a Deus, a vida no ministério sacerdotal.\n\nRenunciando a tudo, entrou para a família franciscana, para os Capuchinhos. Enquanto noviço, viveu um grande questionamento: se fora do convento ele não faria mais para Deus, do que dentro da vida religiosa. Buscou então seu mestre de noviciado que, no discernimento, percebeu que era uma tentação.\n\nPassado isso, ele se empenhou na busca pela santidade. Seu nome agora se tornou “Fidélis” ou “Fiel’. E buscou ser fiel à vontade de Deus. Estudou Teologia, foi ordenado e enviado à Suíça para uma missão especial com outros irmãos: propagar a Sã Doutrina Católica.\n\nSão Fidélis dedicou-se totalmente em iluminar as consciências e rechaçar as doutrinas que combatiam a Igreja de Cristo.\n\nDepois de uma Santa Missa, com cerca de 45 anos, teve o discernimento de que estava próxima sua partida. Fez uma oração de entrega a Deus e, logo em seguida, foi preso e levado por homens que queriam que ele renunciasse à fé.\n\nFidélis deixou claro que não o faria, e que não temia a morte. Ajoelhou-se e rezou: “Meu Jesus, tende piedade de mim. Santa Maria, Mãe de Deus, assisti-me”. Recebeu várias punhaladas e morreu ali, derramando seu sangue pela Verdade, por amor a Cristo e Sua Igreja.\n\nSão Fidélis, rogai por nós!",
   "date_in_content": "24 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-24-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/118.jpg",
+    "local_path": "../santos/imagens/2025-04-24-santo.webp",
+    "filename": "2025-04-24-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

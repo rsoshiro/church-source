@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-29T00:00:00",
   "formatted_date": "29/05/2025",
   "day_of_week": "Thursday",
-  "title": "Santo do Dia",
+  "title": "São Maximino, bispo da Igreja",
   "content": "Nasceu na França no século IV e muito cedo sentiu o chamado a vida sacerdotal.\n\nS&#x\u0001;u Agrício e teve que combater o Arianismo, que confundia muitos cristãos.\n\nSão Maximino apoiou Santo Atanásio nessa luta, sofreu com ele, e se deparou até com o Imperador. Bispo da Igreja, viveu seu magistério e serviço à Palavra sob ataques, mas não conseguiram matá-lo. Viveu até o ano de 349 deixando este testemunho e convocação: sermos cooperadores da verdade.\n\nO santo de hoje é um ícone do amor a Cristo, à Igreja e à Verdade.\n\nSão Maximino, rogai por nós!",
   "date_in_content": "29 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-29-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/249.png",
+    "local_path": "../santos/imagens/2025-05-29-santo.webp",
+    "filename": "2025-05-29-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

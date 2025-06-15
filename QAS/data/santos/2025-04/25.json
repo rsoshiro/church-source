@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-25T00:00:00",
   "formatted_date": "25/04/2025",
   "day_of_week": "Friday",
-  "title": "Santo do Dia",
+  "title": "São Marcos Evangelista, fez um lindo trabalho missionário",
   "content": "Celebramos com muita alegria a vida de santidade de um dos quatro Evangelistas: São Marcos. Era judeu de origem e de uma família tão cristã que sempre acolheu aos primeiros cristãos em sua casa: “Ele se orientou e dirigiu-se para a casa de Maria, mãe de João, chamado Marcos; estava lá uma numerosíssima assembleia a orar” (Atos 12,12).\n\nA tradição nos leva a crer que na casa de São Marcos teria acontecido a Santa Ceia celebrada por Jesus, assim como dia de Pentecostes, onde “inaugurou” a Igreja Católica. Encontramos na Bíblia que o santo de hoje acompanhou inicialmente São Barnabé e São Paulo em viagens apostólicas, e depois São Pedro em Roma.\n\nSão Marcos na Igreja primitiva fez um lindo trabalho missionário, que não teve fim diante da prisão e morte dos amigos São Pedro e São Paulo. Por isso, evangelizou no poder do Espírito Alexandria, Egito e Chipre, lugar onde fundou comunidades. Ficou conhecido principalmente por ter sido agraciado com o carisma da inspiração e vivência comunitária, que deram origem ao Evangelho querigmático de Jesus Cristo segundo Marcos.\n\nSão Marcos, rogai por nós!",
   "date_in_content": "25 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-25-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/228.jpg",
+    "local_path": "../santos/imagens/2025-04-25-santo.webp",
+    "filename": "2025-04-25-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

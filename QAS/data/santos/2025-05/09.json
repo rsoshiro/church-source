@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-09T00:00:00",
   "formatted_date": "09/05/2025",
   "day_of_week": "Friday",
-  "title": "Santo do Dia",
+  "title": "São Máximo, homem forte e de oração",
   "content": "Com grande alegria, lembramos São Máximo, bispo de Jerusalém, que entrou para o Martirológio Romano por causa de sua vida de amor a Deus e ao próximo de modo heroico, isto até entrar na glória no ano de 350.\n\nHomem forte, de oração, e responsável no zelo pastoral, São Máximo, pertencente ao clero, já sabia com coragem e sabedoria enfrentar todos os perseguidores romanos. Aconteceu que no seu tempo, começou uma grande perseguição aos cristãos, por isso como modelo e pastor do rebanho foi perseguido, preso, processado e torturado, a ponto de arrancarem-lhe o olho direito e mutilarem-lhe o pé esquerdo, mas nada disso o fez recuar na fé e na fidelidade a Cristo e à Sua Igreja.\n\nDepois da perseguição voltou para Jerusalém e fora aclamado bispo. Desta forma, São Máximo deu seu “máximo” para viver o Evangelho mesmo diante da arrogância dos governantes e hereges que sempre queriam atrapalhar a vida de Igreja de Cristo que é Santa, Una, Católica, Apostólica em suas notas e perseguida em sua história peregrina.\n\nSão Máximo, rogai por nós!",
   "date_in_content": "9 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-09-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/250.jpg",
+    "local_path": "../santos/imagens/2025-05-09-santo.webp",
+    "filename": "2025-05-09-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

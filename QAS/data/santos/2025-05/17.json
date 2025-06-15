@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-17T00:00:00",
   "formatted_date": "17/05/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São Pascoal Bailão, mártir da obediência",
   "content": "Nasceu na Espanha no ano de 1540. Seus pais, muitos religiosos, colocaram nele esse nome por seu nascimento ser no domingo de Páscoa.\n\nPascoal viveu seus 52 anos centrados no mistério da Eucaristia. Um santo conhecido por suas obras e sua paixão a Jesus Sacramentado.\n\nTrabalhou cuidando dos rebanhos, não tendo oportunidade de estudar tão cedo. Tinha o desejo de conhecer a verdade, e quanto mais aprendia a ler, mais lia o Santo Evangelho. E mais que ler, colocava em prática na vida.\n\nChamado à vida religiosa, foi para Valença. Renunciou a tudo para seguir a Cristo dentro da família franciscana. E ali, buscava fazer os trabalhos mais simples. Homem de profunda adoração a Jesus Sacramentado.\n\nEntre a Espanha e a França existiam povos que combatiam os cristãos. Ele foi enviado para levar uma carta para a França. E aceitou. Desejando ser mártir da obediência.\n\nTinha grande amor à Santíssima Virgem. Com 52 anos, depois de uma enfermidade, no dia de Pentecostes, ele – cheio do Espírito – partiu para a Glória Celeste.\n\nSão Pascoal Bailão, rogai por nós!\n\nConheça mais sobre o santo:",
   "date_in_content": "17 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-17-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/281.jpg",
+    "local_path": "../santos/imagens/2025-05-17-santo.webp",
+    "filename": "2025-05-17-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

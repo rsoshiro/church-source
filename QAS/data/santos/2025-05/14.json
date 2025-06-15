@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-05-14T00:00:00",
   "formatted_date": "14/05/2025",
   "day_of_week": "Wednesday",
-  "title": "Santo do Dia",
+  "title": "São Matias, testemunha do Ressuscitado",
   "content": "Nós estamos em festa com toda a Igreja, pois lembramos a santidade de vida de um escolhido do Espírito Santo para o grupo dos apóstolos. São Matias era um discípulo que acompanhou Jesus no tempo de Seu apostolado e foi tão fiel na vivência dos ensinamentos do Mestre, que tornou-se testemunha de Sua ressurreição.\n\nNo livro dos Atos dos Apóstolos, estão registrados os fatos que levaram à escolha de um discípulo que ocupasse o lugar deixado por Judas, o traidor: “…é preciso, pois, que um dentre eles se torne conosco testemunha de sua ressurreição. Apresentaram então dois homens: José chamado Barsabás, que tinha o apelido de Justo, e Matias” (Atos 1,22-23).\n\nSão Matias recebeu em Pentecostes a efusão do Espírito Santo, e tornou-se um apóstolo ardoroso como os demais, testemunha do Ressuscitado. Evangelizou na Palestina e na Ásia Menor, e morreu mártir por apedrejamento.\n\nSão Matias, rogai por nós!",
   "date_in_content": "14 de maio",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-05-14-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/245.jpg",
+    "local_path": "../santos/imagens/2025-05-14-santo.webp",
+    "filename": "2025-05-14-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

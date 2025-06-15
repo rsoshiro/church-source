@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-05T00:00:00",
   "formatted_date": "05/04/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São Vicente Ferrer, homem de penitência, verdade e esperança",
   "content": "Nascido na Espanha em 1350, viveu em tempos difíceis pois, por influência política, havia um cisma na Igreja do Ocidente: por Cardeais foi declarada inválida a eleição de Urbano VI como Papa, e foi escolhido Roberto de Genebra que tomou o nome de Clemente VII. As coroas ibéricas procuraram manter-se neutras entre os dois Papas, mas o de Avinhão esforçou-se por conquistar a obediência delas e mandou como seu legado o Cardeal Pedro de Luna. Este procurou o apoio de Vicente, que lho deu em boa fé e escreveu um tratado sobre o cisma.\n\nSão Vicente acompanhou o mesmo legado nalgumas viagens por esses reinos, regressando depois ao ensino e à pregação em Valência. Pouco depois, volta Pedro de Luna a Avinhão e s&#x\u0001; a Clemente VII como Papa, tomando o nome de Bento XIII. E é reclamada a presença de Vicente em Avinhão, onde passa uns anos.\n\nSão Vicente Ferrer foi um santo religioso dominicano, grande pregador e fiel ao carisma. Ele pregava sobre a segunda vinda de Jesus, o Juízo Final, mas de uma maneira que provocava uma conversão nas pessoas. Sua pregação, Deus a confirmava com sinais, milagres e conversões.\n\nUm homem de penitência, da verdade, da esperança, que semeava a unidade e essa expectativa do Senhor que voltará.\n\nVicente pôde contribuir para a eleição do Papa e pôde deixar bem claro, pela sua vida, que a Palavra de Deus precisa ser anunciada com o espírito e com uma vida a serviço da verdade e da Igreja.\n\nSão Vicente Ferrer, rogai por nós!",
   "date_in_content": "5 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-05-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/355.jpg",
+    "local_path": "../santos/imagens/2025-04-05-santo.webp",
+    "filename": "2025-04-05-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

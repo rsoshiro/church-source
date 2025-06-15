@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-03-06T00:00:00",
   "formatted_date": "06/03/2025",
   "day_of_week": "Thursday",
-  "title": "Santo do Dia",
+  "title": "Santa Rosa de Viterbo - Jovem profeta",
   "content": "A santidade é uma graça que o Espírito Santo quer dar a todos, porém, é Ele que vai no tempo d’Ele manifestando para o mundo este dom dado a quem luta diariamente. Por exemplo, Santa Rosa – que lembramos neste dia – muito cedo começou a externar atitudes extraordinárias de coragem e amor ao Senhor.\n\nNasceu em Viterbo, no ano de 1233, numa pobre e humilde família; quando tinha apenas três anos conta-se que pela sua oração Jesus reviveu uma tia. Com sete anos, Rosa pegou uma forte doença que acabou sendo um meio para sua vida de consagração, pois Nossa Senhora apareceu a ela, restituindo sua saúde e chamando-a à uma total entrega de vida.\n\nSanta Rosa, antes mesmo de alcançar idade, resolveu livremente vestir um hábito franciscano, já que sua meta era entrar na Ordem de Santa Clara de Assis. Menina cheia do Espírito Santo, não ficou parada diante dos hereges cátaros, que semeavam a rejeição às autoridades.\n\nCom apenas doze anos, era instrumento eficaz nas mãos do Pai Celeste, por isso anunciava o Evangelho e denunciava as artimanhas de satanás. Banida pelo imperador, continuou profetizando. Com o falecimento do imperador, ela voltou como heroína para Viterbo. Mesmo sem ser aceita com dezesseis anos pelas Irmãs Clarissas, Santa Rosa perseverou no caminho da santidade e, aos dezoito anos, foi acometida de uma doença que a levou para a Eterna Morada de Deus.\n\nSanta Rosa de Viterbo, rogai por nós!",
   "date_in_content": "6 de março",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-03-06-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/316.jpg",
+    "local_path": "../santos/imagens/2025-03-06-santo.webp",
+    "filename": "2025-03-06-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

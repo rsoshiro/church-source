@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-06T00:00:00",
   "formatted_date": "06/04/2025",
   "day_of_week": "Sunday",
-  "title": "Santo do Dia",
+  "title": "São Marcelino, exemplo de verdade e justiça",
   "content": "Ocupou um cargo eminente no Império Romano entre os séculos IV e V, tanto que o imperador Honório o enviou para a África, em Cartago, devido a uma confusão com os donatistas, que ensinavam que a eficácia dos sacramentos dependia da santidade dos ministros.\n\nMarcelino se aconselhou com seu amigo, Santo Agostinho, que era bispo de Hipona. E juntos, buscaram o bem comum e a paz para aquela cidade.\n\nO santo de hoje foi mártir. Os donatistas vendo nele um entrave para os interesses pessoais, mandaram assassiná-lo. Pai de família, São Marcelino é exemplo para quem quer doar-se pela verdade e pela justiça.\n\nSão Marcelino, rogai por nós!",
   "date_in_content": "6 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-06-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/227.jpg",
+    "local_path": "../santos/imagens/2025-04-06-santo.webp",
+    "filename": "2025-04-06-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

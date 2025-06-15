@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-12T00:00:00",
   "formatted_date": "12/04/2025",
   "day_of_week": "Saturday",
-  "title": "Santo do Dia",
+  "title": "São Vitor, viveu toda sua juventude para Deus",
   "content": "Nasceu na aldeia de Passos, perto de Braga (Portugal), onde viveu toda sua juventude para Deus. Era catecúmeno, e se preparava para receber a graça do Batismo.\n\nJovem muito dado, encontrou um grupo de pagãos que prestava culto a um ídolo. Eles o chamavam a adorar este ídolo, e ele se recusou. Então, Vitor foi levado diante do governador e questionado.\n\nPor não renunciar a sua fé, foi preso numa árvore e flagelado. E em seguida, decapitado. São Vitor foi fiel a Cristo em todos os momentos, entregando-se a Jesus desde a juventude.\n\nSão Vitor, rogai por nós!",
   "date_in_content": "12 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-12-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/363.jpg",
+    "local_path": "../santos/imagens/2025-04-12-santo.webp",
+    "filename": "2025-04-12-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }

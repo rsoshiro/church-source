@@ -1,16 +1,16 @@
-﻿{
+{
   "date": "2025-04-27T00:00:00",
   "formatted_date": "27/04/2025",
   "day_of_week": "Sunday",
-  "title": "Santo do Dia",
+  "title": "Santa Zita, padroeira das empregadas do lar",
   "content": "Com muito carinho e devoção lembramos – neste dia – da santidade de vida de Santa Zita, padroeira das empregadas do lar. Nascida em Lucca (Itália), no ano de 1218, em uma família pobre e camponesa, mas que soube comunicar a ela a riqueza da vida em Deus.\n\nComo simples empregada, sem estudos e cultura, Zita consagrou-se inteiramente ao Senhor, sem deixar sua vida simples. O segredo da espiritualidade desta santa era muito concreto, pois consistia em se questionar se esta ou aquela atitude agradava ou não ao Senhor. Desta forma, abriu-se para a santificação de Deus.\n\nSanta Zita, com vinte anos, foi trabalhar numa família nobre e lá, não deixou de participar em todas as manhãs da Santa Missa na comunidade. Ela ajudava aos pobres e visitava os doentes nos tempos de folga, desta forma conquistou a admiração dos patrões. Conquistou também muitos corações para o Senhor e, merecidamente, o Céu.\n\nSanta Zita, rogai por nós!",
   "date_in_content": "27 de abril",
   "image": {
-    "original_url": "https://assets.ofertorio.com/24/0d78a157e24b9290b920e3d2c7dd5595.png",
-    "local_path": "C:\\Users\\edima\\OneDrive\\Documentos\\Projetos\\cursor-ai\\church-scraper-v1\\output\\santos\\imagens\\2025-04-27-e98ee7fd.webp",
-    "width": 400,
-    "height": 156,
-    "format": "WebP",
-    "size_reduction": "Optimized for web"
+    "original_url": "https://assets.ofertorio.com/api/saints/367.jpg",
+    "local_path": "../santos/imagens/2025-04-27-santo.webp",
+    "filename": "2025-04-27-santo.webp",
+    "width": 300,
+    "height": 300,
+    "format": "WebP"
   }
 }
