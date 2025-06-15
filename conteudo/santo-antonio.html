@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Santo Antônio de Pádua - O Santo dos Milagres</title>
+    <meta name="description" content="Conheça a vida e os milagres de Santo Antônio de Pádua, o santo casamenteiro e protetor dos pobres. Celebrado em 13 de junho.">
+    <meta name="keywords" content="Santo Antônio, Pádua, milagres, casamenteiro, 13 de junho, franciscano, santos católicos">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%);
+            color: white;
+            padding: 40px 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(139, 69, 19, 0.3);
+            animation: fadeInDown 1s ease-out;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-style: italic;
+        }
+
+        .header .date {
+            margin-top: 15px;
+            font-size: 1.1rem;
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+
+        .intro-section {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            animation: fadeInUp 1s ease-out 0.2s both;
+        }
+
+        .intro-section h2 {
+            color: #8B4513;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+            border-bottom: 3px solid #D2691E;
+            padding-bottom: 10px;
+        }
+
+        .intro-text {
+            font-size: 1.1rem;
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 40px 0;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            animation: fadeInUp 1s ease-out both;
+        }
+
+        .card:nth-child(1) { animation-delay: 0.3s; }
+        .card:nth-child(2) { animation-delay: 0.4s; }
+        .card:nth-child(3) { animation-delay: 0.5s; }
+        .card:nth-child(4) { animation-delay: 0.6s; }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+        }
+
+        .card h3 {
+            color: #8B4513;
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card-icon {
+            font-size: 1.8rem;
+            color: #D2691E;
+        }
+
+        .card p {
+            text-align: justify;
+            line-height: 1.7;
+        }
+
+        .biblical-section {
+            background: linear-gradient(135deg, #FFF8DC 0%, #F5DEB3 100%);
+            padding: 30px;
+            border-radius: 15px;
+            margin: 40px 0;
+            border-left: 5px solid #8B4513;
+            animation: fadeInLeft 1s ease-out 0.7s both;
+        }
+
+        .biblical-section h2 {
+            color: #8B4513;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+
+        .biblical-quote {
+            font-style: italic;
+            font-size: 1.1rem;
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            background: rgba(255,255,255,0.7);
+            border-radius: 10px;
+            border-left: 4px solid #D2691E;
+        }
+
+        .biblical-reference {
+            text-align: right;
+            font-weight: bold;
+            color: #8B4513;
+            margin-top: 10px;
+        }
+
+        .prayer-section {
+            background: linear-gradient(135deg, #E6E6FA 0%, #D8BFD8 100%);
+            padding: 30px;
+            border-radius: 15px;
+            margin: 40px 0;
+            text-align: center;
+            animation: fadeInRight 1s ease-out 0.8s both;
+        }
+
+        .prayer-section h2 {
+            color: #4B0082;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+
+        .prayer-text {
+            font-style: italic;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            background: rgba(255,255,255,0.8);
+            padding: 25px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+
+        .reflection-section {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin: 40px 0;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            animation: fadeInUp 1s ease-out 0.9s both;
+        }
+
+        .reflection-section h2 {
+            color: #8B4513;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        .reflection-text {
+            font-size: 1.1rem;
+            text-align: justify;
+            line-height: 1.8;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 30px;
+            background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%);
+            color: white;
+            border-radius: 15px;
+            animation: fadeIn 1s ease-out 1s both;
+        }
+
+        .footer p {
+            margin: 10px 0;
+        }
+
+        .footer .blessing {
+            font-style: italic;
+            font-size: 1.1rem;
+            margin-top: 20px;
+        }
+
+        /* Animações */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes fadeInRight {
+            from {
+                opacity: 0;
+                transform: translateX(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .header .subtitle {
+                font-size: 1rem;
+            }
+
+            .cards-container {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .card, .intro-section, .biblical-section, .prayer-section, .reflection-section {
+                padding: 20px;
+            }
+
+            .card h3 {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header {
+                padding: 25px 15px;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .intro-text, .card p, .reflection-text {
+                font-size: 1rem;
+            }
+
+            .biblical-quote, .prayer-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Santo Antônio de Pádua</h1>
+            <p class="subtitle">O Santo dos Milagres e Casamenteiro</p>
+            <p class="date">📅 Festa Litúrgica: 13 de Junho</p>
+        </header>
+
+        <section class="intro-section">
+            <h2>🌟 Introdução</h2>
+            <p class="intro-text">
+                Santo Antônio de Pádua (1195-1231) é um dos santos mais venerados da Igreja Católica, conhecido mundialmente como o "Santo dos Milagres" e o "Santo Casamenteiro". Nascido em Lisboa, Portugal, com o nome de Fernando Martins de Bulhões, tornou-se franciscano e dedicou sua vida à pregação e ao cuidado dos pobres e necessitados.
+            </p>
+            <p class="intro-text">
+                Sua devoção se espalhou rapidamente após sua morte, sendo canonizado apenas um ano depois, pelo Papa Gregório IX. É invocado especialmente para encontrar objetos perdidos, ajudar nos relacionamentos amorosos e proteger os pobres e oprimidos.
+            </p>
+        </section>
+
+        <div class="cards-container">
+            <div class="card">
+                <h3><span class="card-icon">📖</span>Vida e Vocação</h3>
+                <p>
+                    Fernando nasceu em uma família nobre de Lisboa. Aos 15 anos, ingressou no mosteiro dos Cônegos Regulares de Santo Agostinho. Em 1220, inspirado pelo martírio de cinco franciscanos no Marrocos, juntou-se à Ordem Franciscana, adotando o nome de Antônio. Sua eloquência na pregação e profundo conhecimento das Escrituras o tornaram um dos maiores pregadores de seu tempo.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3><span class="card-icon">⭐</span>Milagres e Prodígios</h3>
+                <p>
+                    Santo Antônio foi conhecido por inúmeros milagres durante sua vida. Entre os mais famosos estão: a pregação aos peixes quando os homens se recusaram a ouvi-lo, a aparição simultânea em dois lugares diferentes, e a ressurreição de um jovem para testemunhar a favor de seu pai injustamente acusado. Estes prodígios consolidaram sua fama de taumaturgo.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3><span class="card-icon">💕</span>Santo Casamenteiro</h3>
+                <p>
+                    A tradição de invocar Santo Antônio para questões amorosas tem origem em diversos milagres relacionados ao casamento e à família. Conta-se que ele ajudou muitas jovens a encontrarem bons esposos e reconciliou casais em crise. Por isso, é comum ver suas imagens decoradas com fitas e pedidos de amor, especialmente durante as festas juninas no Brasil.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3><span class="card-icon">🙏</span>Protetor dos Pobres</h3>
+                <p>
+                    Seguindo o exemplo de São Francisco, Santo Antônio dedicou-se intensamente ao cuidado dos pobres e marginalizados. Fundou casas de assistência, distribuía esmolas e defendia os direitos dos necessitados. Sua compaixão pelos menos favorecidos o tornou um símbolo de caridade cristã e justiça social, sendo invocado até hoje por aqueles que buscam ajuda material e espiritual.
+                </p>
+            </div>
+        </div>
+
+        <section class="biblical-section">
+            <h2>📜 Palavra de Deus</h2>
+            <div class="biblical-quote">
+                "Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os que choram, porque serão consolados. Bem-aventurados os mansos, porque herdarão a terra."
+                <div class="biblical-reference">- Mateus 5, 3-5</div>
+            </div>
+            <p>
+                Esta passagem das Bem-aventuranças reflete perfeitamente o espírito de Santo Antônio, que viveu na simplicidade franciscana, consolou os aflitos e demonstrou mansidão em sua pregação, conquistando corações através do amor e não da imposição.
+            </p>
+        </section>
+
+        <section class="prayer-section">
+            <h2>🕊️ Oração a Santo Antônio</h2>
+            <div class="prayer-text">
+                "Glorioso Santo Antônio, que recebestes de Deus o privilégio de fazer encontrar as coisas perdidas, ajudai-me a encontrar a graça de Deus que perdi pelo pecado.
+                <br><br>
+                Fazei que eu encontre Jesus, meu Salvador, e que nunca mais me separe d'Ele. Alcançai-me também a graça de encontrar... (fazer o pedido).
+                <br><br>
+                Vós que fostes um dos pregadores mais eloquentes da Igreja, obtende-me o dom de falar sempre com edificação e proveito do próximo.
+                <br><br>
+                Glorioso Santo Antônio, rogai por nós! Amém."
+            </div>
+        </section>
+
+        <section class="reflection-section">
+            <h2>💭 Reflexão Final</h2>
+            <p class="reflection-text">
+                Santo Antônio de Pádua nos ensina que a verdadeira grandeza está no serviço aos outros, especialmente aos mais necessitados. Sua vida foi um testemunho eloquente do Evangelho, mostrando que é possível viver os valores cristãos de forma radical e transformadora.
+            </p>
+            <p class="reflection-text">
+                Em nossa época, marcada por tantas divisões e injustiças, o exemplo de Santo Antônio nos convida a ser instrumentos de paz, reconciliação e caridade. Que possamos, como ele, usar nossos talentos não para nosso próprio benefício, mas para o bem comum e a glória de Deus.
+            </p>
+            <p class="reflection-text">
+                Que Santo Antônio interceda por nós, ajudando-nos a encontrar não apenas os objetos materiais perdidos, mas principalmente o caminho da santidade e do amor verdadeiro. Que sua proteção nos acompanhe sempre, especialmente nos momentos de dificuldade e incerteza.
+            </p>
+        </section>
+
+        <footer class="footer">
+            <p><strong>Santo Antônio de Pádua</strong></p>
+            <p>Nascimento: 1195, Lisboa, Portugal</p>
+            <p>Morte: 13 de junho de 1231, Pádua, Itália</p>
+            <p>Canonização: 30 de maio de 1232</p>
+            <p>Patrono: Pobres, objetos perdidos, casamentos</p>
+            <p class="blessing">
+                "Que Santo Antônio nos abençoe e interceda por nós junto ao Pai, para que possamos viver sempre na graça e no amor de Deus."
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
