@@ -1,0 +1,15 @@
+{
+  "latest_version": "1.1.4",
+  "min_supported_version": "1.0.0",
+  "force_update": false,
+  "release_notes": "Você está usando a versão mais recente do aplicativo! 🎉",
+  "android": {
+    "store_url": "https://play.google.com/store/apps/details?id=com.roshiro.appchurch",
+    "min_os_version": "21"
+  },
+  "ios": {
+    "store_url": "https://apps.apple.com/br/app/igreja-mae-da-divina-providencia/id6737284737",
+    "min_os_version": "12.0"
+  },
+  "last_updated": "2025-01-28T15:30:00Z"
+}
