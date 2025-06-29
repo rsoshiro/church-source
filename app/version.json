@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.4",
+  "latest_version": "1.2.0",
   "min_supported_version": "1.0.0",
   "force_update": false,
-  "release_notes": "Você está usando a versão mais recente do aplicativo! 🎉",
+  "release_notes": "🎉 Nova versão disponível!\n\n✨ Novidades:\n• Sistema de revistas otimizado\n• Melhor performance no carregamento\n• Correção de bugs menores\n• Interface mais fluida\n\n🔧 Melhorias:\n• Cache inteligente implementado\n• Redução no uso de dados\n• Estabilidade geral aprimorada",
   "android": {
     "store_url": "https://play.google.com/store/apps/details?id=com.roshiro.appchurch",
     "min_os_version": "21"
