@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.7",
-  "release_notes": "Correções no sistema de revistas...",
+  "latest_version": "1.1.8",
+  "release_notes": "Correções no sistema de fallback...",
   "force_update": false,
   "min_supported_version": "1.0.0"
 } 
