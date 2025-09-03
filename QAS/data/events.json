@@ -1,11 +1,11 @@
 ﻿
 {
-  "last_update": "2025-08-22T07:31:11.972276",
+  "last_update": "2025-09-03T20:13:52.478477",
   "events": [
     {
-      "id": "4342",
+      "id": "4343",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 28/08 às 09:00",
+      "date_time": "Ocorrerá em 04/09 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -16,7 +16,7 @@
         "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
-        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\nƠ\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+        "extracted_text": ""
       },
       "schedule": [
         "9h    Exposição com breves atos e cantos de louvores",
