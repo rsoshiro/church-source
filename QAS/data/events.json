@@ -1,107 +1,7 @@
 ﻿
 {
-  "last_update": "2025-09-13T08:56:06.159094",
+  "last_update": "2025-09-16T21:41:24.439279",
   "events": [
-    {
-      "id": "4555",
-      "title": "Festa da Exaltação da Santa Cruz - Sáb 18h",
-      "date_time": "Ocorrerá em 13/09 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "“Deus não enviou o seu Filho ao mundo para condenar o mundo” (Jo 3,17)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/bb48b9f3e037287679191e4b57c96440.jpeg",
-        "local_path": "images/events/event_0_festa-da-exaltacao-da-santa-cruz-sab-18h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\nFesta da Exaltação\nda Santa Cruz\n13/9\nsábado\n18h\n14/9\ndomingo\n9h30, 11h30\n17h, 19h\nDeus não enviou o seu Fitho ao mundo\npara condenar o mundo\"\n(Jo 3,17)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    14/9", "9h30, 11h30", "17h    Deus n\u00e3o enviou o seu Fitho ao mundo"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
-    {
-      "id": "4547",
-      "title": "Festa da Exaltação da Santa Cruz - Dom 9h30",
-      "date_time": "Ocorrerá em 14/09 às 09:30",
-      "duration": "",
-      "location": "",
-      "description": "“Deus não enviou o seu Filho ao mundo para condenar o mundo” (Jo 3,17)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/bb48b9f3e037287679191e4b57c96440.jpeg",
-        "local_path": "images/events/event_1_festa-da-exaltacao-da-santa-cruz-dom-9h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\nFesta da Exaltação\nda Santa Cruz\n13/9\nsábado\n18h\n14/9\ndomingo\n9h30, 11h30\n17h, 19h\nDeus não enviou o seu Fitho ao mundo\npara condenar o mundo\"\n(Jo 3,17)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    14/9", "9h30, 11h30", "17h    Deus n\u00e3o enviou o seu Fitho ao mundo"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
-    {
-      "id": "4556",
-      "title": "Festa da Exaltação da Santa Cruz - Dom 11h30",
-      "date_time": "Ocorrerá em 14/09 às 11:30",
-      "duration": "",
-      "location": "",
-      "description": "“Deus não enviou o seu Filho ao mundo para condenar o mundo” (Jo 3,17)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/bb48b9f3e037287679191e4b57c96440.jpeg",
-        "local_path": "images/events/event_2_festa-da-exaltacao-da-santa-cruz-dom-11h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\nFesta da Exaltação\nda Santa Cruz\n13/9\nsábado\n18h\n14/9\ndomingo\n9h30, 11h30\n17h, 19h\nDeus não enviou o seu Fitho ao mundo\npara condenar o mundo\"\n(Jo 3,17)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    14/9", "9h30, 11h30", "17h    Deus n\u00e3o enviou o seu Fitho ao mundo"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
-    {
-      "id": "4557",
-      "title": "Festa da Exaltação da Santa Cruz - Dom 17h",
-      "date_time": "Ocorrerá em 14/09 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "“Deus não enviou o seu Filho ao mundo para condenar o mundo” (Jo 3,17)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/bb48b9f3e037287679191e4b57c96440.jpeg",
-        "local_path": "images/events/event_3_festa-da-exaltacao-da-santa-cruz-dom-17h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\nFesta da Exaltação\nda Santa Cruz\n13/9\nsábado\n18h\n14/9\ndomingo\n9h30, 11h30\n17h, 19h\nDeus não enviou o seu Fitho ao mundo\npara condenar o mundo\"\n(Jo 3,17)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    14/9", "9h30, 11h30", "17h    Deus n\u00e3o enviou o seu Fitho ao mundo"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
-    {
-      "id": "4558",
-      "title": "Festa da Exaltação da Santa Cruz - Dom 19h",
-      "date_time": "Ocorrerá em 14/09 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "“Deus não enviou o seu Filho ao mundo para condenar o mundo” (Jo 3,17)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/bb48b9f3e037287679191e4b57c96440.jpeg",
-        "local_path": "images/events/event_4_festa-da-exaltacao-da-santa-cruz-dom-19h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\nFesta da Exaltação\nda Santa Cruz\n13/9\nsábado\n18h\n14/9\ndomingo\n9h30, 11h30\n17h, 19h\nDeus não enviou o seu Fitho ao mundo\npara condenar o mundo\"\n(Jo 3,17)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    14/9", "9h30, 11h30", "17h    Deus n\u00e3o enviou o seu Fitho ao mundo"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
     {
       "id": "4504",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -113,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_5_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\nƠ\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -139,7 +39,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/cbb3023122c167c553cd687246067cdf.jpeg",
-        "local_path": "images/events/event_6_grupo-maes-da-esperanca.webp",
+        "local_path": "images/events/event_1_grupo-maes-da-esperanca.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "103\nGrupo\nMães da\nEsperança\nToda 1ª e 3ª quinta-feira\ndo mês às 19h45\nLOCAL:\nParóquia Mãe da Divina\nProvidência\nMãeS da\nEsperança\nARO DUTA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -159,7 +59,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2b096416e58ae48d0a9b88a0e651354c.jpeg",
-        "local_path": "images/events/event_7_25o-domingo-do-tempo-comum-sab-18h.webp",
+        "local_path": "images/events/event_2_25o-domingo-do-tempo-comum-sab-18h.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Santas\nMissas\nno final de semana\n25° Domingo do Tempo Comum\n20/9\nsábado\n18h\n21/9\ndomingo\n9h30, 11h30\n17h, 19h\nVós não podeis servir a\nDeus e ao dinheiro\"\n(Lc 16, 13)\nPAROCUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -179,67 +79,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2b096416e58ae48d0a9b88a0e651354c.jpeg",
-        "local_path": "images/events/event_8_25odomingo-do-tempo-comum-dom-9h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n25° Domingo do Tempo Comum\n20/9\nsábado\n18h\n21/9\ndomingo\n9h30, 11h30\n17h, 19h\nVós não podeis servir a\nDeus e ao dinheiro\"\n(Lc 16, 13)\nPAROCUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    21/9", "9h30, 11h30", "17h    V\u00f3s n\u00e3o podeis servir a"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4559",
-      "title": "25º Domingo do Tempo Comum - Dom 11h30",
-      "date_time": "Ocorrerá em 21/09 às 11:30",
-      "duration": "",
-      "location": "",
-      "description": "“Vós não podeis servir a Deus e ao dinheiro” (Lc 16, 13)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2b096416e58ae48d0a9b88a0e651354c.jpeg",
-        "local_path": "images/events/event_9_25o-domingo-do-tempo-comum-dom-11h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n25° Domingo do Tempo Comum\n20/9\nsábado\n18h\n21/9\ndomingo\n9h30, 11h30\n17h, 19h\nVós não podeis servir a\nDeus e ao dinheiro\"\n(Lc 16, 13)\nPAROCUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    21/9", "9h30, 11h30", "17h    V\u00f3s n\u00e3o podeis servir a"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4561",
-      "title": "25º Domingo do Tempo Comum - Dom 17h",
-      "date_time": "Ocorrerá em 21/09 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "“Vós não podeis servir a Deus e ao dinheiro” (Lc 16, 13)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2b096416e58ae48d0a9b88a0e651354c.jpeg",
-        "local_path": "images/events/event_10_25o-domingo-do-tempo-comum-dom-17h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n25° Domingo do Tempo Comum\n20/9\nsábado\n18h\n21/9\ndomingo\n9h30, 11h30\n17h, 19h\nVós não podeis servir a\nDeus e ao dinheiro\"\n(Lc 16, 13)\nPAROCUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    21/9", "9h30, 11h30", "17h    V\u00f3s n\u00e3o podeis servir a"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4562",
-      "title": "25º Domingo do Tempo Comum - Dom 19h",
-      "date_time": "Ocorrerá em 21/09 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "“Vós não podeis servir a Deus e ao dinheiro” (Lc 16, 13)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2b096416e58ae48d0a9b88a0e651354c.jpeg",
-        "local_path": "images/events/event_11_25o-domingo-do-tempo-comum-dom-19h.webp",
+        "local_path": "images/events/event_3_25odomingo-do-tempo-comum-dom-9h30.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Santas\nMissas\nno final de semana\n25° Domingo do Tempo Comum\n20/9\nsábado\n18h\n21/9\ndomingo\n9h30, 11h30\n17h, 19h\nVós não podeis servir a\nDeus e ao dinheiro\"\n(Lc 16, 13)\nPAROCUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -259,7 +99,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/ec1490d2aaf3ce6fc93e68a9cf9b6504.jpeg",
-        "local_path": "images/events/event_12_26o-domingo-do-tempo-comum-sab-18h.webp",
+        "local_path": "images/events/event_4_26o-domingo-do-tempo-comum-sab-18h.webp",
         "width": 1279,
         "height": 1600,
         "extracted_text": "Santas\nMissas\nno final de semana\n26° Domingo do Tempo Comum\n27/9\n18h\nsábado\n28/9\ndomingo\n9h30, 11h30\n17h, 19h\nEles não acreditarão,\nmesmo que alguém\nressuscite dos mortos\"\n(Lc 16,31)\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
@@ -279,67 +119,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/ec1490d2aaf3ce6fc93e68a9cf9b6504.jpeg",
-        "local_path": "images/events/event_13_26o-domingo-do-tempo-comum-dom-9h30.webp",
-        "width": 1279,
-        "height": 1600,
-        "extracted_text": "Santas\nMissas\nno final de semana\n26° Domingo do Tempo Comum\n27/9\n18h\nsábado\n28/9\ndomingo\n9h30, 11h30\n17h, 19h\nEles não acreditarão,\nmesmo que alguém\nressuscite dos mortos\"\n(Lc 16,31)\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    s\u00e1bado", "9h30, 11h30", "17h    Eles n\u00e3o acreditar\u00e3o,"],
-      "address": "Providência @maedadivinaprouidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4565",
-      "title": "26º Domingo do Tempo Comum - Dom 11h30",
-      "date_time": "Ocorrerá em 28/09 às 11:30",
-      "duration": "",
-      "location": "",
-      "description": "“Eles não acreditarão, mesmo que alguém ressuscite dos mortos” (Lc 16,31)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/ec1490d2aaf3ce6fc93e68a9cf9b6504.jpeg",
-        "local_path": "images/events/event_14_26o-domingo-do-tempo-comum-dom-11h30.webp",
-        "width": 1279,
-        "height": 1600,
-        "extracted_text": "Santas\nMissas\nno final de semana\n26° Domingo do Tempo Comum\n27/9\n18h\nsábado\n28/9\ndomingo\n9h30, 11h30\n17h, 19h\nEles não acreditarão,\nmesmo que alguém\nressuscite dos mortos\"\n(Lc 16,31)\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    s\u00e1bado", "9h30, 11h30", "17h    Eles n\u00e3o acreditar\u00e3o,"],
-      "address": "Providência @maedadivinaprouidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4566",
-      "title": "26º Domingo do Tempo Comum - Dom 17h",
-      "date_time": "Ocorrerá em 28/09 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "“Eles não acreditarão, mesmo que alguém ressuscite dos mortos” (Lc 16,31)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/ec1490d2aaf3ce6fc93e68a9cf9b6504.jpeg",
-        "local_path": "images/events/event_15_26o-domingo-do-tempo-comum-dom-17h.webp",
-        "width": 1279,
-        "height": 1600,
-        "extracted_text": "Santas\nMissas\nno final de semana\n26° Domingo do Tempo Comum\n27/9\n18h\nsábado\n28/9\ndomingo\n9h30, 11h30\n17h, 19h\nEles não acreditarão,\nmesmo que alguém\nressuscite dos mortos\"\n(Lc 16,31)\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    s\u00e1bado", "9h30, 11h30", "17h    Eles n\u00e3o acreditar\u00e3o,"],
-      "address": "Providência @maedadivinaprouidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4567",
-      "title": "26º Domingo do Tempo Comum - Dom 19h",
-      "date_time": "Ocorrerá em 28/09 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "“Eles não acreditarão, mesmo que alguém ressuscite dos mortos” (Lc 16,31)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/ec1490d2aaf3ce6fc93e68a9cf9b6504.jpeg",
-        "local_path": "images/events/event_16_26o-domingo-do-tempo-comum-dom-19h.webp",
+        "local_path": "images/events/event_5_26o-domingo-do-tempo-comum-dom-9h30.webp",
         "width": 1279,
         "height": 1600,
         "extracted_text": "Santas\nMissas\nno final de semana\n26° Domingo do Tempo Comum\n27/9\n18h\nsábado\n28/9\ndomingo\n9h30, 11h30\n17h, 19h\nEles não acreditarão,\nmesmo que alguém\nressuscite dos mortos\"\n(Lc 16,31)\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
@@ -359,7 +139,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/cbb3023122c167c553cd687246067cdf.jpeg",
-        "local_path": "images/events/event_17_grupo-maes-da-esperanca.webp",
+        "local_path": "images/events/event_6_grupo-maes-da-esperanca.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "103\nGrupo\nMães da\nEsperança\nToda 1ª e 3ª quinta-feira\ndo mês às 19h45\nLOCAL:\nParóquia Mãe da Divina\nProvidência\nMãeS da\nEsperança\nARO DUTA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -379,7 +159,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/e334990e04d36b163793c2dfd299946c.jpeg",
-        "local_path": "images/events/event_18_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
+        "local_path": "images/events/event_7_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Missa e novena ao\nSagrado\nCoração\nde Jesus\nTODA PRIMEIRA\nSEXTA-FEIRA DO MÊS\n19h\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nCoração de Jesus, abrasado\nde amor por nós, inflamai\nnosso coração de amor por Vós\"\nMãe da Divina\nProvidência\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br"
@@ -399,7 +179,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/c0ed446bc56b272b0fce39168c1ee31b.jpeg",
-        "local_path": "images/events/event_19_ato-de-reparcao-ao-imaculado-coracao-de-maria.webp",
+        "local_path": "images/events/event_8_ato-de-reparcao-ao-imaculado-coracao-de-maria.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Ato de\nReparação\nao Imaculado\nCoração de Maria\nTODO PRIMEIRO SÁBADO DO MÊS\nParóquia Mãe da Divina Providência\nRua José Nogueira Franco, 435\n9h Terço e\nAdoração\n10h Santa\nMissa\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -419,7 +199,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/e87fc0fc6ebac189dbdfdda47055c396.jpeg",
-        "local_path": "images/events/event_20_cha-bingo-para-os-idosos-60.webp",
+        "local_path": "images/events/event_9_cha-bingo-para-os-idosos-60.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Cha Bingo\npara os Idosos 60+\n4/10 • 14h\nsábado\nSalão da paróquia\n• @maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br\nPAROQUIA\nMãe da Divina\nProvidência"
@@ -439,7 +219,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_21_27o-domingo-do-tempo-comum-sab-18h.webp",
+        "local_path": "images/events/event_10_27o-domingo-do-tempo-comum-sab-18h.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Santas\nMissas\nno final de semana\n27° Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos seruos inuteis;\nfizemos o que devíamos fazer\"\n(Lc 17,10)\nPAROOUIA\nMãe da Divina\nProvidência\nO\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -459,7 +239,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/b5021e172f85b8d130fb24bee89e409d.jpeg",
-        "local_path": "images/events/event_22_domingo-da-caridade.webp",
+        "local_path": "images/events/event_11_domingo-da-caridade.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "AR O\nMãe da Divina\nProvidência\nDomingo da\nCaridade\nDoe alimentos não perecíveis,\nleite e materiais de higiene para\naqueles que mais necessitam.\nTraga sua doação\ndurante as Missas\nou na secretaria\nparoquial.\nPONTO DE ENTREGA:\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nSSV\nAquele que tem caridade no coração\ntem sempre qualquer coisa para dar\"\n(Santo Agostinho)\nserviens in spe\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -479,67 +259,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_23_27o-domingo-do-tempo-comum-dom-9h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n27° Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos seruos inuteis;\nfizemos o que devíamos fazer\"\n(Lc 17,10)\nPAROOUIA\nMãe da Divina\nProvidência\nO\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    5/10", "9h30, 11h30", "17h    Somos seruos inuteis;"],
-      "address": "Providência O",
-      "day_of_week": ""
-    },
-    {
-      "id": "4570",
-      "title": "27º Domingo do Tempo Comum - Dom 11h30",
-      "date_time": "Ocorrerá em 05/10 às 11:30",
-      "duration": "",
-      "location": "",
-      "description": "“Somos servos inúteis; fizemos o que devíamos fazer” (Lc 17,10)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_24_27o-domingo-do-tempo-comum-dom-11h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n27° Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos seruos inuteis;\nfizemos o que devíamos fazer\"\n(Lc 17,10)\nPAROOUIA\nMãe da Divina\nProvidência\nO\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    5/10", "9h30, 11h30", "17h    Somos seruos inuteis;"],
-      "address": "Providência O",
-      "day_of_week": ""
-    },
-    {
-      "id": "4571",
-      "title": "27º Domingo do Tempo Comum - Dom 17h",
-      "date_time": "Ocorrerá em 05/10 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "“Somos servos inúteis; fizemos o que devíamos fazer” (Lc 17,10)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_25_27o-domingo-do-tempo-comum-dom-17h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n27° Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos seruos inuteis;\nfizemos o que devíamos fazer\"\n(Lc 17,10)\nPAROOUIA\nMãe da Divina\nProvidência\nO\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    5/10", "9h30, 11h30", "17h    Somos seruos inuteis;"],
-      "address": "Providência O",
-      "day_of_week": ""
-    },
-    {
-      "id": "4572",
-      "title": "27º Domingo do Tempo Comum - Dom 19h",
-      "date_time": "Ocorrerá em 05/10 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "“Somos servos inúteis; fizemos o que devíamos fazer” (Lc 17,10)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_26_27o-domingo-do-tempo-comum-dom-19h.webp",
+        "local_path": "images/events/event_12_27o-domingo-do-tempo-comum-dom-9h30.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Santas\nMissas\nno final de semana\n27° Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos seruos inuteis;\nfizemos o que devíamos fazer\"\n(Lc 17,10)\nPAROOUIA\nMãe da Divina\nProvidência\nO\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -559,7 +279,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/fcd3456446b86b9843bd2c58f349e15c.jpeg",
-        "local_path": "images/events/event_27_bazar-da-providencia.webp",
+        "local_path": "images/events/event_13_bazar-da-providencia.webp",
         "width": 1279,
         "height": 1600,
         "extracted_text": "Bazar\nda Providência\n7/10 terça-feira\n9h às 15h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
@@ -579,7 +299,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/cbb3023122c167c553cd687246067cdf.jpeg",
-        "local_path": "images/events/event_28_grupo-maes-da-esperanca.webp",
+        "local_path": "images/events/event_14_grupo-maes-da-esperanca.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "103\nGrupo\nMães da\nEsperança\nToda 1ª e 3ª quinta-feira\ndo mês às 19h45\nLOCAL:\nParóquia Mãe da Divina\nProvidência\nMãeS da\nEsperança\nARO DUTA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
