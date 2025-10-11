@@ -1,111 +1,31 @@
 ﻿
 {
-  "last_update": "2025-10-04T10:00:16.523964",
+  "last_update": "2025-10-11T09:49:17.946580",
   "events": [
     {
-      "id": "4543",
-      "title": "Chá Bingo para os Idosos 60+",
-      "date_time": "Ocorrerá em 04/10 às 14:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/e87fc0fc6ebac189dbdfdda47055c396.jpeg",
-        "local_path": "images/events/event_0_cha-bingo-para-os-idosos-60.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Chá Bingo\npara os Idosos 60+\n4/10 • 14h\nsábado\nSalão da paróquia\nO @maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br\nPAROQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [],
-      "address": "Salão da paróquia",
-      "day_of_week": ""
-    },
-    {
-      "id": "4568",
-      "title": "27º Domingo do Tempo Comum - Sáb 18h",
-      "date_time": "Ocorrerá em 04/10 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "“Somos servos inúteis; fizemos o que devíamos fazer” (Lc 17,10)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_1_27o-domingo-do-tempo-comum-sab-18h.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nNissas\nno final de semana\n27º Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos servos inúteis;\nfizemos o que deuíamos fazer\"\n(Lc 17,10)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["18h    5/10", "9h30, 11h30", "17h    Somos servos in\u00fateis;"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4581",
-      "title": "Domingo da Caridade",
-      "date_time": "Ocorrerá em 04/10 às 18:00",
+      "id": "4663",
+      "title": "Santa Missa - Solenidade Virgem Maria da Conceição Aparecida",
+      "date_time": "Ocorrerá em 11/10 às 18:00",
       "duration": "Durará 1d 01h 00m",
       "location": "",
-      "description": "“Aquele que tem caridade no coração tem sempre qualquer coisa para dar” (Santo Agostinho)",
+      "description": "“Fazei o que Ele vos disser!”",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/b5021e172f85b8d130fb24bee89e409d.jpeg",
-        "local_path": "images/events/event_2_domingo-da-caridade.webp",
+        "original_url": "https://assets.ofertorio.com/24/57e1a1ec0528597ca93aec07dd8737fc.jpeg",
+        "local_path": "images/events/event_0_santa-missa-solenidade-virgem-maria-da-conceicao-aparecida.webp",
         "width": 1080,
         "height": 1350,
-        "extracted_text": "A RO\nMãe da Divina\nProvidência\nDomingo da\nCaridade\nDoe alimentos não perecíveis,\nLeite e materiais de higiene para\naqueles que mais necessitam.\nTraga sua doação\ndurante as Missas\nou na secretaria\nparoquial.\nPONTO DE ENTREGA:\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nSSV\nAquele que tem caridade no coração\ntem sempre qualquer coisa para dar\"\n(Santo Agostinho)\nscriens in spe\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
+        "extracted_text": "Solenidade da Bem-Aventurada\nVirgem Maria\nda Conceição\nAparecida\ncom bênção das crianças\n11/10\nsábado\n18h\n12/10\ndomingo\n9h30, 11h30\n17h, 19h\nFazei o que Ele vos disser.\"\n(Jo 2,5)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
       },
-      "schedule": [],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
-    {
-      "id": "4569",
-      "title": "27º Domingo do Tempo Comum - Dom 9h30",
-      "date_time": "Ocorrerá em 05/10 às 09:30",
-      "duration": "",
-      "location": "",
-      "description": "“Somos servos inúteis; fizemos o que devíamos fazer” (Lc 17,10)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/241cab6719c2af25b8436371febf2776.jpeg",
-        "local_path": "images/events/event_3_27o-domingo-do-tempo-comum-dom-9h30.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nNissas\nno final de semana\n27º Domingo do Tempo Comum\n4/10\nsábado\n18h\n5/10\ndomingo\n9h30, 11h30\n17h, 19h\nSomos servos inúteis;\nfizemos o que deuíamos fazer\"\n(Lc 17,10)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["18h    5/10", "9h30, 11h30", "17h    Somos servos in\u00fateis;"],
+      "schedule": ["18h    12/10", "9h30, 11h30", "17h    Fazei o que Ele vos disser.\""],
       "address": "Providência @maedadivinaprovidencialondrina",
       "day_of_week": ""
     },
     {
-      "id": "4573",
-      "title": "Bazar da Providência",
-      "date_time": "Ocorrerá em 07/10 às 09:00",
-      "duration": "Durará 06h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/fcd3456446b86b9843bd2c58f349e15c.jpeg",
-        "local_path": "images/events/event_4_bazar-da-providencia.webp",
-        "width": 1279,
-        "height": 1600,
-        "extracted_text": "Bazar\nda Providência\n7/10 terça-feiro\n9h às 15h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["9h    LOCAL:"],
-      "address": "social da Paróquia.",
-      "day_of_week": ""
-    },
-    {
-      "id": "4651",
+      "id": "4662",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 09/10 às 09:00",
+      "date_time": "Ocorrerá em 16/10 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -113,7 +33,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_5_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -139,7 +59,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/cbb3023122c167c553cd687246067cdf.jpeg",
-        "local_path": "images/events/event_6_grupo-maes-da-esperanca.webp",
+        "local_path": "images/events/event_2_grupo-maes-da-esperanca.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Grupo\nMães da\nEsperança\nToda 1ª e 3ª quinta-feira\ndo mês às 19h45\nLOCAL:\nParóquia Mãe da Divina\nProvidência\nMães da\nEsperança\nCARO OURES\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
