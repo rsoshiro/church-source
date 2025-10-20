@@ -1,31 +1,11 @@
 ﻿
 {
-  "last_update": "2025-10-11T09:49:17.946580",
+  "last_update": "2025-10-20T18:52:07.225578",
   "events": [
     {
-      "id": "4663",
-      "title": "Santa Missa - Solenidade Virgem Maria da Conceição Aparecida",
-      "date_time": "Ocorrerá em 11/10 às 18:00",
-      "duration": "Durará 1d 01h 00m",
-      "location": "",
-      "description": "“Fazei o que Ele vos disser!”",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/57e1a1ec0528597ca93aec07dd8737fc.jpeg",
-        "local_path": "images/events/event_0_santa-missa-solenidade-virgem-maria-da-conceicao-aparecida.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Solenidade da Bem-Aventurada\nVirgem Maria\nda Conceição\nAparecida\ncom bênção das crianças\n11/10\nsábado\n18h\n12/10\ndomingo\n9h30, 11h30\n17h, 19h\nFazei o que Ele vos disser.\"\n(Jo 2,5)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    12/10", "9h30, 11h30", "17h    Fazei o que Ele vos disser.\""],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "4662",
+      "id": "4695",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 16/10 às 09:00",
+      "date_time": "Ocorrerá em 23/10 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -33,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -47,26 +27,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "4580",
-      "title": "Grupo Mães da Esperança",
-      "date_time": "Ocorrerá em 16/10 às 19:45",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/cbb3023122c167c553cd687246067cdf.jpeg",
-        "local_path": "images/events/event_2_grupo-maes-da-esperanca.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Grupo\nMães da\nEsperança\nToda 1ª e 3ª quinta-feira\ndo mês às 19h45\nLOCAL:\nParóquia Mãe da Divina\nProvidência\nMães da\nEsperança\nCARO OURES\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
-      "address": "Paróquia Mãe da Divina",
-      "day_of_week": "Toda 1ª e 3ª quinta-feira"
     }
   ]
 }
