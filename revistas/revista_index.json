@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-01-26T20:12:41.226677Z",
-  "version": 10,
+  "last_updated": "2026-01-26T20:15:25.694425Z",
+  "version": 11,
   "total_magazines": 10,
   "magazines": [
     {
       "edition": "10",
       "title": "Revista Vinho Novo",
       "subtitle": "Edição 10",
-      "directory": "Revista_Vinho_Novo_Ed_10",
+      "directory": "REVISTA_VINHO_NOVO_ED_10",
       "created_date": "2026-01-26T20:12:40.553307Z",
       "modified_date": "2026-01-26T20:12:41.211390Z",
       "page_count": 20,
