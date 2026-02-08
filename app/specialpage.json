@@ -1,4 +1,6 @@
-Via Sacra
-https://rsoshiro.github.io/via-sacra-2026-front/
-01/02/2026
-v0.01
+{
+  "title": "Via Sacra",
+  "url": "https://rsoshiro.github.io/via-sacra-2026-front/",
+  "dateFrom": "01/02/2026",
+  "version": "v0.01"
+}
