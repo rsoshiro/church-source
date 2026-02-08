@@ -1,6 +1,10 @@
 {
-  "latest_version": "1.1.7",
-  "release_notes": "Correções no sistema de revistas...",
+  "latest_version": "1.1.16",
+  "release_notes": "* Novo Jogo da Memória: Divirta-se e exercite a mente com o novo jogo temático da nossa paróquia.
+* Melhorias em UI/UX: Interface atualizada para uma navegação mais fluida, moderna e intuitiva.
+* Sistema de Notificações: Agora você recebe avisos importantes, diretamente no seu celular em tempo real.
+* Estabilidade: Correções internas para garantir o melhor desempenho no Android 14 e 15.",
   "force_update": false,
   "min_supported_version": "1.0.0"
+
 } 
