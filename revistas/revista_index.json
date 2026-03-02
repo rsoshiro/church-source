@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-02T07:56:28.014220Z",
-  "version": 2,
-  "total_magazines": 9,
+  "last_updated": "2026-03-02T07:59:41.139785Z",
+  "version": 3,
+  "total_magazines": 10,
   "magazines": [
     {
       "edition": "11",
@@ -15,6 +15,20 @@
       "preview_image": "pagina_1.jpg",
       "content_hash": "5475c7dcf8a1587aaea6885bd8d82a77",
       "total_size_mb": 9.1,
+      "sponsor_count": 19
+    },
+    {
+      "edition": "9",
+      "title": "Revista Vinho Novo",
+      "subtitle": "Edição 9",
+      "directory": "REVISTA_VINHO_NOVO_ED_09",
+      "created_date": "2026-03-02T07:59:40.758745Z",
+      "modified_date": "2026-03-02T07:59:41.129755Z",
+      "page_count": 20,
+      "has_sponsors": true,
+      "preview_image": "pagina_1.jpg",
+      "content_hash": "4df5501a079e58206d5d95773fa78974",
+      "total_size_mb": 9.66,
       "sponsor_count": 19
     },
     {
