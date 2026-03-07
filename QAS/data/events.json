@@ -1,11 +1,11 @@
 ﻿
 {
-  "last_update": "2026-03-02T08:09:18.149951",
+  "last_update": "2026-03-07T08:41:23.112317",
   "events": [
     {
-      "id": "4968",
+      "id": "4973",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 05/03 às 09:00",
+      "date_time": "Ocorrerá em 12/03 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -16,7 +16,7 @@
         "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
-        "extracted_text": "SILENCIOSA COM\nMOMENTOS DE ORACAO\n\nToda quinta-feira\n\n9 h Exposicdo com breves atos\ne cantos de louvores\n\n12h\n\n15h\n\n18D. terco Mariano\n19H) santa missa\n\nParoquia Mae da Divina\nProvidéncia\n(Rua José Nogueira Franco, 435)\n\n© @paroquiamdprovidencia M@e da Divina\nwww.mdprovidencia.com.br Providéncia\n\n"
+        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
       },
       "schedule": [
         "9h    Exposição com breves atos e cantos de louvores",
