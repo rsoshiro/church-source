@@ -1,6 +1,6 @@
 {
   "latest_version": "1.1.21",
-  "release_notes": "Via Sacra.",
+  "release_notes": "Melhorias visuais, segurança e mensagens.",
   "force_update": false,
   "min_supported_version": "1.0.0",
   "ssl_pinning_restrictive": true
