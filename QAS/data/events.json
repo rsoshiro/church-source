@@ -1,11 +1,11 @@
 ﻿
 {
-  "last_update": "2026-04-28T20:39:33.344652",
+  "last_update": "2026-05-07T07:56:22.667089",
   "events": [
     {
-      "id": "5128",
+      "id": "5161",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 30/04 às 09:00",
+      "date_time": "Ocorrerá em 07/05 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -27,46 +27,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5156",
-      "title": "Missa e novena ao SAGRADO CORAÇÃO DE JESUS!",
-      "date_time": "Ocorrerá em 01/05 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/786de766a8c44b71c15a806edd7d1a02.jpg",
-        "local_path": "images/events/event_1_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Missa e novena ao\nSagrado\nCoração\nde Jesus\nTODA PRIMEIRA\nSEXTA-FEIRA DO MÊS\n19h\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nCoração de Jesus, abrasado\nde amor por nós, inflamai\nnosso coração de amor por Vós\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["19h    Par\u00f3quia M\u00e3e da"],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
-    {
-      "id": "5138",
-      "title": "Bazar da Providência",
-      "date_time": "Ocorrerá em 05/05 às 08:00",
-      "duration": "Durará 06h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/156e0448d1b7fed00f40cdcc916709a7.jpg",
-        "local_path": "images/events/event_2_bazar-da-providencia.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "103\nBazar\nda Providência\n5/5 terça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["8h    LOCAL:"],
-      "address": "social da Paróquia.",
-      "day_of_week": ""
     }
   ]
 }
