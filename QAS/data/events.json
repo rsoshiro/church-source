@@ -1,6 +1,6 @@
 ﻿
 {
-  "last_update": "2026-05-10T20:37:55.715127",
+  "last_update": "2026-05-13T22:01:20.513794",
   "events": [
     {
       "id": "5198",
@@ -27,6 +27,26 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
+    },
+    {
+      "id": "5230",
+      "title": "Solenidade da Ascensão do Senhor",
+      "date_time": "Ocorrerá em 16/05 às 18:00",
+      "duration": "Durará 1d 01h 00m",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/a99fdba37438e319606ceb414cd24b59.jpeg",
+        "local_path": "images/events/event_1_solenidade-da-ascensao-do-senhor.webp",
+        "width": 1080,
+        "height": 1350,
+        "extracted_text": "Solenidade da\nAscensão\ndo Senhor\n16/5\nsábado\n18h\n17/5\ndomingo\n9h30, 11h30\n17h, 19h\nPortanto, ide e fazei discípulos\nmeus todos os pouos\n(Mt 28,19)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["18h    17/5", "9h30, 11h30", "17h    Portanto, ide e fazei disc\u00edpulos"],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
     }
   ]
 }
