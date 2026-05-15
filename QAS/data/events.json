@@ -1,11 +1,31 @@
 ﻿
 {
-  "last_update": "2026-05-13T22:01:20.513794",
+  "last_update": "2026-05-15T20:01:42.931428",
   "events": [
     {
-      "id": "5198",
+      "id": "5230",
+      "title": "Solenidade da Ascensão do Senhor",
+      "date_time": "Ocorrerá em 16/05 às 18:00",
+      "duration": "Durará 1d 01h 00m",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/a99fdba37438e319606ceb414cd24b59.jpeg",
+        "local_path": "images/events/event_0_solenidade-da-ascensao-do-senhor.webp",
+        "width": 1080,
+        "height": 1350,
+        "extracted_text": "Solenidade da\nAscensão\ndo Senhor\n16/5\nsábado\n18h\n17/5\ndomingo\n9h30, 11h30\n17h, 19h\nPortanto, ide e fazei discípulos\nmeus todos os pouos\n(Mt 28,19)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["18h    17/5", "9h30, 11h30", "17h    Portanto, ide e fazei disc\u00edpulos"],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
+      "id": "5235",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 14/05 às 09:00",
+      "date_time": "Ocorrerá em 21/05 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -13,7 +33,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -27,26 +47,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5230",
-      "title": "Solenidade da Ascensão do Senhor",
-      "date_time": "Ocorrerá em 16/05 às 18:00",
-      "duration": "Durará 1d 01h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/a99fdba37438e319606ceb414cd24b59.jpeg",
-        "local_path": "images/events/event_1_solenidade-da-ascensao-do-senhor.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Solenidade da\nAscensão\ndo Senhor\n16/5\nsábado\n18h\n17/5\ndomingo\n9h30, 11h30\n17h, 19h\nPortanto, ide e fazei discípulos\nmeus todos os pouos\n(Mt 28,19)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["18h    17/5", "9h30, 11h30", "17h    Portanto, ide e fazei disc\u00edpulos"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
     }
   ]
 }
