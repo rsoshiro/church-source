@@ -1,11 +1,31 @@
 ﻿
 {
-  "last_update": "2026-05-19T20:01:47.469895",
+  "last_update": "2026-05-21T20:01:40.159982",
   "events": [
     {
-      "id": "5235",
+      "id": "5271",
+      "title": "Domingo de Pentecostes",
+      "date_time": "Ocorrerá em 23/05 às 18:00",
+      "duration": "Durará 1d 01h 00m",
+      "location": "",
+      "description": "“Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava.” (At 2, 4)",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/a6deb1f7fb7851b4159e224408c07014.jpeg",
+        "local_path": "images/events/event_0_domingo-de-pentecostes.webp",
+        "width": 1080,
+        "height": 1350,
+        "extracted_text": "103\nDomingo de\nPentecostes\n23/5\nsábado\n18h\n24/5\ndomingo\n9h30, 11h30\n17h, 19h\nEspirito de Deus, enviai\ndos ceus um raio de luz!\n(Sequência)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadiuinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["18h    24/5", "9h30, 11h30", "17h    Espirito de Deus, enviai"],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
+      "id": "5274",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 21/05 às 09:00",
+      "date_time": "Ocorrerá em 28/05 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -13,7 +33,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -27,26 +47,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5271",
-      "title": "Domingo de Pentecostes",
-      "date_time": "Ocorrerá em 23/05 às 18:00",
-      "duration": "Durará 1d 01h 00m",
-      "location": "",
-      "description": "“Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava.” (At 2, 4)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/a6deb1f7fb7851b4159e224408c07014.jpeg",
-        "local_path": "images/events/event_1_domingo-de-pentecostes.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "103\nDomingo de\nPentecostes\n23/5\nsábado\n18h\n24/5\ndomingo\n9h30, 11h30\n17h, 19h\nEspirito de Deus, enviai\ndos ceus um raio de luz!\n(Sequência)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadiuinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["18h    24/5", "9h30, 11h30", "17h    Espirito de Deus, enviai"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
     },
     {
       "id": "5267",
