@@ -1,67 +1,7 @@
 ﻿
 {
-  "last_update": "2026-06-06T20:01:56.583810",
+  "last_update": "2026-06-08T20:01:34.350470",
   "events": [
-    {
-      "id": "5309",
-      "title": "Semana Eucarística",
-      "date_time": "Começou 03/06 às 19:30",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/28a1139850d2cdb213d257b2c2f044ff.jpg",
-        "local_path": "images/events/event_0_semana-eucaristica.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Semana Eucarística\nTeremos a Relíquia e a Imagem Peregrina de\nSão Carlos Acutis presente todos os dias em\nnossa paróquia. Aberto a toda comunidade\n1/6 | SEGUNDA-FEIRA\n19h30 às | A Vida de Carlo Acutis\n20h30\n| MESC e leitores\n2/6 | TERÇA-FEIRA\n20h\n| Oração Incial: A Eucaristia como Conexão\npara o Céu | Grupo Jesus Eucarístico\n3/6 | QUARTA-FEIRA\n19h30\nFormação:\nàs 21h\nO Poder de uma Mãe que Ora e a Experiência\nda visita no Santuário da Expoliação em Assis\ndiante do corpo de São Carlos Acutis\nGrupos: Mães que oram pelos filhos e Cenáculo Mariano\n4/6 | QUINTA-FEIRA\n9h | Missa com procissão\n15h às\nAdoração na COMFIRMÃSE/Oratório\n00h\nDivina Misericórdia\n5/6 | SEXTA-FEIRA\n19h30 | Adoração\nàs 21h | Grupo Confirmãse\n6/6 | SÁBADO\n15h às | Roda de conversa\n17h\nGrupo Ahava com o tema\nSantidade na juventude\n7/6 | DOMINGO\n10h30 às\n/ Encerramento\n10h50\nMomento de oração com a\nEscolinha e Jesus e Catequese\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPAR O OUT\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["19h30 \u00e0s | A Vida de Carlo Acutis", "20h    | MESC e leitores", "20h    | Ora\u00e7\u00e3o Incial: A Eucaristia como Conex\u00e3o", "19h    Forma\u00e7\u00e3o:", "9h | Missa com prociss\u00e3o", "15h    Adora\u00e7\u00e3o na COMFIRM\u00c3SE/Orat\u00f3rio", "00h    Divina Miseric\u00f3rdia", "19h    \u00e0s 21h | Grupo Confirm\u00e3se", "15h \u00e0s | Roda de conversa", "17h    Grupo Ahava com o tema", "10h    / Encerramento", "10h    Momento de ora\u00e7\u00e3o com a"],
-      "address": "nossa paróquia. Aberto a toda comunidade",
-      "day_of_week": "4/6 | QUINTA-FEIRA"
-    },
-    {
-      "id": "5311",
-      "title": "10º Domingo do Tempo Comum",
-      "date_time": "Começou 06/06 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "“De fato, eu não vim para chamar os justos, mas os pecadores” (Mt 9,13)",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/8391c5e3734bfd0af10b888561668e45.jpeg",
-        "local_path": "images/events/event_1_10o-domingo-do-tempo-comum.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n10º Domingo do Tempo Comum\n6/6\nsábado\n18h\n7/6\ndomingo\n9h30, 11h30\n17h, 19h\nDe fato, eu não vim para chamar os\njustos, mas os pecadores\" (Mt 9,13)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidenciatendrina\nwww.mdprouidencia.com.br"
-      },
-      "schedule": ["18h    7/6", "9h30, 11h30", "17h    De fato, eu n\u00e3o vim para chamar os"],
-      "address": "Providência @maedadivinaprovidenciatendrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "5317",
-      "title": "Domingo da Caridade",
-      "date_time": "Começou 06/06 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/6de84543bd0129304cd530168c4fa6b6.jpg",
-        "local_path": "images/events/event_2_domingo-da-caridade.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Domingo da\nCaridade\nDoe alimentos não perecíveis,\nLeite e materiais de higiene para\naqueles que mais necessitam.\nTraga sua doação\ndurante as Missas\nou na secretaria\nparoquial.\nPONTO DE ENTREGA:\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nAquele que tem caridade no coração\ntem sempre qualquer coisa para dar\"\n(Santo Agostinho)\nSSV\nMãe da Divina\nProvidência\nServiens in sp°\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": [],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
     {
       "id": "5313",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -73,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_3_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -99,7 +39,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/1a2c19064eeff525a55ad5944d1e5378.jpeg",
-        "local_path": "images/events/event_4_bazar-da-providencia.webp",
+        "local_path": "images/events/event_1_bazar-da-providencia.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "03\nBazar\nda Providência\n16/6\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
