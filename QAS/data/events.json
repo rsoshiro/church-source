@@ -1,6 +1,6 @@
 ﻿
 {
-  "last_update": "2026-06-08T20:01:34.350470",
+  "last_update": "2026-06-10T20:01:42.565486",
   "events": [
     {
       "id": "5313",
@@ -29,6 +29,46 @@
       "day_of_week": "Toda quinta-feira"
     },
     {
+      "id": "5342",
+      "title": "Solenidade do Sagrado Coração de Jesus",
+      "date_time": "Ocorrerá em 12/06 às 19:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/e3164b1e67160331bf4589d17a5d4872.jpg",
+        "local_path": "images/events/event_1_solenidade-do-sagrado-coracao-de-jesus.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Solenidade do\nSagrado\nCoração\nde Jesus\nPadroeiro de Londrina\n12/6 • 19h\nsexta-feira\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nMãe da Divina\nProvidência\n@@maedadivinaprouidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
+      "address": "Rua José Nogueira Franco, 435",
+      "day_of_week": ""
+    },
+    {
+      "id": "5366",
+      "title": "11º Domingo do Tempo Comum",
+      "date_time": "Ocorrerá em 13/06 às 18:00",
+      "duration": "Durará 1d 01h 00m",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/d4b511192945d4a608905f28aadef2e8.jpeg",
+        "local_path": "images/events/event_2_11o-domingo-do-tempo-comum.webp",
+        "width": 1080,
+        "height": 1350,
+        "extracted_text": "Santas\nMissas\nno final de semana\n11º Domingo do Tempo Comum\n13/6\nsábado\n14/6\ndomingo\n18h\n9h30, 11h30\n17h, 19h\nA Messe é grande, mas os\ntrabalhadores são poucos\"\n(Mt 9,37)"
+      },
+      "schedule": ["18h", "9h30, 11h30", "17h    A Messe \u00e9 grande, mas os"],
+      "address": "",
+      "day_of_week": ""
+    },
+    {
       "id": "5267",
       "title": "Bazar da Providência",
       "date_time": "Ocorrerá em 16/06 às 08:00",
@@ -39,7 +79,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/1a2c19064eeff525a55ad5944d1e5378.jpeg",
-        "local_path": "images/events/event_1_bazar-da-providencia.webp",
+        "local_path": "images/events/event_3_bazar-da-providencia.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "03\nBazar\nda Providência\n16/6\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
