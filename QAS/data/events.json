@@ -1,53 +1,7 @@
 ﻿
 {
-  "last_update": "2026-06-10T20:01:42.565486",
+  "last_update": "2026-06-12T20:02:06.607272",
   "events": [
-    {
-      "id": "5313",
-      "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 11/06 às 09:00",
-      "duration": "10h 00m",
-      "location": "Paróquia Mãe da Divina Providência",
-      "description": "Momento de adoração silenciosa e oração",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
-        "width": 1080,
-        "height": 1080,
-        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [
-        "9h    Exposição com breves atos e cantos de louvores",
-        "12h   Angelus / Liturgia das Horas",
-        "15h   Terço da Misericórdia",
-        "18h   Terço Mariano",
-        "19h   Santa Missa"
-      ],
-      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
-      "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5342",
-      "title": "Solenidade do Sagrado Coração de Jesus",
-      "date_time": "Ocorrerá em 12/06 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/e3164b1e67160331bf4589d17a5d4872.jpg",
-        "local_path": "images/events/event_1_solenidade-do-sagrado-coracao-de-jesus.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Solenidade do\nSagrado\nCoração\nde Jesus\nPadroeiro de Londrina\n12/6 • 19h\nsexta-feira\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nMãe da Divina\nProvidência\n@@maedadivinaprouidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
     {
       "id": "5366",
       "title": "11º Domingo do Tempo Comum",
@@ -59,13 +13,33 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/d4b511192945d4a608905f28aadef2e8.jpeg",
-        "local_path": "images/events/event_2_11o-domingo-do-tempo-comum.webp",
+        "local_path": "images/events/event_0_11o-domingo-do-tempo-comum.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "Santas\nMissas\nno final de semana\n11º Domingo do Tempo Comum\n13/6\nsábado\n14/6\ndomingo\n18h\n9h30, 11h30\n17h, 19h\nA Messe é grande, mas os\ntrabalhadores são poucos\"\n(Mt 9,37)"
       },
       "schedule": ["18h", "9h30, 11h30", "17h    A Messe \u00e9 grande, mas os"],
       "address": "",
+      "day_of_week": ""
+    },
+    {
+      "id": "5369",
+      "title": "Memória de Santo Antônio",
+      "date_time": "Ocorrerá em 13/06 às 18:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/47d3f01be5a6c23a6858a4d22c2edf23.jpg",
+        "local_path": "images/events/event_1_memoria-de-santo-antonio.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "A23\nMemória de\nSanto\nAntônio\nde Pádua\n13/6\nsábado\n18h\nTraga seus pães para\nserem abençoados\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
+      },
+      "schedule": ["18h    Traga seus p\u00e3es para"],
+      "address": "Providência @maedadivinaprovidencialondrina",
       "day_of_week": ""
     },
     {
@@ -79,7 +53,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/1a2c19064eeff525a55ad5944d1e5378.jpeg",
-        "local_path": "images/events/event_3_bazar-da-providencia.webp",
+        "local_path": "images/events/event_2_bazar-da-providencia.webp",
         "width": 1080,
         "height": 1350,
         "extracted_text": "03\nBazar\nda Providência\n16/6\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
@@ -87,6 +61,32 @@
       "schedule": ["8h    LOCAL:"],
       "address": "social da Paróquia.",
       "day_of_week": ""
+    },
+    {
+      "id": "5368",
+      "title": "Adoração Silenciosa com momentos de oração",
+      "date_time": "Ocorrerá em 18/06 às 09:00",
+      "duration": "10h 00m",
+      "location": "Paróquia Mãe da Divina Providência",
+      "description": "Momento de adoração silenciosa e oração",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
+        "local_path": "images/events/event_3_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "width": 1080,
+        "height": 1080,
+        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [
+        "9h    Exposição com breves atos e cantos de louvores",
+        "12h   Angelus / Liturgia das Horas",
+        "15h   Terço da Misericórdia",
+        "18h   Terço Mariano",
+        "19h   Santa Missa"
+      ],
+      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
+      "day_of_week": "Toda quinta-feira"
     }
   ]
 }
