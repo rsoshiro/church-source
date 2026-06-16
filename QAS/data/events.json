@@ -1,27 +1,7 @@
 ﻿
 {
-  "last_update": "2026-06-14T21:34:04.739396",
+  "last_update": "2026-06-16T20:02:42.096102",
   "events": [
-    {
-      "id": "5267",
-      "title": "Bazar da Providência",
-      "date_time": "Ocorrerá em 16/06 às 08:00",
-      "duration": "Durará 06h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/1a2c19064eeff525a55ad5944d1e5378.jpeg",
-        "local_path": "images/events/event_0_bazar-da-providencia.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "03\nBazar\nda Providência\n16/6\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["8h    LOCAL:"],
-      "address": "social da Paróquia.",
-      "day_of_week": ""
-    },
     {
       "id": "5368",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -33,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -47,6 +27,26 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
+    },
+    {
+      "id": "5387",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 22/06 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_1_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
     }
   ]
 }
