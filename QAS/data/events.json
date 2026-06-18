@@ -1,11 +1,51 @@
 ﻿
 {
-  "last_update": "2026-06-16T20:02:42.096102",
+  "last_update": "2026-06-18T20:03:05.401173",
   "events": [
     {
-      "id": "5368",
+      "id": "5387",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 21/06 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_0_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
+      "id": "5428",
+      "title": "Santa Missa votiva de São João Paulo II",
+      "date_time": "Ocorrerá em 22/06 às 19:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/a12d35a22a2fa2be4678b2abedf1b071.jpg",
+        "local_path": "images/events/event_1_santa-missa-votiva-de-sao-joao-paulo-ii.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Missa votiva a\nSão João\nPaulo II\nDia 22\nde cada mês\n19h\n*Exceto no sábado\nCom bênção\nda água e\nda saúde\nParóquia Mãe da Divina Providência\nRua José Nogueira Franco, 435\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["19h    *Exceto no s\u00e1bado"],
+      "address": "Rua José Nogueira Franco, 435",
+      "day_of_week": ""
+    },
+    {
+      "id": "5407",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 18/06 às 09:00",
+      "date_time": "Ocorrerá em 25/06 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -13,7 +53,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_2_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -27,26 +67,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5387",
-      "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 22/06 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_1_grupo-ahava.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
     }
   ]
 }
