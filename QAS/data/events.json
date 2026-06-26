@@ -1,35 +1,29 @@
 ﻿
 {
-  "last_update": "2026-06-25T08:35:49.364422",
+  "last_update": "2026-06-26T20:02:07.758037",
   "events": [
     {
-      "id": "5407",
-      "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 25/06 às 09:00",
-      "duration": "10h 00m",
-      "location": "Paróquia Mãe da Divina Providência",
-      "description": "Momento de adoração silenciosa e oração",
+      "id": "5463",
+      "title": "Solenidade de São Pedro e São Paulo",
+      "date_time": "Ocorrerá em 27/06 às 18:00",
+      "duration": "Durará 1d 02h 00m",
+      "location": "",
+      "description": "",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "original_url": "https://assets.ofertorio.com/24/cefa9cce190fb7387c9d772e9b0046ec.jpeg",
+        "local_path": "images/events/event_0_solenidade-de-sao-pedro-e-sao-paulo.webp",
         "width": 1080,
-        "height": 1080,
-        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+        "height": 1350,
+        "extracted_text": "Santas\nMissas\nno final de semana\nSolenidade dos Santos\nPedro e Paulo Apóstolos\n27/6\nsábado\n18h\n28/6\ndomingo\n9h30, 11h30\n17h, 19h\nPor isso eu te digo que tu és\nPedro, e sobre esta pedra\nconstruirei a minha Igreja\"\n(Mt 16,18)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadiu inaprovidencialondrina\nwww.mdprovidencia.com.br"
       },
-      "schedule": [
-        "9h    Exposição com breves atos e cantos de louvores",
-        "12h   Angelus / Liturgia das Horas",
-        "15h   Terço da Misericórdia",
-        "18h   Terço Mariano",
-        "19h   Santa Missa"
-      ],
-      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
-      "day_of_week": "Toda quinta-feira"
+      "schedule": ["18h    28/6", "9h30, 11h30", "17h    Por isso eu te digo que tu \u00e9s"],
+      "address": "Providência @maedadiu inaprovidencialondrina",
+      "day_of_week": ""
     },
     {
-      "id": "5432",
+      "id": "5433",
       "title": "Grupo AHAVA",
       "date_time": "Ocorrerá em 28/06 às 17:00",
       "duration": "",
@@ -49,9 +43,35 @@
       "day_of_week": ""
     },
     {
-      "id": "5433",
+      "id": "5439",
+      "title": "Adoração Silenciosa com momentos de oração",
+      "date_time": "Ocorrerá em 02/07 às 09:00",
+      "duration": "10h 00m",
+      "location": "Paróquia Mãe da Divina Providência",
+      "description": "Momento de adoração silenciosa e oração",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
+        "local_path": "images/events/event_2_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "width": 1080,
+        "height": 1080,
+        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [
+        "9h    Exposição com breves atos e cantos de louvores",
+        "12h   Angelus / Liturgia das Horas",
+        "15h   Terço da Misericórdia",
+        "18h   Terço Mariano",
+        "19h   Santa Missa"
+      ],
+      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
+      "day_of_week": "Toda quinta-feira"
+    },
+    {
+      "id": "5432",
       "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 28/06 às 17:00",
+      "date_time": "Ocorrerá em 05/07 às 17:00",
       "duration": "",
       "location": "",
       "description": "",
@@ -59,7 +79,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_2_grupo-ahava.webp",
+        "local_path": "images/events/event_3_grupo-ahava.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
