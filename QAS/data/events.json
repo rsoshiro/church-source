@@ -1,6 +1,6 @@
 ﻿
 {
-  "last_update": "2026-06-28T20:01:57.278082",
+  "last_update": "2026-06-30T21:30:02.710898",
   "events": [
     {
       "id": "5439",
@@ -29,27 +29,27 @@
       "day_of_week": "Toda quinta-feira"
     },
     {
-      "id": "5432",
-      "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 05/07 às 17:00",
+      "id": "5468",
+      "title": "Missa e novena ao SAGRADO CORAÇÃO DE JESUS!",
+      "date_time": "Ocorrerá em 03/07 às 19:00",
       "duration": "",
       "location": "",
       "description": "",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_1_grupo-ahava.webp",
+        "original_url": "https://assets.ofertorio.com/24/f395d9ba5771c7b1353395a3a30da50b.jpg",
+        "local_path": "images/events/event_1_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
         "width": 1350,
         "height": 1687,
-        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+        "extracted_text": "Missa e novena ao\nSagrado\nCoração\nde Jesus\nTODA PRIMEIRA\nSEXTA-FEIRA DO MÊS\n19h\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nCoração de Jesus, abrasado\nde amor por nós, inflamai\nnosso coração de amor por Vós\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
       },
-      "schedule": [],
-      "address": "PARÓQUIA",
+      "schedule": ["19h    Par\u00f3quia M\u00e3e da"],
+      "address": "Rua José Nogueira Franco, 435",
       "day_of_week": ""
     },
     {
-      "id": "5466",
+      "id": "5432",
       "title": "Grupo AHAVA",
       "date_time": "Ocorrerá em 05/07 às 17:00",
       "duration": "",
@@ -69,6 +69,26 @@
       "day_of_week": ""
     },
     {
+      "id": "5466",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 05/07 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_3_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
       "id": "5465",
       "title": "Grupo AHAVA",
       "date_time": "Ocorrerá em 12/07 às 17:00",
@@ -79,7 +99,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_3_grupo-ahava.webp",
+        "local_path": "images/events/event_4_grupo-ahava.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
