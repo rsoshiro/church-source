@@ -1,47 +1,7 @@
 ﻿
 {
-  "last_update": "2026-07-05T10:10:57.642835",
+  "last_update": "2026-07-06T20:34:12.716088",
   "events": [
-    {
-      "id": "5472",
-      "title": "Santas Missas em horário Especial",
-      "date_time": "Começou 04/07 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2f4578a2c081015d85a65477db74c057.jpg",
-        "local_path": "images/events/event_0_santas-missas-em-horario-especial.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "A03\nHorários Especiais das Missas\nNas Oitavas de Final do Brasil na Copa\nSantas\nMissas\nno final de semana\n14º Domingo do Tempo Comum\nsábado\n4/7\n18h\ndomingo\n5/7\n8h, 9h30\n11h30, 15h\nVinde a mim todos vós que estais cansados\ne fatigados sob o peso dos vossos fardos, e\neu vos darei descanso.\" (Mt 11, 28)\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h    domingo", "8h, 9h30", "11h    Vinde a mim todos v\u00f3s que estais cansados"],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
-    {
-      "id": "5476",
-      "title": "Domingo da Caridade",
-      "date_time": "Começou 04/07 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/cc536429ad1a278880cab83a040a95d3.jpg",
-        "local_path": "images/events/event_1_domingo-da-caridade.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Domingo da\nCaridade\nDoe alimentos não perecíveis,\nleite e materiais de higiene para\naqueles que mais necessitam.\nTraga sua doação\ndurante as Missas\nou na secretaria\nparoquial.\nPONTO DE ENTREGA:\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nAquele que tem caridade no coração\ntem sempre qualquer coisa para dar\"\n(Santo Agostinho)\nSSV\nMãe da Divina\nProvidência\nServiens in sp®\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": [],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
     {
       "id": "5475",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -53,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_2_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -79,7 +39,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_3_grupo-ahava.webp",
+        "local_path": "images/events/event_1_grupo-ahava.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
