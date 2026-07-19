@@ -1,11 +1,51 @@
 ﻿
 {
-  "last_update": "2026-07-14T20:28:08.249960",
+  "last_update": "2026-07-18T21:20:44.063470",
   "events": [
     {
-      "id": "5521",
+      "id": "5551",
+      "title": "16º Domingo do Tempo Comum",
+      "date_time": "Começou 18/07 às 18:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/3a40fb67077e5f8f132b2941d3a28c04.jpeg",
+        "local_path": "images/events/event_0_16o-domingo-do-tempo-comum.webp",
+        "width": 1080,
+        "height": 1350,
+        "extracted_text": "AD3\nSantas\nMissas\nno final de semana\n16º Domingo do Tempo Comum\n18/7\nsábado\n18h\n19/7\ndomingo\n9h30, 11h30\n17h, 19h\nO Reino dos Céus é como um\nhomem que semeou boa\nsemente no seu campo.\"\n(Mt 13,24)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["18h    19/7", "9h30, 11h30", "17h    O Reino dos C\u00e9us \u00e9 como um"],
+      "address": "Providência @maedadivinaprovidencialondrina",
+      "day_of_week": ""
+    },
+    {
+      "id": "5533",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 19/07 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_1_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
+      "id": "5545",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 16/07 às 09:00",
+      "date_time": "Ocorrerá em 23/07 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -13,7 +53,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_2_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -29,43 +69,23 @@
       "day_of_week": "Toda quinta-feira"
     },
     {
-      "id": "5536",
-      "title": "Santa Missa em honra a Nossa Senhora do Carmo",
-      "date_time": "Ocorrerá em 16/07 às 19:00",
+      "id": "5549",
+      "title": "Oficinas de Oração e Vida",
+      "date_time": "Ocorrerá em 03/08 às 19:00",
       "duration": "",
       "location": "",
       "description": "",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/9c253c169e8ad0113f819887e3264941.jpg",
-        "local_path": "images/events/event_1_santa-missa-em-honra-a-nossa-senhora-do-carmo.webp",
+        "original_url": "https://assets.ofertorio.com/24/7015f94983e6540fab2a59a924f01c37.jpg",
+        "local_path": "images/events/event_3_oficinas-de-oracao-e-vida.webp",
         "width": 1350,
         "height": 1687,
-        "extracted_text": "Santa Missa em honra a\nNossa\nSenhora\ndo Carmo\n16/7\nquinta-feira\n19h\nCom a bênção\ndos Escapulários\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprouidencia.com.br"
+        "extracted_text": "Venha Desenvolver sua\nEspiritualidade\nAprender a orar para\naprender a viver!\n3/8 segunda-feira\nOficinas de Oração e Vida\nAdultos: 15 encontros\nsegundas-feiras,\ndas 19h às 21h\nInscrições e informações\nNeide • (43) 99951-6062\nEloisa • (43) 99915-3758\nSem custo de inscrição\nOFICINAS DE ORAÇÃO E VIDA\nUma Nova Evangelização\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br\nPAROQU\nMãe da Divina\nProvidência"
       },
-      "schedule": ["19h    Com a b\u00ean\u00e7\u00e3o"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": "quinta-feira"
-    },
-    {
-      "id": "5533",
-      "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 19/07 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_2_grupo-ahava.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [],
-      "address": "PARÓQUIA",
+      "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
+      "address": "Providência",
       "day_of_week": ""
     }
   ]
