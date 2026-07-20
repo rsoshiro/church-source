@@ -1,31 +1,37 @@
 ﻿
 {
-  "last_update": "2026-07-18T21:20:44.063470",
+  "last_update": "2026-07-20T20:01:26.324141",
   "events": [
     {
-      "id": "5551",
-      "title": "16º Domingo do Tempo Comum",
-      "date_time": "Começou 18/07 às 18:00",
-      "duration": "",
-      "location": "",
-      "description": "",
+      "id": "5545",
+      "title": "Adoração Silenciosa com momentos de oração",
+      "date_time": "Ocorrerá em 23/07 às 09:00",
+      "duration": "10h 00m",
+      "location": "Paróquia Mãe da Divina Providência",
+      "description": "Momento de adoração silenciosa e oração",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/3a40fb67077e5f8f132b2941d3a28c04.jpeg",
-        "local_path": "images/events/event_0_16o-domingo-do-tempo-comum.webp",
+        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
-        "height": 1350,
-        "extracted_text": "AD3\nSantas\nMissas\nno final de semana\n16º Domingo do Tempo Comum\n18/7\nsábado\n18h\n19/7\ndomingo\n9h30, 11h30\n17h, 19h\nO Reino dos Céus é como um\nhomem que semeou boa\nsemente no seu campo.\"\n(Mt 13,24)\nPAROQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+        "height": 1080,
+        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
       },
-      "schedule": ["18h    19/7", "9h30, 11h30", "17h    O Reino dos C\u00e9us \u00e9 como um"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
+      "schedule": [
+        "9h    Exposição com breves atos e cantos de louvores",
+        "12h   Angelus / Liturgia das Horas",
+        "15h   Terço da Misericórdia",
+        "18h   Terço Mariano",
+        "19h   Santa Missa"
+      ],
+      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
+      "day_of_week": "Toda quinta-feira"
     },
     {
-      "id": "5533",
+      "id": "5553",
       "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 19/07 às 17:00",
+      "date_time": "Ocorrerá em 26/07 às 17:00",
       "duration": "",
       "location": "",
       "description": "",
@@ -43,32 +49,6 @@
       "day_of_week": ""
     },
     {
-      "id": "5545",
-      "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 23/07 às 09:00",
-      "duration": "10h 00m",
-      "location": "Paróquia Mãe da Divina Providência",
-      "description": "Momento de adoração silenciosa e oração",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_2_adoracao-silenciosa-com-momentos-de-oracao.webp",
-        "width": 1080,
-        "height": 1080,
-        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [
-        "9h    Exposição com breves atos e cantos de louvores",
-        "12h   Angelus / Liturgia das Horas",
-        "15h   Terço da Misericórdia",
-        "18h   Terço Mariano",
-        "19h   Santa Missa"
-      ],
-      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
-      "day_of_week": "Toda quinta-feira"
-    },
-    {
       "id": "5549",
       "title": "Oficinas de Oração e Vida",
       "date_time": "Ocorrerá em 03/08 às 19:00",
@@ -79,7 +59,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/7015f94983e6540fab2a59a924f01c37.jpg",
-        "local_path": "images/events/event_3_oficinas-de-oracao-e-vida.webp",
+        "local_path": "images/events/event_2_oficinas-de-oracao-e-vida.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Venha Desenvolver sua\nEspiritualidade\nAprender a orar para\naprender a viver!\n3/8 segunda-feira\nOficinas de Oração e Vida\nAdultos: 15 encontros\nsegundas-feiras,\ndas 19h às 21h\nInscrições e informações\nNeide • (43) 99951-6062\nEloisa • (43) 99915-3758\nSem custo de inscrição\nOFICINAS DE ORAÇÃO E VIDA\nUma Nova Evangelização\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br\nPAROQU\nMãe da Divina\nProvidência"
