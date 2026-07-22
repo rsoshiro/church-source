@@ -1,6 +1,6 @@
 ﻿
 {
-  "last_update": "2026-07-20T20:01:26.324141",
+  "last_update": "2026-07-22T20:09:01.391268",
   "events": [
     {
       "id": "5545",
@@ -29,6 +29,26 @@
       "day_of_week": "Toda quinta-feira"
     },
     {
+      "id": "5572",
+      "title": "11ª Caminhada Missionária",
+      "date_time": "Ocorrerá em 26/07 às 05:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/5bf5f224d15cbfe50700de56aa081347.jpg",
+        "local_path": "images/events/event_1_11a-caminhada-missionaria.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Ilª Caminhada\nMissionária\ncom Madre Leônia\ndomingo\n26/7\n5h | Concentração\n5h30 | Saída\nLocal:\nSantuário Eucaristico\nMariano\nAu. Madre Leônia, 575\nIncrições pelo\nQR Code\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br\nMãe da Divina\nProvidência"
+      },
+      "schedule": ["5h | Concentra\u00e7\u00e3o", "5h    Local:"],
+      "address": "Providência",
+      "day_of_week": ""
+    },
+    {
       "id": "5553",
       "title": "Grupo AHAVA",
       "date_time": "Ocorrerá em 26/07 às 17:00",
@@ -39,7 +59,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_1_grupo-ahava.webp",
+        "local_path": "images/events/event_2_grupo-ahava.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -59,7 +79,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/7015f94983e6540fab2a59a924f01c37.jpg",
-        "local_path": "images/events/event_2_oficinas-de-oracao-e-vida.webp",
+        "local_path": "images/events/event_3_oficinas-de-oracao-e-vida.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Venha Desenvolver sua\nEspiritualidade\nAprender a orar para\naprender a viver!\n3/8 segunda-feira\nOficinas de Oração e Vida\nAdultos: 15 encontros\nsegundas-feiras,\ndas 19h às 21h\nInscrições e informações\nNeide • (43) 99951-6062\nEloisa • (43) 99915-3758\nSem custo de inscrição\nOFICINAS DE ORAÇÃO E VIDA\nUma Nova Evangelização\n@maedadivinaprouidencialondrina\nwww.mdprouidencia.com.br\nPAROQU\nMãe da Divina\nProvidência"
