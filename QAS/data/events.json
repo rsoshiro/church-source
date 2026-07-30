@@ -1,32 +1,26 @@
 ﻿
 {
-  "last_update": "2026-07-28T20:01:21.046377",
+  "last_update": "2026-07-30T20:01:50.383345",
   "events": [
     {
-      "id": "5577",
-      "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 30/07 às 09:00",
-      "duration": "10h 00m",
-      "location": "Paróquia Mãe da Divina Providência",
-      "description": "Momento de adoração silenciosa e oração",
+      "id": "5597",
+      "title": "Ato de Reparação ao Imaculado Coração de Maria",
+      "date_time": "Ocorrerá em 01/08 às 09:00",
+      "duration": "Durará 02h 00m",
+      "location": "",
+      "description": "",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
-        "width": 1080,
-        "height": 1080,
-        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+        "original_url": "https://assets.ofertorio.com/24/58f2726893ab6a6ef0cddbec50292dd4.jpg",
+        "local_path": "images/events/event_0_ato-de-reparacao-ao-imaculado-coracao-de-maria.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Ato de\nReparação\nao Imaculado\nCoração de Maria\nTODO PRIMEIRO\nSÁBADO DO MÊS\n9h Terço e\nAdoração\n10h Santa\nMissa\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br\nPAROQUIA\nMãe da Divina\nProvidência"
       },
-      "schedule": [
-        "9h    Exposição com breves atos e cantos de louvores",
-        "12h   Angelus / Liturgia das Horas",
-        "15h   Terço da Misericórdia",
-        "18h   Terço Mariano",
-        "19h   Santa Missa"
-      ],
-      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
-      "day_of_week": "Toda quinta-feira"
+      "schedule": ["9h    Adora\u00e7\u00e3o", "10h    Missa"],
+      "address": "Rua José Nogueira Franco, 435",
+      "day_of_week": ""
     },
     {
       "id": "5584",
@@ -67,6 +61,32 @@
       "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
       "address": "Providência",
       "day_of_week": ""
+    },
+    {
+      "id": "5596",
+      "title": "Adoração Silenciosa com momentos de oração",
+      "date_time": "Ocorrerá em 06/08 às 09:00",
+      "duration": "10h 00m",
+      "location": "Paróquia Mãe da Divina Providência",
+      "description": "Momento de adoração silenciosa e oração",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
+        "local_path": "images/events/event_3_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "width": 1080,
+        "height": 1080,
+        "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [
+        "9h    Exposição com breves atos e cantos de louvores",
+        "12h   Angelus / Liturgia das Horas",
+        "15h   Terço da Misericórdia",
+        "18h   Terço Mariano",
+        "19h   Santa Missa"
+      ],
+      "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
+      "day_of_week": "Toda quinta-feira"
     }
   ]
 }
