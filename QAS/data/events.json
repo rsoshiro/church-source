@@ -1,67 +1,7 @@
 ﻿
 {
-  "last_update": "2026-08-08T09:19:34.241013",
+  "last_update": "2026-08-09T20:01:33.034328",
   "events": [
-    {
-      "id": "5638",
-      "title": "Abertura Semana da Família 2026",
-      "date_time": "Ocorrerá em 08/08 às 18:00",
-      "duration": "Durará 1d 01h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/9f4af932021cdfbc13d2212758a16c3d.jpg",
-        "local_path": "images/events/event_0_abertura-semana-da-familia-2026.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Semana Nacional da\nFamilia\n9/8 domingo\nAbertura da Semana\nda Família nas Missas\n18h\nGrupo de Jovens\nAhaua\nTEMA:\n\"Família: Plano\nde Deus\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["18h    Grupo de Jovens"],
-      "address": "Providência @maedadivinaprovidencialondrina",
-      "day_of_week": ""
-    },
-    {
-      "id": "5642",
-      "title": "MISSAS DO FINAL DE SEMANA – 19º Domingo do Tempo Comum",
-      "date_time": "Ocorrerá em 08/08 às 18:00",
-      "duration": "Durará 1d 01h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/273c5db520bd205bebc974f432612314.jpeg",
-        "local_path": "images/events/event_1_missas-do-final-de-semana-19o-domingo-do-tempo-comum.webp",
-        "width": 1080,
-        "height": 1350,
-        "extracted_text": "Santas\nMissas\nno final de semana\n19º Domingo do Tempo Comum\n8/8 -\nsábado\n9/8 doming\ndomingo\n18h\n9h30, 11h30\n17h, 19h\nCoragem! Sou eu.\nNão tenhais medo!\" (Mt 14,27)\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br\nPARO QULA\nMãe da Divina\nProvidência"
-      },
-      "schedule": ["18h", "9h30, 11h30", "17h    Coragem! Sou eu."],
-      "address": "Providência",
-      "day_of_week": ""
-    },
-    {
-      "id": "5612",
-      "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 09/08 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_2_grupo-ahava.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
-    },
     {
       "id": "5625",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -73,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_3_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -89,6 +29,26 @@
       "day_of_week": "Toda quinta-feira"
     },
     {
+      "id": "5644",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 16/08 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_1_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
       "id": "5614",
       "title": "Santa Missa pelos 9 anos do Grupo Mães da Esperança",
       "date_time": "Ocorrerá em 20/08 às 19:00",
@@ -99,7 +59,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/7bcf3358f1d45b409196593f84a381c4.jpg",
-        "local_path": "images/events/event_4_santa-missa-pelos-9-anos-do-grupo-maes-da-esperanca.webp",
+        "local_path": "images/events/event_2_santa-missa-pelos-9-anos-do-grupo-maes-da-esperanca.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "AD3\nSanta Missa em\nAção de\nGraças\npelos 9 anos do grupo\nMães da Esperança\n20/8 • 19h\nquinta-feira\nAção solidária\nArrecadação de produtos\nde higiene e limpeza para\nas famílias assistidas\npelos Vicentinos\nA entrega das doações\nacontecerá no dia 20/8\nMães da\nEsperança\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
@@ -119,7 +79,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/b8a2f9e7fa3a994a2a9cb39c0910683a.jpg",
-        "local_path": "images/events/event_5_bazar-da-providencia.webp",
+        "local_path": "images/events/event_3_bazar-da-providencia.webp",
         "width": 1350,
         "height": 1687,
         "extracted_text": "Bazar\nda Providência\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
