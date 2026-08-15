@@ -1,25 +1,25 @@
 ﻿
 {
-  "last_update": "2026-08-13T20:01:26.720170",
+  "last_update": "2026-08-15T20:01:49.958452",
   "events": [
     {
-      "id": "5648",
-      "title": "Encerramento da Semana Nacional da Família",
-      "date_time": "Ocorrerá em 15/08 às 18:00",
+      "id": "5654",
+      "title": "Solenidade da Assunção da Bem-Aventurada Virgem Maria",
+      "date_time": "Começou 15/08 às 18:00",
       "duration": "",
       "location": "",
       "description": "",
       "remaining_slots": "1",
       "register_url": "",
       "image": {
-        "original_url": "https://assets.ofertorio.com/24/00177bc3642192debdeb9ee0c8d97dea.jpg",
-        "local_path": "images/events/event_0_encerramento-da-semana-nacional-da-familia.webp",
+        "original_url": "https://assets.ofertorio.com/24/26a8aa20f80b85c6d63cc093958a12e5.jpg",
+        "local_path": "images/events/event_0_solenidade-da-assuncao-da-bem-aventurada-virgem-maria.webp",
         "width": 1350,
         "height": 1687,
-        "extracted_text": "103\nSemana Nacional da •\nFamília\n10/8 • 19h30\nsegunda-feira\nMomento familiar para\ntoda a comunidade com\nAcolhida e Vicentinos\nTEMA:\n\"À Luz da Palaura\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+        "extracted_text": "^3\nSolenidade da\nAssunção da\nBem-aventurada\nVirgem Maria\n15/8\nsábado\n18h\n16/8\ndomingo\n9h30, 11h30\n17h, 19h\nBendita és tu entre as\nmulheres e bendito é\no fruto do teu ventre!\n(Lc 1, 42)\nPARÓQUIA\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
       },
-      "schedule": ["9h    Exposi\u00e7\u00e3o com breves atos e cantos de louvores"],
-      "address": "Providência @maedadivinaprovidencialondrina",
+      "schedule": ["18h    16/8", "9h30, 11h30", "17h    Bendita \u00e9s tu entre as"],
+      "address": "PARÓQUIA",
       "day_of_week": ""
     },
     {
