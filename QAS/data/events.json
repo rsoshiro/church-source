@@ -1,27 +1,7 @@
 ﻿
 {
-  "last_update": "2026-08-31T20:02:01.113540",
+  "last_update": "2026-09-02T20:01:27.446962",
   "events": [
-    {
-      "id": "5621",
-      "title": "Bazar da Providência!",
-      "date_time": "Ocorrerá em 01/09 às 08:00",
-      "duration": "Durará 06h 00m",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/b8a2f9e7fa3a994a2a9cb39c0910683a.jpg",
-        "local_path": "images/events/event_0_bazar-da-providencia.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Bazar\nda Providência\nterça-feira\n8h às 14h\nLOCAL:\nParóquia Mãe da\nDivina Providência\nR. José Nogueira\nFranco, 425\n*Todo valor\narrecadado será\ndestinado à ação\nsocial da Paróquia.\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["8h    LOCAL:"],
-      "address": "social da Paróquia.",
-      "day_of_week": ""
-    },
     {
       "id": "5743",
       "title": "Adoração Silenciosa com momentos de oração",
@@ -33,7 +13,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -47,6 +27,26 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
+    },
+    {
+      "id": "5761",
+      "title": "Missa e Novena ao Sagrado Coração de Jesus",
+      "date_time": "Ocorrerá em 04/09 às 19:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/304af3d2a66834ea8342f573ff999dfe.jpg",
+        "local_path": "images/events/event_1_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Missa e novena ao\nSagrado\nCoração\nde Jesus\nTODA PRIMEIRA\nSEXTA-FEIRA DO MÊS\n19h\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nCoração de Jesus, abrasado\nde amor por nós, inflamai\nnosso coração de amor por Vós\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
+      },
+      "schedule": ["19h    Par\u00f3quia M\u00e3e da"],
+      "address": "Rua José Nogueira Franco, 435",
+      "day_of_week": ""
     },
     {
       "id": "5745",
