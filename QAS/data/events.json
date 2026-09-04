@@ -1,11 +1,31 @@
 ﻿
 {
-  "last_update": "2026-09-02T20:01:27.446962",
+  "last_update": "2026-09-04T20:01:50.272855",
   "events": [
     {
-      "id": "5743",
+      "id": "5745",
+      "title": "Grupo AHAVA",
+      "date_time": "Ocorrerá em 06/09 às 17:00",
+      "duration": "",
+      "location": "",
+      "description": "",
+      "remaining_slots": "1",
+      "register_url": "",
+      "image": {
+        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
+        "local_path": "images/events/event_0_grupo-ahava.webp",
+        "width": 1350,
+        "height": 1687,
+        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
+      },
+      "schedule": [],
+      "address": "PARÓQUIA",
+      "day_of_week": ""
+    },
+    {
+      "id": "5762",
       "title": "Adoração Silenciosa com momentos de oração",
-      "date_time": "Ocorrerá em 03/09 às 09:00",
+      "date_time": "Ocorrerá em 10/09 às 09:00",
       "duration": "10h 00m",
       "location": "Paróquia Mãe da Divina Providência",
       "description": "Momento de adoração silenciosa e oração",
@@ -13,7 +33,7 @@
       "register_url": "",
       "image": {
         "original_url": "https://assets.ofertorio.com/24/2cba4f3fbc2f4a0056fdc8dbd51f1a26.jpeg",
-        "local_path": "images/events/event_0_adoracao-silenciosa-com-momentos-de-oracao.webp",
+        "local_path": "images/events/event_1_adoracao-silenciosa-com-momentos-de-oracao.webp",
         "width": 1080,
         "height": 1080,
         "extracted_text": "Adoração\nSILENCIOSA COM\nMOMENTOS DE ORAÇÃO\nToda quinta-feira\n9h\nExposição com breves atos\ne cantos de louvores\n12h\nAngelus / Liturgia das Horas\n15h\nTerço da Misericórdia\n18h\nTerço Mariano\n19h\nSanta Missa\nParóquia Mãe da Divina\nProvidência\n(Rua José Nogueira Franco, 435)\n@paroquiamdprovidencia\nwww.mdprouidencia.com.br\nPARÓQUIA\nMãe da Divina\nProvidência"
@@ -27,46 +47,6 @@
       ],
       "address": "Paróquia Mãe da Divina Providência (Rua José Nogueira Franco, 435)",
       "day_of_week": "Toda quinta-feira"
-    },
-    {
-      "id": "5761",
-      "title": "Missa e Novena ao Sagrado Coração de Jesus",
-      "date_time": "Ocorrerá em 04/09 às 19:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/304af3d2a66834ea8342f573ff999dfe.jpg",
-        "local_path": "images/events/event_1_missa-e-novena-ao-sagrado-coracao-de-jesus.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Missa e novena ao\nSagrado\nCoração\nde Jesus\nTODA PRIMEIRA\nSEXTA-FEIRA DO MÊS\n19h\nParóquia Mãe da\nDivina Providência\nRua José Nogueira Franco, 435\nCoração de Jesus, abrasado\nde amor por nós, inflamai\nnosso coração de amor por Vós\"\nMãe da Divina\nProvidência\n@maedadivinaprovidencialondrina\nwww.mdprovidencia.com.br"
-      },
-      "schedule": ["19h    Par\u00f3quia M\u00e3e da"],
-      "address": "Rua José Nogueira Franco, 435",
-      "day_of_week": ""
-    },
-    {
-      "id": "5745",
-      "title": "Grupo AHAVA",
-      "date_time": "Ocorrerá em 06/09 às 17:00",
-      "duration": "",
-      "location": "",
-      "description": "",
-      "remaining_slots": "1",
-      "register_url": "",
-      "image": {
-        "original_url": "https://assets.ofertorio.com/24/58a96df0e0e369158185c381d1c93645.jpg",
-        "local_path": "images/events/event_2_grupo-ahava.webp",
-        "width": 1350,
-        "height": 1687,
-        "extracted_text": "Grupo de\nAdolescentes\nAHAVA\nAos domingos, após\na missa das 17h\nLOCAL:\nNa sala da Madre\nVenha participar\nconosco!\nPARÓQUIA\nMãe da Divina\nProvidência"
-      },
-      "schedule": [],
-      "address": "PARÓQUIA",
-      "day_of_week": ""
     }
   ]
 }
