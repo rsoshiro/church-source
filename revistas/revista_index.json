@@ -1,8 +1,22 @@
 {
-  "last_updated": "2026-09-27T09:14:10.602050Z",
-  "version": 84,
-  "total_magazines": 13,
+  "last_updated": "2026-09-28T07:54:02.313492Z",
+  "version": 85,
+  "total_magazines": 14,
   "magazines": [
+    {
+      "edition": "14",
+      "title": "Revista Vinho Novo",
+      "subtitle": "Edição 14",
+      "directory": "REVISTA_VINHO_NOVO_ED_14_JULHO_E_AGOSTO_DE_2026",
+      "created_date": "2026-09-28T07:54:01.642005Z",
+      "modified_date": "2026-09-28T07:54:02.217172Z",
+      "page_count": 20,
+      "has_sponsors": true,
+      "preview_image": "pagina_1.jpg",
+      "content_hash": "09520426fc009be39f74f614a0a5db62",
+      "total_size_mb": 8.84,
+      "sponsor_count": 19
+    },
     {
       "edition": "13",
       "title": "Revista Vinho Novo",
