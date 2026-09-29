@@ -1,0 +1,277 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Uma Imagem, Um Gesto de Amor — Paróquia Mãe da Divina Providência</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --gold: #C9A84C;
+      --gold-light: #E8C97A;
+      --gold-dark: #8A6820;
+      --bg: #111318;
+      --bg2: #1a1d25;
+      --bg3: #22262f;
+      --text: #f0ece3;
+      --text-muted: #a09880;
+      --radius: 16px;
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+    .hero {
+      position: relative;
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      padding: 40px 24px 56px;
+      text-align: center;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 80% 60% at 30% 50%, rgba(201,168,76,0.12) 0%, transparent 65%),
+                  radial-gradient(ellipse 50% 80% at 70% 50%, rgba(100,80,30,0.08) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .hero-statue {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 85%;
+      max-height: 580px;
+      object-fit: contain;
+      object-position: bottom left;
+      opacity: 0.18;
+      filter: brightness(1.4) contrast(0.8);
+      pointer-events: none;
+      user-select: none;
+    }
+    .hero-content { position: relative; z-index: 2; max-width: 460px; }
+    .hero-eyebrow {
+      font-size: 11px; font-weight: 600; letter-spacing: 3px;
+      text-transform: uppercase; color: var(--gold); margin-bottom: 16px;
+    }
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(36px, 10vw, 64px);
+      line-height: 1.05; color: var(--text); margin-bottom: 8px;
+    }
+    .hero-title span { color: var(--gold-light); display: block; font-style: italic; }
+    .hero-subtitle {
+      font-size: 14px; color: var(--text-muted); line-height: 1.65;
+      margin-top: 20px; margin-bottom: 32px; font-weight: 300;
+    }
+    .hero-divider {
+      width: 48px; height: 2px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: 0 auto 28px;
+    }
+    .campaign-box {
+      background: linear-gradient(135deg, rgba(201,168,76,0.12), rgba(201,168,76,0.05));
+      border: 1px solid rgba(201,168,76,0.25);
+      border-radius: var(--radius);
+      padding: 20px 24px; margin-bottom: 28px; text-align: left;
+    }
+    .campaign-box p { font-size: 15px; line-height: 1.7; color: var(--text); }
+    .campaign-box strong { color: var(--gold-light); font-size: 18px; }
+    .campaign-size { font-size: 13px; color: var(--text-muted); margin-top: 8px; }
+    .btn-primary {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      color: #1a1200; font-family: 'Inter', sans-serif; font-size: 15px;
+      font-weight: 700; padding: 16px 32px; border-radius: 50px;
+      text-decoration: none; border: none; cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      box-shadow: 0 4px 24px rgba(201,168,76,0.3);
+      width: 100%; justify-content: center;
+    }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 32px rgba(201,168,76,0.45); }
+    .section-header { padding: 52px 24px 24px; text-align: center; }
+    .section-label {
+      font-size: 11px; font-weight: 600; letter-spacing: 3px;
+      text-transform: uppercase; color: var(--gold); margin-bottom: 10px;
+    }
+    .section-title { font-family: 'Playfair Display', serif; font-size: clamp(22px, 5vw, 32px); color: var(--text); }
+    .section-desc { font-size: 14px; color: var(--text-muted); margin-top: 8px; line-height: 1.6; }
+    .section-line {
+      width: 40px; height: 2px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: 20px auto 0;
+    }
+    #mural-section { padding: 0 16px 60px; }
+    #mural-loading {
+      display: flex; flex-direction: column; align-items: center;
+      gap: 14px; padding: 48px 24px; color: var(--text-muted); font-size: 14px;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid rgba(201,168,76,0.2);
+      border-top-color: var(--gold); border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #mural-empty {
+      display: none; text-align: center; padding: 48px 24px;
+      color: var(--text-muted); font-size: 14px; line-height: 1.7;
+    }
+    .mural-grid { columns: 2 160px; column-gap: 12px; max-width: 640px; margin: 0 auto; }
+    .mural-item {
+      break-inside: avoid; background: var(--bg2); border-radius: 12px;
+      overflow: hidden; margin-bottom: 12px; border: 1px solid rgba(255,255,255,0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease; cursor: pointer;
+    }
+    .mural-item:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0,0,0,0.4); }
+    .mural-item img { width: 100%; display: block; background: var(--bg3); aspect-ratio: 3/4; object-fit: cover; }
+    .mural-item .mural-text {
+      padding: 10px 12px; font-size: 12px; line-height: 1.6;
+      color: var(--text-muted); white-space: pre-wrap;
+    }
+    .mural-item .mural-text::before {
+      content: '\201C'; font-size: 18px; line-height: 0;
+      vertical-align: -0.3em; color: var(--gold); margin-right: 2px;
+    }
+    .lb {
+      position: fixed; inset: 0; z-index: 100; background: rgba(5,6,10,0.96);
+      display: none; flex-direction: column; align-items: center;
+      justify-content: center; padding: 60px 16px 24px;
+    }
+    .lb.on { display: flex; }
+    .lb img { max-width: 100%; max-height: 65vh; object-fit: contain; border-radius: 12px; }
+    .lb-text {
+      font-size: 14px; line-height: 1.6; color: #c8c0b0; max-width: 480px;
+      text-align: center; margin-top: 16px; max-height: 20vh; overflow-y: auto; white-space: pre-wrap;
+    }
+    .lb-counter {
+      position: absolute; top: 16px; left: 0; right: 0;
+      text-align: center; font-size: 12px; color: var(--text-muted);
+    }
+    .lb-close {
+      position: absolute; top: 12px; right: 14px;
+      background: rgba(255,255,255,0.1); border: none; color: #fff;
+      width: 40px; height: 40px; border-radius: 50%; font-size: 20px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .lb-prev, .lb-next {
+      position: absolute; top: 50%; transform: translateY(-50%);
+      background: rgba(255,255,255,0.1); border: none; color: #fff;
+      width: 44px; height: 44px; border-radius: 50%; font-size: 22px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .lb-prev { left: 10px; } .lb-next { right: 10px; }
+    footer { text-align: center; padding: 24px 16px 40px; border-top: 1px solid rgba(255,255,255,0.06); }
+    footer p { font-size: 12px; color: var(--text-muted); line-height: 1.8; }
+    footer a { color: var(--gold); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <img class="hero-statue" src="https://raw.githubusercontent.com/rsoshiro/church-source/main/padroeira-1.webp" alt="" aria-hidden="true" />
+    <div class="hero-content">
+      <p class="hero-eyebrow">Campanha — 2ª Fase de Ampliação</p>
+      <h1 class="hero-title">Uma Imagem,<span>Um Gesto<br/>de Amor</span></h1>
+      <div class="hero-divider"></div>
+      <div class="campaign-box">
+        <p>A cada <strong>R$ 300,00</strong> de contribuição para a ampliação da nossa Paróquia, você receberá uma réplica da imagem de nossa Padroeira.</p>
+        <p class="campaign-size">Tamanho: <strong>30 cm</strong></p>
+      </div>
+      <p class="hero-subtitle">Conheçam e divulguem esta campanha.<br/>Sua generosidade constrói a Casa de Deus.</p>
+      <a href="https://paroquia.vandemirsistemas.com.br/index.php?r=ar_mural&k=219ef0b8d8139109" target="_blank" rel="noopener" class="btn-primary">✦ &nbsp;Participar da Campanha</a>
+    </div>
+  </section>
+  <div class="section-header">
+    <p class="section-label">Comunidade</p>
+    <h2 class="section-title">Quem já participou</h2>
+    <p class="section-desc">Cada imagem é um gesto de amor que fica na história da nossa Paróquia.</p>
+    <div class="section-line"></div>
+  </div>
+  <section id="mural-section">
+    <div id="mural-loading"><div class="spinner"></div><p>Carregando participantes…</p></div>
+    <div id="mural-empty"><p>🕊️ Em breve as primeiras famílias participantes aparecerão aqui.</p></div>
+    <div class="mural-grid" id="mural-grid" style="display:none;"></div>
+  </section>
+  <footer>
+    <p>
+      Paróquia Mãe da Divina Providência · Londrina/PR<br/>
+      <a href="https://www.instagram.com/maedadivinaprovidencialondrina/" target="_blank">@maedadivinaprovidencialondrina</a>
+      &nbsp;·&nbsp;
+      <a href="https://mdprovidencia.com.br" target="_blank">mdprovidencia.com.br</a>
+    </p>
+  </footer>
+  <div class="lb" id="lb" role="dialog" aria-modal="true">
+    <p class="lb-counter" id="lb-counter"></p>
+    <button class="lb-close" id="lb-close" aria-label="Fechar">✕</button>
+    <button class="lb-prev" id="lb-prev" aria-label="Anterior">‹</button>
+    <img id="lb-img" src="" alt="Participante da campanha" />
+    <p class="lb-text" id="lb-text"></p>
+    <button class="lb-next" id="lb-next" aria-label="Próximo">›</button>
+  </div>
+  <script>
+    const WORKER_URL = 'https://mural-proxy.rsoshiro.workers.dev/mural';
+    let allItems = [];
+    let lbIndex = 0;
+    async function loadMural() {
+      try {
+        const res = await fetch(WORKER_URL, { signal: AbortSignal.timeout(10000) });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        allItems = data.items || [];
+        renderMural(allItems);
+      } catch (err) {
+        document.getElementById('mural-loading').style.display = 'none';
+        document.getElementById('mural-empty').style.display = 'block';
+      }
+    }
+    function escHtml(str) {
+      return String(str).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+    function renderMural(items) {
+      document.getElementById('mural-loading').style.display = 'none';
+      if (!items.length) { document.getElementById('mural-empty').style.display = 'block'; return; }
+      const grid = document.getElementById('mural-grid');
+      grid.style.display = '';
+      items.forEach(function(item, i) {
+        var div = document.createElement('div');
+        div.className = 'mural-item';
+        div.innerHTML = '<img src="' + escHtml(item.img) + '" alt="Participante ' + (i+1) + '" loading="lazy" />' +
+          (item.text ? '<p class="mural-text">' + escHtml(item.text) + '</p>' : '');
+        div.addEventListener('click', function() { openLb(i); });
+        grid.appendChild(div);
+      });
+    }
+    function openLb(index) { lbIndex = index; updateLb(); document.getElementById('lb').classList.add('on'); document.body.style.overflow = 'hidden'; }
+    function closeLb() { document.getElementById('lb').classList.remove('on'); document.body.style.overflow = ''; }
+    function updateLb() {
+      var item = allItems[lbIndex];
+      document.getElementById('lb-img').src = item.img;
+      document.getElementById('lb-text').textContent = item.text || '';
+      document.getElementById('lb-counter').textContent = (lbIndex + 1) + ' / ' + allItems.length;
+    }
+    document.getElementById('lb-close').addEventListener('click', closeLb);
+    document.getElementById('lb').addEventListener('click', function(e) { if (e.target === e.currentTarget) closeLb(); });
+    document.getElementById('lb-prev').addEventListener('click', function() { lbIndex = (lbIndex - 1 + allItems.length) % allItems.length; updateLb(); });
+    document.getElementById('lb-next').addEventListener('click', function() { lbIndex = (lbIndex + 1) % allItems.length; updateLb(); });
+    document.addEventListener('keydown', function(e) {
+      if (!document.getElementById('lb').classList.contains('on')) return;
+      if (e.key === 'Escape') closeLb();
+      if (e.key === 'ArrowLeft') { lbIndex = (lbIndex - 1 + allItems.length) % allItems.length; updateLb(); }
+      if (e.key === 'ArrowRight') { lbIndex = (lbIndex + 1) % allItems.length; updateLb(); }
+    });
+    loadMural();
+  </script>
+</body>
+</html>
